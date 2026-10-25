@@ -1,0 +1,10202 @@
+{
+  "G01Q01": {
+    "easy": {
+      "start": 2,
+      "length": 2,
+      "answer": "am",
+      "distractors": [
+        "is",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q02": {
+    "easy": {
+      "start": 4,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q03": {
+    "easy": {
+      "start": 3,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q04": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G01Q05": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G01Q06": {
+    "easy": {
+      "start": 5,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q07": {
+    "easy": {
+      "start": 8,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q08": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G01Q09": {
+    "easy": {
+      "start": 14,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G01Q10": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G02Q01": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q02": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q03": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q04": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q05": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q06": {
+    "easy": {
+      "start": 9,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q07": {
+    "easy": {
+      "start": 12,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q08": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q09": {
+    "easy": {
+      "start": 16,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G02Q10": {
+    "easy": {
+      "start": 14,
+      "length": 3,
+      "answer": "not",
+      "distractors": [
+        "no",
+        "none",
+        "nothing"
+      ]
+    },
+    "hardDistractors": [
+      "no",
+      "does",
+      "being"
+    ]
+  },
+  "G03Q01": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G03Q02": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G03Q03": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G03Q04": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G03Q05": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G03Q06": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G03Q07": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G03Q08": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G03Q09": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G03Q10": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G04Q01": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "play",
+      "distractors": [
+        "plays",
+        "played",
+        "playing"
+      ]
+    },
+    "hardDistractors": [
+      "plays",
+      "played",
+      "playing"
+    ]
+  },
+  "G04Q02": {
+    "easy": {
+      "start": 3,
+      "length": 5,
+      "answer": "study",
+      "distractors": [
+        "studies",
+        "studied",
+        "studying"
+      ]
+    },
+    "hardDistractors": [
+      "studies",
+      "studied",
+      "studying"
+    ]
+  },
+  "G04Q03": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "live",
+      "distractors": [
+        "lives",
+        "lived",
+        "living"
+      ]
+    },
+    "hardDistractors": [
+      "lives",
+      "lived",
+      "does"
+    ]
+  },
+  "G04Q04": {
+    "easy": {
+      "start": 4,
+      "length": 5,
+      "answer": "speak",
+      "distractors": [
+        "speaks",
+        "spoke",
+        "speaking"
+      ]
+    },
+    "hardDistractors": [
+      "speaks",
+      "spoke",
+      "speaking"
+    ]
+  },
+  "G04Q05": {
+    "easy": {
+      "start": 2,
+      "length": 5,
+      "answer": "drink",
+      "distractors": [
+        "drinks",
+        "drank",
+        "drinking"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G04Q06": {
+    "easy": {
+      "start": 3,
+      "length": 5,
+      "answer": "watch",
+      "distractors": [
+        "watches",
+        "watched",
+        "watching"
+      ]
+    },
+    "hardDistractors": [
+      "watches",
+      "watched",
+      "watching"
+    ]
+  },
+  "G04Q07": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "walk",
+      "distractors": [
+        "walks",
+        "walked",
+        "walking"
+      ]
+    },
+    "hardDistractors": [
+      "walked",
+      "walking",
+      "does"
+    ]
+  },
+  "G04Q08": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "love",
+      "distractors": [
+        "loves",
+        "loved",
+        "loving"
+      ]
+    },
+    "hardDistractors": [
+      "loved",
+      "does",
+      "being"
+    ]
+  },
+  "G04Q09": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "know",
+      "distractors": [
+        "knows",
+        "knew",
+        "knowing"
+      ]
+    },
+    "hardDistractors": [
+      "knows",
+      "knew",
+      "knowing"
+    ]
+  },
+  "G04Q10": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "need",
+      "distractors": [
+        "needs",
+        "needed",
+        "needing"
+      ]
+    },
+    "hardDistractors": [
+      "needs",
+      "does",
+      "being"
+    ]
+  },
+  "G05Q01": {
+    "easy": {
+      "start": 4,
+      "length": 5,
+      "answer": "plays",
+      "distractors": [
+        "play",
+        "played",
+        "playing"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "played",
+      "playing"
+    ]
+  },
+  "G05Q02": {
+    "easy": {
+      "start": 3,
+      "length": 7,
+      "answer": "studies",
+      "distractors": [
+        "study",
+        "studied",
+        "studying"
+      ]
+    },
+    "hardDistractors": [
+      "study",
+      "studied",
+      "studying"
+    ]
+  },
+  "G05Q03": {
+    "easy": {
+      "start": 7,
+      "length": 5,
+      "answer": "likes",
+      "distractors": [
+        "like",
+        "liked",
+        "liking"
+      ]
+    },
+    "hardDistractors": [
+      "like",
+      "does",
+      "being"
+    ]
+  },
+  "G05Q04": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "goes",
+      "distractors": [
+        "go",
+        "went",
+        "going"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "went",
+      "going"
+    ]
+  },
+  "G05Q05": {
+    "easy": {
+      "start": 10,
+      "length": 5,
+      "answer": "cooks",
+      "distractors": [
+        "cook",
+        "cooked",
+        "cooking"
+      ]
+    },
+    "hardDistractors": [
+      "cook",
+      "cooked",
+      "cooking"
+    ]
+  },
+  "G05Q06": {
+    "easy": {
+      "start": 8,
+      "length": 5,
+      "answer": "rises",
+      "distractors": [
+        "rise",
+        "rose",
+        "rising"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G05Q07": {
+    "easy": {
+      "start": 4,
+      "length": 7,
+      "answer": "watches",
+      "distractors": [
+        "watch",
+        "watchs",
+        "watchies"
+      ]
+    },
+    "hardDistractors": [
+      "watch",
+      "does",
+      "being"
+    ]
+  },
+  "G05Q08": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G05Q09": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G05Q10": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "teaches",
+      "distractors": [
+        "teach",
+        "taught",
+        "teaching"
+      ]
+    },
+    "hardDistractors": [
+      "taught",
+      "does",
+      "being"
+    ]
+  },
+  "G06Q01": {
+    "easy": {
+      "start": 2,
+      "length": 2,
+      "answer": "do",
+      "distractors": [
+        "does",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q02": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q03": {
+    "easy": {
+      "start": 3,
+      "length": 2,
+      "answer": "do",
+      "distractors": [
+        "does",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q04": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q05": {
+    "easy": {
+      "start": 5,
+      "length": 2,
+      "answer": "do",
+      "distractors": [
+        "does",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q06": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q07": {
+    "easy": {
+      "start": 2,
+      "length": 2,
+      "answer": "do",
+      "distractors": [
+        "does",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q08": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q09": {
+    "easy": {
+      "start": 4,
+      "length": 2,
+      "answer": "do",
+      "distractors": [
+        "does",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "did",
+      "doing"
+    ]
+  },
+  "G06Q10": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "does",
+      "distractors": [
+        "do",
+        "did",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "did",
+      "doing"
+    ]
+  },
+  "G07Q01": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Do",
+      "distractors": [
+        "Does",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Does",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q02": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Does",
+      "distractors": [
+        "Do",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q03": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Do",
+      "distractors": [
+        "Does",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Does",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q04": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Does",
+      "distractors": [
+        "Do",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q05": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Do",
+      "distractors": [
+        "Does",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Does",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q06": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Does",
+      "distractors": [
+        "Do",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q07": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Do",
+      "distractors": [
+        "Does",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Does",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q08": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Does",
+      "distractors": [
+        "Do",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q09": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Do",
+      "distractors": [
+        "Does",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Does",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G07Q10": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Does",
+      "distractors": [
+        "Do",
+        "Did",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Did",
+      "Doing"
+    ]
+  },
+  "G08Q01": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "What",
+      "distractors": [
+        "Who",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q02": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Who",
+      "distractors": [
+        "What",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "What",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q03": {
+    "easy": {
+      "start": 0,
+      "length": 5,
+      "answer": "Where",
+      "distractors": [
+        "Who",
+        "What",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "What",
+      "When"
+    ]
+  },
+  "G08Q04": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "What",
+      "distractors": [
+        "Who",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q05": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Who",
+      "distractors": [
+        "What",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "What",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q06": {
+    "easy": {
+      "start": 0,
+      "length": 5,
+      "answer": "Where",
+      "distractors": [
+        "Who",
+        "What",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "What",
+      "When"
+    ]
+  },
+  "G08Q07": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "What",
+      "distractors": [
+        "Who",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q08": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Who",
+      "distractors": [
+        "What",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "What",
+      "Where",
+      "When"
+    ]
+  },
+  "G08Q09": {
+    "easy": {
+      "start": 0,
+      "length": 5,
+      "answer": "Where",
+      "distractors": [
+        "Who",
+        "What",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "What",
+      "When"
+    ]
+  },
+  "G08Q10": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "What",
+      "distractors": [
+        "Who",
+        "Where",
+        "When"
+      ]
+    },
+    "hardDistractors": [
+      "Who",
+      "Where",
+      "When"
+    ]
+  },
+  "G09Q01": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "When",
+      "distractors": [
+        "Why",
+        "How",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "Why",
+      "How",
+      "Where"
+    ]
+  },
+  "G09Q02": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Why",
+      "distractors": [
+        "When",
+        "Where",
+        "How"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Where",
+      "How"
+    ]
+  },
+  "G09Q03": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "How",
+      "distractors": [
+        "When",
+        "Why",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Why",
+      "Where"
+    ]
+  },
+  "G09Q04": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "When",
+      "distractors": [
+        "Why",
+        "How",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "Why",
+      "How",
+      "Where"
+    ]
+  },
+  "G09Q05": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Why",
+      "distractors": [
+        "When",
+        "Where",
+        "How"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Where",
+      "How"
+    ]
+  },
+  "G09Q06": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "How",
+      "distractors": [
+        "When",
+        "Why",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Why",
+      "Where"
+    ]
+  },
+  "G09Q07": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "When",
+      "distractors": [
+        "Why",
+        "How",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "Why",
+      "How",
+      "Where"
+    ]
+  },
+  "G09Q08": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Why",
+      "distractors": [
+        "When",
+        "Where",
+        "How"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Where",
+      "How"
+    ]
+  },
+  "G09Q09": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "How",
+      "distractors": [
+        "When",
+        "Why",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "When",
+      "Why",
+      "Where"
+    ]
+  },
+  "G09Q10": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "When",
+      "distractors": [
+        "Why",
+        "How",
+        "Where"
+      ]
+    },
+    "hardDistractors": [
+      "Why",
+      "How",
+      "Where"
+    ]
+  },
+  "G10Q01": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Open",
+      "distractors": [
+        "Opens",
+        "Opened",
+        "Opening"
+      ]
+    },
+    "hardDistractors": [
+      "Opens",
+      "Opened",
+      "Opening"
+    ]
+  },
+  "G10Q02": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "sit",
+      "distractors": [
+        "sits",
+        "sat",
+        "sitting"
+      ]
+    },
+    "hardDistractors": [
+      "sitting",
+      "does",
+      "being"
+    ]
+  },
+  "G10Q03": {
+    "easy": {
+      "start": 7,
+      "length": 5,
+      "answer": "touch",
+      "distractors": [
+        "touches",
+        "touched",
+        "touching"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G10Q04": {
+    "easy": {
+      "start": 0,
+      "length": 6,
+      "answer": "Listen",
+      "distractors": [
+        "Listens",
+        "Listened",
+        "Listening"
+      ]
+    },
+    "hardDistractors": [
+      "Listens",
+      "Listening",
+      "does"
+    ]
+  },
+  "G10Q05": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Be",
+      "distractors": [
+        "Is",
+        "Was",
+        "Being"
+      ]
+    },
+    "hardDistractors": [
+      "Is",
+      "Was",
+      "Being"
+    ]
+  },
+  "G10Q06": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Turn",
+      "distractors": [
+        "Turns",
+        "Turned",
+        "Turning"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G10Q07": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "wait",
+      "distractors": [
+        "waits",
+        "waited",
+        "waiting"
+      ]
+    },
+    "hardDistractors": [
+      "waited",
+      "waiting",
+      "does"
+    ]
+  },
+  "G10Q08": {
+    "easy": {
+      "start": 7,
+      "length": 6,
+      "answer": "forget",
+      "distractors": [
+        "forgets",
+        "forgot",
+        "forgetting"
+      ]
+    },
+    "hardDistractors": [
+      "forgot",
+      "does",
+      "being"
+    ]
+  },
+  "G10Q09": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Keep",
+      "distractors": [
+        "Keeps",
+        "Kept",
+        "Keeping"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G10Q10": {
+    "easy": {
+      "start": 0,
+      "length": 5,
+      "answer": "Enjoy",
+      "distractors": [
+        "Enjoys",
+        "Enjoyed",
+        "Enjoying"
+      ]
+    },
+    "hardDistractors": [
+      "Enjoyed",
+      "does",
+      "being"
+    ]
+  },
+  "G11Q01": {
+    "easy": {
+      "start": 2,
+      "length": 3,
+      "answer": "can",
+      "distractors": [
+        "cans",
+        "canning",
+        "canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q02": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "can",
+      "distractors": [
+        "cans",
+        "canning",
+        "canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q03": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Can",
+      "distractors": [
+        "Cans",
+        "Canning",
+        "Canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q04": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "cannot",
+      "distractors": [
+        "cannots",
+        "cannot to",
+        "not can"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q05": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "can",
+      "distractors": [
+        "cans",
+        "canning",
+        "canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q06": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Can",
+      "distractors": [
+        "Cans",
+        "Canning",
+        "Canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q07": {
+    "easy": {
+      "start": 10,
+      "length": 3,
+      "answer": "can",
+      "distractors": [
+        "cans",
+        "canning",
+        "canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q08": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "can",
+      "distractors": [
+        "cans",
+        "canning",
+        "canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q09": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Can",
+      "distractors": [
+        "Cans",
+        "Canning",
+        "Canned"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G11Q10": {
+    "easy": {
+      "start": 2,
+      "length": 6,
+      "answer": "cannot",
+      "distractors": [
+        "cannots",
+        "cannot to",
+        "not can"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G12Q01": {
+    "easy": {
+      "start": 5,
+      "length": 7,
+      "answer": "reading",
+      "distractors": [
+        "read",
+        "reads",
+        "readed"
+      ]
+    },
+    "hardDistractors": [
+      "read",
+      "does",
+      "being"
+    ]
+  },
+  "G12Q02": {
+    "easy": {
+      "start": 7,
+      "length": 7,
+      "answer": "cooking",
+      "distractors": [
+        "cook",
+        "cooks",
+        "cooked"
+      ]
+    },
+    "hardDistractors": [
+      "cook",
+      "cooks",
+      "cooked"
+    ]
+  },
+  "G12Q03": {
+    "easy": {
+      "start": 9,
+      "length": 7,
+      "answer": "playing",
+      "distractors": [
+        "play",
+        "plays",
+        "played"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "played"
+    ]
+  },
+  "G12Q04": {
+    "easy": {
+      "start": 10,
+      "length": 8,
+      "answer": "sleeping",
+      "distractors": [
+        "sleep",
+        "sleeps",
+        "slept"
+      ]
+    },
+    "hardDistractors": [
+      "sleep",
+      "sleeps",
+      "does"
+    ]
+  },
+  "G12Q05": {
+    "easy": {
+      "start": 8,
+      "length": 9,
+      "answer": "listening",
+      "distractors": [
+        "listen",
+        "listens",
+        "listened"
+      ]
+    },
+    "hardDistractors": [
+      "listen",
+      "listens",
+      "does"
+    ]
+  },
+  "G12Q06": {
+    "easy": {
+      "start": 7,
+      "length": 7,
+      "answer": "waiting",
+      "distractors": [
+        "wait",
+        "waits",
+        "waited"
+      ]
+    },
+    "hardDistractors": [
+      "wait",
+      "waited",
+      "does"
+    ]
+  },
+  "G12Q07": {
+    "easy": {
+      "start": 12,
+      "length": 6,
+      "answer": "crying",
+      "distractors": [
+        "cry",
+        "cries",
+        "cried"
+      ]
+    },
+    "hardDistractors": [
+      "cry",
+      "does",
+      "being"
+    ]
+  },
+  "G12Q08": {
+    "easy": {
+      "start": 15,
+      "length": 7,
+      "answer": "dancing",
+      "distractors": [
+        "dance",
+        "dances",
+        "danced"
+      ]
+    },
+    "hardDistractors": [
+      "dance",
+      "does",
+      "being"
+    ]
+  },
+  "G12Q09": {
+    "easy": {
+      "start": 6,
+      "length": 7,
+      "answer": "raining",
+      "distractors": [
+        "rain",
+        "rains",
+        "rained"
+      ]
+    },
+    "hardDistractors": [
+      "rain",
+      "rains",
+      "rained"
+    ]
+  },
+  "G12Q10": {
+    "easy": {
+      "start": 13,
+      "length": 5,
+      "answer": "doing",
+      "distractors": [
+        "do",
+        "does",
+        "did"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "did"
+    ]
+  },
+  "G13Q01": {
+    "easy": {
+      "start": 2,
+      "length": 3,
+      "answer": "was",
+      "distractors": [
+        "were",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "were",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q02": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "was",
+      "distractors": [
+        "were",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "were",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q03": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "was",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "was",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q04": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "was",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "was",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q05": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Was",
+      "distractors": [
+        "Were",
+        "Be",
+        "Been"
+      ]
+    },
+    "hardDistractors": [
+      "Were",
+      "Be",
+      "Been"
+    ]
+  },
+  "G13Q06": {
+    "easy": {
+      "start": 12,
+      "length": 3,
+      "answer": "was",
+      "distractors": [
+        "were",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "were",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q07": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "was",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "was",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q08": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "was",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "was",
+      "be",
+      "been"
+    ]
+  },
+  "G13Q09": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Were",
+      "distractors": [
+        "Was",
+        "Be",
+        "Been"
+      ]
+    },
+    "hardDistractors": [
+      "Was",
+      "Be",
+      "Been"
+    ]
+  },
+  "G13Q10": {
+    "easy": {
+      "start": 15,
+      "length": 3,
+      "answer": "was",
+      "distractors": [
+        "were",
+        "be",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "were",
+      "be",
+      "been"
+    ]
+  },
+  "G14Q01": {
+    "easy": {
+      "start": 2,
+      "length": 7,
+      "answer": "watched",
+      "distractors": [
+        "watch",
+        "watches",
+        "watching"
+      ]
+    },
+    "hardDistractors": [
+      "watch",
+      "watches",
+      "watching"
+    ]
+  },
+  "G14Q02": {
+    "easy": {
+      "start": 4,
+      "length": 7,
+      "answer": "visited",
+      "distractors": [
+        "visit",
+        "visits",
+        "visiting"
+      ]
+    },
+    "hardDistractors": [
+      "visit",
+      "does",
+      "being"
+    ]
+  },
+  "G14Q03": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "played",
+      "distractors": [
+        "play",
+        "plays",
+        "playing"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "playing"
+    ]
+  },
+  "G14Q04": {
+    "easy": {
+      "start": 3,
+      "length": 7,
+      "answer": "cleaned",
+      "distractors": [
+        "clean",
+        "cleans",
+        "cleaning"
+      ]
+    },
+    "hardDistractors": [
+      "clean",
+      "cleaning",
+      "does"
+    ]
+  },
+  "G14Q05": {
+    "easy": {
+      "start": 5,
+      "length": 7,
+      "answer": "studied",
+      "distractors": [
+        "study",
+        "studies",
+        "studying"
+      ]
+    },
+    "hardDistractors": [
+      "study",
+      "studies",
+      "studying"
+    ]
+  },
+  "G14Q06": {
+    "easy": {
+      "start": 2,
+      "length": 6,
+      "answer": "walked",
+      "distractors": [
+        "walk",
+        "walks",
+        "walking"
+      ]
+    },
+    "hardDistractors": [
+      "walk",
+      "walking",
+      "does"
+    ]
+  },
+  "G14Q07": {
+    "easy": {
+      "start": 4,
+      "length": 6,
+      "answer": "opened",
+      "distractors": [
+        "open",
+        "opens",
+        "opening"
+      ]
+    },
+    "hardDistractors": [
+      "open",
+      "opens",
+      "opening"
+    ]
+  },
+  "G14Q08": {
+    "easy": {
+      "start": 3,
+      "length": 7,
+      "answer": "enjoyed",
+      "distractors": [
+        "enjoy",
+        "enjoys",
+        "enjoying"
+      ]
+    },
+    "hardDistractors": [
+      "enjoy",
+      "does",
+      "being"
+    ]
+  },
+  "G14Q09": {
+    "easy": {
+      "start": 3,
+      "length": 7,
+      "answer": "carried",
+      "distractors": [
+        "carry",
+        "carries",
+        "carrying"
+      ]
+    },
+    "hardDistractors": [
+      "carry",
+      "does",
+      "being"
+    ]
+  },
+  "G14Q10": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "started",
+      "distractors": [
+        "start",
+        "starts",
+        "starting"
+      ]
+    },
+    "hardDistractors": [
+      "start",
+      "starts",
+      "does"
+    ]
+  },
+  "G15Q01": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "went",
+      "distractors": [
+        "go",
+        "goes",
+        "going"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "going"
+    ]
+  },
+  "G15Q02": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "ate",
+      "distractors": [
+        "eat",
+        "eats",
+        "eating"
+      ]
+    },
+    "hardDistractors": [
+      "eat",
+      "eating",
+      "does"
+    ]
+  },
+  "G15Q03": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "saw",
+      "distractors": [
+        "see",
+        "sees",
+        "seeing"
+      ]
+    },
+    "hardDistractors": [
+      "see",
+      "seeing",
+      "does"
+    ]
+  },
+  "G15Q04": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "bought",
+      "distractors": [
+        "buy",
+        "buys",
+        "buying"
+      ]
+    },
+    "hardDistractors": [
+      "buy",
+      "does",
+      "being"
+    ]
+  },
+  "G15Q05": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "came",
+      "distractors": [
+        "come",
+        "comes",
+        "coming"
+      ]
+    },
+    "hardDistractors": [
+      "come",
+      "does",
+      "being"
+    ]
+  },
+  "G15Q06": {
+    "easy": {
+      "start": 2,
+      "length": 5,
+      "answer": "found",
+      "distractors": [
+        "find",
+        "finds",
+        "finding"
+      ]
+    },
+    "hardDistractors": [
+      "find",
+      "does",
+      "being"
+    ]
+  },
+  "G15Q07": {
+    "easy": {
+      "start": 4,
+      "length": 5,
+      "answer": "wrote",
+      "distractors": [
+        "write",
+        "writes",
+        "writing"
+      ]
+    },
+    "hardDistractors": [
+      "write",
+      "writes",
+      "does"
+    ]
+  },
+  "G15Q08": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "took",
+      "distractors": [
+        "take",
+        "takes",
+        "taking"
+      ]
+    },
+    "hardDistractors": [
+      "take",
+      "taking",
+      "does"
+    ]
+  },
+  "G15Q09": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "gave",
+      "distractors": [
+        "give",
+        "gives",
+        "giving"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G15Q10": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G16Q01": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Did",
+      "distractors": [
+        "Do",
+        "Does",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Does",
+      "Doing"
+    ]
+  },
+  "G16Q02": {
+    "easy": {
+      "start": 2,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q03": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Did",
+      "distractors": [
+        "Do",
+        "Does",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Does",
+      "Doing"
+    ]
+  },
+  "G16Q04": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q05": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q06": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q07": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Did",
+      "distractors": [
+        "Do",
+        "Does",
+        "Doing"
+      ]
+    },
+    "hardDistractors": [
+      "Do",
+      "Does",
+      "Doing"
+    ]
+  },
+  "G16Q08": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q09": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G16Q10": {
+    "easy": {
+      "start": 2,
+      "length": 3,
+      "answer": "did",
+      "distractors": [
+        "do",
+        "does",
+        "doing"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "doing"
+    ]
+  },
+  "G17Q01": {
+    "easy": {
+      "start": 6,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G17Q02": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G17Q03": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "Is",
+      "distractors": [
+        "Am",
+        "Are",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Are",
+      "Be"
+    ]
+  },
+  "G17Q04": {
+    "easy": {
+      "start": 6,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G17Q05": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G17Q06": {
+    "easy": {
+      "start": 6,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G17Q07": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Are",
+      "distractors": [
+        "Am",
+        "Is",
+        "Be"
+      ]
+    },
+    "hardDistractors": [
+      "Am",
+      "Is",
+      "Be"
+    ]
+  },
+  "G17Q08": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G17Q09": {
+    "easy": {
+      "start": 6,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G17Q10": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "are",
+      "distractors": [
+        "am",
+        "is",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "is",
+      "be"
+    ]
+  },
+  "G18Q01": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "my",
+      "mine"
+    ]
+  },
+  "G18Q02": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "him",
+      "distractors": [
+        "he",
+        "his",
+        "himself"
+      ]
+    },
+    "hardDistractors": [
+      "he",
+      "his",
+      "does"
+    ]
+  },
+  "G18Q03": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "mine",
+      "distractors": [
+        "me",
+        "my",
+        "I"
+      ]
+    },
+    "hardDistractors": [
+      "me",
+      "my",
+      "I"
+    ]
+  },
+  "G18Q04": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "them",
+      "distractors": [
+        "they",
+        "their",
+        "theirs"
+      ]
+    },
+    "hardDistractors": [
+      "they",
+      "theirs",
+      "does"
+    ]
+  },
+  "G18Q05": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "hers",
+      "distractors": [
+        "her",
+        "she",
+        "herself"
+      ]
+    },
+    "hardDistractors": [
+      "her",
+      "she",
+      "does"
+    ]
+  },
+  "G18Q06": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "us",
+      "distractors": [
+        "we",
+        "our",
+        "ours"
+      ]
+    },
+    "hardDistractors": [
+      "we",
+      "our",
+      "does"
+    ]
+  },
+  "G18Q07": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "her",
+      "distractors": [
+        "she",
+        "hers",
+        "herself"
+      ]
+    },
+    "hardDistractors": [
+      "she",
+      "hers",
+      "does"
+    ]
+  },
+  "G18Q08": {
+    "easy": {
+      "start": 19,
+      "length": 3,
+      "answer": "his",
+      "distractors": [
+        "he",
+        "him",
+        "himself"
+      ]
+    },
+    "hardDistractors": [
+      "he",
+      "him",
+      "does"
+    ]
+  },
+  "G18Q09": {
+    "easy": {
+      "start": 29,
+      "length": 6,
+      "answer": "theirs",
+      "distractors": [
+        "they",
+        "them",
+        "their"
+      ]
+    },
+    "hardDistractors": [
+      "they",
+      "them",
+      "does"
+    ]
+  },
+  "G18Q10": {
+    "easy": {
+      "start": 12,
+      "length": 3,
+      "answer": "you",
+      "distractors": [
+        "your",
+        "yours",
+        "yourself"
+      ]
+    },
+    "hardDistractors": [
+      "your",
+      "yours",
+      "does"
+    ]
+  },
+  "G19Q01": {
+    "easy": {
+      "start": 11,
+      "length": 8,
+      "answer": "brothers",
+      "distractors": [
+        "brother",
+        "brotheres",
+        "brotheries"
+      ]
+    },
+    "hardDistractors": [
+      "brother",
+      "does",
+      "being"
+    ]
+  },
+  "G19Q02": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "boxes",
+      "distractors": [
+        "box",
+        "boxs",
+        "boxies"
+      ]
+    },
+    "hardDistractors": [
+      "box",
+      "does",
+      "being"
+    ]
+  },
+  "G19Q03": {
+    "easy": {
+      "start": 17,
+      "length": 7,
+      "answer": "dresses",
+      "distractors": [
+        "dress",
+        "dresss",
+        "dressies"
+      ]
+    },
+    "hardDistractors": [
+      "dress",
+      "does",
+      "being"
+    ]
+  },
+  "G19Q04": {
+    "easy": {
+      "start": 4,
+      "length": 8,
+      "answer": "children",
+      "distractors": [
+        "child",
+        "childs",
+        "childes"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G19Q05": {
+    "easy": {
+      "start": 11,
+      "length": 4,
+      "answer": "mice",
+      "distractors": [
+        "mouse",
+        "mouses",
+        "mices"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G19Q06": {
+    "easy": {
+      "start": 6,
+      "length": 8,
+      "answer": "tomatoes",
+      "distractors": [
+        "tomato",
+        "tomatos",
+        "tomatoies"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G19Q07": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "watches",
+      "distractors": [
+        "watch",
+        "watchs",
+        "watchies"
+      ]
+    },
+    "hardDistractors": [
+      "watch",
+      "does",
+      "being"
+    ]
+  },
+  "G19Q08": {
+    "easy": {
+      "start": 4,
+      "length": 5,
+      "answer": "women",
+      "distractors": [
+        "woman",
+        "womans",
+        "womens"
+      ]
+    },
+    "hardDistractors": [
+      "woman",
+      "does",
+      "being"
+    ]
+  },
+  "G19Q09": {
+    "easy": {
+      "start": 11,
+      "length": 8,
+      "answer": "potatoes",
+      "distractors": [
+        "potato",
+        "potatos",
+        "potatoies"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G19Q10": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "feet",
+      "distractors": [
+        "foot",
+        "foots",
+        "feets"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G20Q01": {
+    "easy": {
+      "start": 11,
+      "length": 2,
+      "answer": "on",
+      "distractors": [
+        "in",
+        "at",
+        "of"
+      ]
+    },
+    "hardDistractors": [
+      "in",
+      "at",
+      "of"
+    ]
+  },
+  "G20Q02": {
+    "easy": {
+      "start": 15,
+      "length": 2,
+      "answer": "in",
+      "distractors": [
+        "on",
+        "at",
+        "of"
+      ]
+    },
+    "hardDistractors": [
+      "on",
+      "at",
+      "of"
+    ]
+  },
+  "G20Q03": {
+    "easy": {
+      "start": 8,
+      "length": 2,
+      "answer": "at",
+      "distractors": [
+        "on",
+        "in",
+        "of"
+      ]
+    },
+    "hardDistractors": [
+      "on",
+      "in",
+      "of"
+    ]
+  },
+  "G20Q04": {
+    "easy": {
+      "start": 12,
+      "length": 5,
+      "answer": "under",
+      "distractors": [
+        "above",
+        "beside",
+        "behind"
+      ]
+    },
+    "hardDistractors": [
+      "above",
+      "behind",
+      "does"
+    ]
+  },
+  "G20Q05": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "near",
+      "distractors": [
+        "under",
+        "inside",
+        "above"
+      ]
+    },
+    "hardDistractors": [
+      "under",
+      "above",
+      "does"
+    ]
+  },
+  "G20Q06": {
+    "easy": {
+      "start": 8,
+      "length": 2,
+      "answer": "on",
+      "distractors": [
+        "in",
+        "at",
+        "of"
+      ]
+    },
+    "hardDistractors": [
+      "in",
+      "at",
+      "of"
+    ]
+  },
+  "G20Q07": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "above",
+      "distractors": [
+        "under",
+        "beside",
+        "behind"
+      ]
+    },
+    "hardDistractors": [
+      "under",
+      "behind",
+      "does"
+    ]
+  },
+  "G20Q08": {
+    "easy": {
+      "start": 11,
+      "length": 2,
+      "answer": "in",
+      "distractors": [
+        "on",
+        "at",
+        "of"
+      ]
+    },
+    "hardDistractors": [
+      "on",
+      "at",
+      "of"
+    ]
+  },
+  "G20Q09": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "between",
+      "distractors": [
+        "among",
+        "through",
+        "under"
+      ]
+    },
+    "hardDistractors": [
+      "through",
+      "under",
+      "does"
+    ]
+  },
+  "G20Q10": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "through",
+      "distractors": [
+        "around",
+        "behind",
+        "toward"
+      ]
+    },
+    "hardDistractors": [
+      "around",
+      "behind",
+      "does"
+    ]
+  },
+  "G21Q01": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q02": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q03": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q04": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q05": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Will",
+      "distractors": [
+        "Wills",
+        "Willing",
+        "Will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q06": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q07": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q08": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q09": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "will",
+      "distractors": [
+        "wills",
+        "willing",
+        "will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G21Q10": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Will",
+      "distractors": [
+        "Wills",
+        "Willing",
+        "Will to"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G22Q01": {
+    "easy": {
+      "start": 5,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q02": {
+    "easy": {
+      "start": 7,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q03": {
+    "easy": {
+      "start": 7,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q04": {
+    "easy": {
+      "start": 6,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q05": {
+    "easy": {
+      "start": 8,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q06": {
+    "easy": {
+      "start": 10,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q07": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q08": {
+    "easy": {
+      "start": 5,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q09": {
+    "easy": {
+      "start": 13,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G22Q10": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "going",
+      "distractors": [
+        "go",
+        "goes",
+        "gone"
+      ]
+    },
+    "hardDistractors": [
+      "go",
+      "goes",
+      "does"
+    ]
+  },
+  "G23Q01": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q02": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q03": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q04": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q05": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q06": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q07": {
+    "easy": {
+      "start": 4,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q08": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q09": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G23Q10": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "must",
+      "distractors": [
+        "musts",
+        "must to",
+        "musting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G24Q01": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q02": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q03": {
+    "easy": {
+      "start": 11,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q04": {
+    "easy": {
+      "start": 6,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q05": {
+    "easy": {
+      "start": 12,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "being"
+    ]
+  },
+  "G24Q06": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q07": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q08": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "being"
+    ]
+  },
+  "G24Q09": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G24Q10": {
+    "easy": {
+      "start": 11,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G25Q01": {
+    "easy": {
+      "start": 4,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q02": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q03": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q04": {
+    "easy": {
+      "start": 4,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q05": {
+    "easy": {
+      "start": 0,
+      "length": 6,
+      "answer": "Should",
+      "distractors": [
+        "Shoulds",
+        "Should to",
+        "Shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q06": {
+    "easy": {
+      "start": 4,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q07": {
+    "easy": {
+      "start": 5,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q08": {
+    "easy": {
+      "start": 4,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q09": {
+    "easy": {
+      "start": 3,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G25Q10": {
+    "easy": {
+      "start": 5,
+      "length": 6,
+      "answer": "should",
+      "distractors": [
+        "shoulds",
+        "should to",
+        "shoulding"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G26Q01": {
+    "easy": {
+      "start": 7,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q02": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q03": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "To",
+      "distractors": [
+        "For",
+        "Of",
+        "With"
+      ]
+    },
+    "hardDistractors": [
+      "For",
+      "Of",
+      "With"
+    ]
+  },
+  "G26Q04": {
+    "easy": {
+      "start": 11,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q05": {
+    "easy": {
+      "start": 8,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q06": {
+    "easy": {
+      "start": 7,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q07": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q08": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q09": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G26Q10": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q01": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q02": {
+    "easy": {
+      "start": 20,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q03": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q04": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q05": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q06": {
+    "easy": {
+      "start": 22,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q07": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q08": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "does"
+    ]
+  },
+  "G27Q09": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G27Q10": {
+    "easy": {
+      "start": 21,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q01": {
+    "easy": {
+      "start": 15,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q02": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q03": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q04": {
+    "easy": {
+      "start": 15,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q05": {
+    "easy": {
+      "start": 9,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q06": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q07": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q08": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q09": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G28Q10": {
+    "easy": {
+      "start": 11,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G29Q01": {
+    "easy": {
+      "start": 8,
+      "length": 7,
+      "answer": "reading",
+      "distractors": [
+        "read",
+        "reads",
+        "readed"
+      ]
+    },
+    "hardDistractors": [
+      "read",
+      "does",
+      "being"
+    ]
+  },
+  "G29Q02": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "cooking",
+      "distractors": [
+        "cook",
+        "cooks",
+        "cooked"
+      ]
+    },
+    "hardDistractors": [
+      "cook",
+      "cooks",
+      "cooked"
+    ]
+  },
+  "G29Q03": {
+    "easy": {
+      "start": 0,
+      "length": 8,
+      "answer": "Swimming",
+      "distractors": [
+        "Swim",
+        "Swims",
+        "Swam"
+      ]
+    },
+    "hardDistractors": [
+      "Swim",
+      "does",
+      "being"
+    ]
+  },
+  "G29Q04": {
+    "easy": {
+      "start": 12,
+      "length": 8,
+      "answer": "cleaning",
+      "distractors": [
+        "clean",
+        "cleans",
+        "cleaned"
+      ]
+    },
+    "hardDistractors": [
+      "clean",
+      "cleaned",
+      "does"
+    ]
+  },
+  "G29Q05": {
+    "easy": {
+      "start": 13,
+      "length": 8,
+      "answer": "speaking",
+      "distractors": [
+        "speak",
+        "speaks",
+        "spoke"
+      ]
+    },
+    "hardDistractors": [
+      "speak",
+      "speaks",
+      "spoke"
+    ]
+  },
+  "G29Q06": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "helping",
+      "distractors": [
+        "help",
+        "helps",
+        "helped"
+      ]
+    },
+    "hardDistractors": [
+      "help",
+      "helped",
+      "does"
+    ]
+  },
+  "G29Q07": {
+    "easy": {
+      "start": 19,
+      "length": 8,
+      "answer": "learning",
+      "distractors": [
+        "learn",
+        "learns",
+        "learned"
+      ]
+    },
+    "hardDistractors": [
+      "learn",
+      "learned",
+      "does"
+    ]
+  },
+  "G29Q08": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "talking",
+      "distractors": [
+        "talk",
+        "talks",
+        "talked"
+      ]
+    },
+    "hardDistractors": [
+      "talk",
+      "does",
+      "being"
+    ]
+  },
+  "G29Q09": {
+    "easy": {
+      "start": 11,
+      "length": 7,
+      "answer": "playing",
+      "distractors": [
+        "play",
+        "plays",
+        "played"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "played"
+    ]
+  },
+  "G29Q10": {
+    "easy": {
+      "start": 12,
+      "length": 6,
+      "answer": "taking",
+      "distractors": [
+        "take",
+        "takes",
+        "took"
+      ]
+    },
+    "hardDistractors": [
+      "take",
+      "took",
+      "does"
+    ]
+  },
+  "G30Q01": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "heavier",
+      "distractors": [
+        "heavy",
+        "heaviest",
+        "heavily"
+      ]
+    },
+    "hardDistractors": [
+      "heavy",
+      "does",
+      "being"
+    ]
+  },
+  "G30Q02": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "more",
+      "distractors": [
+        "most",
+        "much",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "most",
+      "much",
+      "many"
+    ]
+  },
+  "G30Q03": {
+    "easy": {
+      "start": 9,
+      "length": 6,
+      "answer": "colder",
+      "distractors": [
+        "cold",
+        "coldest",
+        "coldly"
+      ]
+    },
+    "hardDistractors": [
+      "cold",
+      "does",
+      "being"
+    ]
+  },
+  "G30Q04": {
+    "easy": {
+      "start": 9,
+      "length": 6,
+      "answer": "faster",
+      "distractors": [
+        "fast",
+        "fastest",
+        "fastly"
+      ]
+    },
+    "hardDistractors": [
+      "fast",
+      "fastest",
+      "does"
+    ]
+  },
+  "G30Q05": {
+    "easy": {
+      "start": 15,
+      "length": 6,
+      "answer": "easier",
+      "distractors": [
+        "easy",
+        "easiest",
+        "easily"
+      ]
+    },
+    "hardDistractors": [
+      "easiest",
+      "does",
+      "being"
+    ]
+  },
+  "G30Q06": {
+    "easy": {
+      "start": 11,
+      "length": 7,
+      "answer": "smaller",
+      "distractors": [
+        "small",
+        "smallest",
+        "smallly"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G30Q07": {
+    "easy": {
+      "start": 14,
+      "length": 4,
+      "answer": "more",
+      "distractors": [
+        "most",
+        "much",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "most",
+      "much",
+      "many"
+    ]
+  },
+  "G30Q08": {
+    "easy": {
+      "start": 6,
+      "length": 6,
+      "answer": "taller",
+      "distractors": [
+        "tall",
+        "tallest",
+        "tallly"
+      ]
+    },
+    "hardDistractors": [
+      "tall",
+      "tallest",
+      "does"
+    ]
+  },
+  "G30Q09": {
+    "easy": {
+      "start": 18,
+      "length": 7,
+      "answer": "cheaper",
+      "distractors": [
+        "cheap",
+        "cheapest",
+        "cheaply"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G30Q10": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "harder",
+      "distractors": [
+        "hard",
+        "hardest",
+        "hardly"
+      ]
+    },
+    "hardDistractors": [
+      "hard",
+      "does",
+      "being"
+    ]
+  },
+  "G31Q01": {
+    "easy": {
+      "start": 11,
+      "length": 7,
+      "answer": "tallest",
+      "distractors": [
+        "tall",
+        "taller",
+        "tallly"
+      ]
+    },
+    "hardDistractors": [
+      "tall",
+      "taller",
+      "does"
+    ]
+  },
+  "G31Q02": {
+    "easy": {
+      "start": 12,
+      "length": 4,
+      "answer": "most",
+      "distractors": [
+        "more",
+        "much",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "more",
+      "much",
+      "many"
+    ]
+  },
+  "G31Q03": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "fastest",
+      "distractors": [
+        "fast",
+        "faster",
+        "fastly"
+      ]
+    },
+    "hardDistractors": [
+      "fast",
+      "faster",
+      "does"
+    ]
+  },
+  "G31Q04": {
+    "easy": {
+      "start": 13,
+      "length": 7,
+      "answer": "hottest",
+      "distractors": [
+        "hot",
+        "hotter",
+        "hotly"
+      ]
+    },
+    "hardDistractors": [
+      "hot",
+      "does",
+      "being"
+    ]
+  },
+  "G31Q05": {
+    "easy": {
+      "start": 13,
+      "length": 8,
+      "answer": "funniest",
+      "distractors": [
+        "funny",
+        "funnier",
+        "funnily"
+      ]
+    },
+    "hardDistractors": [
+      "funny",
+      "does",
+      "being"
+    ]
+  },
+  "G31Q06": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "easiest",
+      "distractors": [
+        "easy",
+        "easier",
+        "easily"
+      ]
+    },
+    "hardDistractors": [
+      "easier",
+      "does",
+      "being"
+    ]
+  },
+  "G31Q07": {
+    "easy": {
+      "start": 25,
+      "length": 4,
+      "answer": "best",
+      "distractors": [
+        "good",
+        "better",
+        "well"
+      ]
+    },
+    "hardDistractors": [
+      "good",
+      "better",
+      "well"
+    ]
+  },
+  "G31Q08": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "most",
+      "distractors": [
+        "more",
+        "much",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "more",
+      "much",
+      "many"
+    ]
+  },
+  "G31Q09": {
+    "easy": {
+      "start": 11,
+      "length": 8,
+      "answer": "youngest",
+      "distractors": [
+        "young",
+        "younger",
+        "youngly"
+      ]
+    },
+    "hardDistractors": [
+      "young",
+      "does",
+      "being"
+    ]
+  },
+  "G31Q10": {
+    "easy": {
+      "start": 13,
+      "length": 5,
+      "answer": "worst",
+      "distractors": [
+        "bad",
+        "worse",
+        "badly"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G32Q01": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q02": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q03": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q04": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q05": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q06": {
+    "easy": {
+      "start": 9,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q07": {
+    "easy": {
+      "start": 6,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q08": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q09": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G32Q10": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "as",
+      "distractors": [
+        "than",
+        "more",
+        "to"
+      ]
+    },
+    "hardDistractors": [
+      "than",
+      "more",
+      "to"
+    ]
+  },
+  "G33Q01": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "because",
+      "distractors": [
+        "so",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "so",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q02": {
+    "easy": {
+      "start": 16,
+      "length": 2,
+      "answer": "so",
+      "distractors": [
+        "because",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "because",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q03": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "because",
+      "distractors": [
+        "so",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "so",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q04": {
+    "easy": {
+      "start": 20,
+      "length": 2,
+      "answer": "so",
+      "distractors": [
+        "because",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "because",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q05": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "because",
+      "distractors": [
+        "so",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "so",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q06": {
+    "easy": {
+      "start": 18,
+      "length": 2,
+      "answer": "so",
+      "distractors": [
+        "because",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "because",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q07": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "because",
+      "distractors": [
+        "so",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "so",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q08": {
+    "easy": {
+      "start": 24,
+      "length": 2,
+      "answer": "so",
+      "distractors": [
+        "because",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "because",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q09": {
+    "easy": {
+      "start": 17,
+      "length": 7,
+      "answer": "because",
+      "distractors": [
+        "so",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "so",
+      "does",
+      "being"
+    ]
+  },
+  "G33Q10": {
+    "easy": {
+      "start": 20,
+      "length": 2,
+      "answer": "so",
+      "distractors": [
+        "because",
+        "but",
+        "or"
+      ]
+    },
+    "hardDistractors": [
+      "because",
+      "does",
+      "being"
+    ]
+  },
+  "G34Q01": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "when",
+      "distractors": [
+        "why",
+        "how",
+        "where"
+      ]
+    },
+    "hardDistractors": [
+      "why",
+      "how",
+      "where"
+    ]
+  },
+  "G34Q02": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "If",
+      "distractors": [
+        "Though",
+        "Unless",
+        "Because"
+      ]
+    },
+    "hardDistractors": [
+      "Because",
+      "does",
+      "being"
+    ]
+  },
+  "G34Q03": {
+    "easy": {
+      "start": 12,
+      "length": 4,
+      "answer": "when",
+      "distractors": [
+        "why",
+        "how",
+        "where"
+      ]
+    },
+    "hardDistractors": [
+      "why",
+      "how",
+      "where"
+    ]
+  },
+  "G34Q04": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "If",
+      "distractors": [
+        "Though",
+        "Unless",
+        "Because"
+      ]
+    },
+    "hardDistractors": [
+      "Because",
+      "does",
+      "being"
+    ]
+  },
+  "G34Q05": {
+    "easy": {
+      "start": 20,
+      "length": 4,
+      "answer": "when",
+      "distractors": [
+        "why",
+        "how",
+        "where"
+      ]
+    },
+    "hardDistractors": [
+      "why",
+      "how",
+      "where"
+    ]
+  },
+  "G34Q06": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "If",
+      "distractors": [
+        "Though",
+        "Unless",
+        "Because"
+      ]
+    },
+    "hardDistractors": [
+      "Because",
+      "does",
+      "being"
+    ]
+  },
+  "G34Q07": {
+    "easy": {
+      "start": 16,
+      "length": 4,
+      "answer": "when",
+      "distractors": [
+        "why",
+        "how",
+        "where"
+      ]
+    },
+    "hardDistractors": [
+      "why",
+      "how",
+      "where"
+    ]
+  },
+  "G34Q08": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "If",
+      "distractors": [
+        "Though",
+        "Unless",
+        "Because"
+      ]
+    },
+    "hardDistractors": [
+      "Because",
+      "does",
+      "being"
+    ]
+  },
+  "G34Q09": {
+    "easy": {
+      "start": 15,
+      "length": 4,
+      "answer": "when",
+      "distractors": [
+        "why",
+        "how",
+        "where"
+      ]
+    },
+    "hardDistractors": [
+      "why",
+      "how",
+      "where"
+    ]
+  },
+  "G34Q10": {
+    "easy": {
+      "start": 0,
+      "length": 2,
+      "answer": "If",
+      "distractors": [
+        "Though",
+        "Unless",
+        "Because"
+      ]
+    },
+    "hardDistractors": [
+      "Because",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q01": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q02": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q03": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q04": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q05": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q06": {
+    "easy": {
+      "start": 11,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q07": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q08": {
+    "easy": {
+      "start": 12,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q09": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G35Q10": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G36Q01": {
+    "easy": {
+      "start": 6,
+      "length": 8,
+      "answer": "watching",
+      "distractors": [
+        "watch",
+        "watches",
+        "watched"
+      ]
+    },
+    "hardDistractors": [
+      "watch",
+      "watches",
+      "watched"
+    ]
+  },
+  "G36Q02": {
+    "easy": {
+      "start": 8,
+      "length": 8,
+      "answer": "studying",
+      "distractors": [
+        "study",
+        "studies",
+        "studied"
+      ]
+    },
+    "hardDistractors": [
+      "study",
+      "studies",
+      "studied"
+    ]
+  },
+  "G36Q03": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "playing",
+      "distractors": [
+        "play",
+        "plays",
+        "played"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "played"
+    ]
+  },
+  "G36Q04": {
+    "easy": {
+      "start": 11,
+      "length": 8,
+      "answer": "sleeping",
+      "distractors": [
+        "sleep",
+        "sleeps",
+        "slept"
+      ]
+    },
+    "hardDistractors": [
+      "sleep",
+      "sleeps",
+      "does"
+    ]
+  },
+  "G36Q05": {
+    "easy": {
+      "start": 9,
+      "length": 9,
+      "answer": "listening",
+      "distractors": [
+        "listen",
+        "listens",
+        "listened"
+      ]
+    },
+    "hardDistractors": [
+      "listen",
+      "listens",
+      "does"
+    ]
+  },
+  "G36Q06": {
+    "easy": {
+      "start": 8,
+      "length": 6,
+      "answer": "eating",
+      "distractors": [
+        "eat",
+        "eats",
+        "ate"
+      ]
+    },
+    "hardDistractors": [
+      "eat",
+      "ate",
+      "does"
+    ]
+  },
+  "G36Q07": {
+    "easy": {
+      "start": 7,
+      "length": 7,
+      "answer": "raining",
+      "distractors": [
+        "rain",
+        "rains",
+        "rained"
+      ]
+    },
+    "hardDistractors": [
+      "rain",
+      "rains",
+      "rained"
+    ]
+  },
+  "G36Q08": {
+    "easy": {
+      "start": 11,
+      "length": 7,
+      "answer": "waiting",
+      "distractors": [
+        "wait",
+        "waits",
+        "waited"
+      ]
+    },
+    "hardDistractors": [
+      "wait",
+      "waited",
+      "does"
+    ]
+  },
+  "G36Q09": {
+    "easy": {
+      "start": 14,
+      "length": 5,
+      "answer": "doing",
+      "distractors": [
+        "do",
+        "does",
+        "did"
+      ]
+    },
+    "hardDistractors": [
+      "do",
+      "does",
+      "did"
+    ]
+  },
+  "G36Q10": {
+    "easy": {
+      "start": 18,
+      "length": 8,
+      "answer": "laughing",
+      "distractors": [
+        "laugh",
+        "laughs",
+        "laughed"
+      ]
+    },
+    "hardDistractors": [
+      "laugh",
+      "does",
+      "being"
+    ]
+  },
+  "G37Q01": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "spoken",
+      "distractors": [
+        "speak",
+        "speaks",
+        "spoke"
+      ]
+    },
+    "hardDistractors": [
+      "speak",
+      "speaks",
+      "spoke"
+    ]
+  },
+  "G37Q02": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G37Q03": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "cleaned",
+      "distractors": [
+        "clean",
+        "cleans",
+        "cleaning"
+      ]
+    },
+    "hardDistractors": [
+      "clean",
+      "cleaning",
+      "does"
+    ]
+  },
+  "G37Q04": {
+    "easy": {
+      "start": 16,
+      "length": 5,
+      "answer": "loved",
+      "distractors": [
+        "love",
+        "loves",
+        "loving"
+      ]
+    },
+    "hardDistractors": [
+      "love",
+      "does",
+      "being"
+    ]
+  },
+  "G37Q05": {
+    "easy": {
+      "start": 12,
+      "length": 6,
+      "answer": "locked",
+      "distractors": [
+        "lock",
+        "locks",
+        "locking"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G37Q06": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "sold",
+      "distractors": [
+        "sell",
+        "sells",
+        "selling"
+      ]
+    },
+    "hardDistractors": [
+      "sells",
+      "does",
+      "being"
+    ]
+  },
+  "G37Q07": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "visited",
+      "distractors": [
+        "visit",
+        "visits",
+        "visiting"
+      ]
+    },
+    "hardDistractors": [
+      "visit",
+      "does",
+      "being"
+    ]
+  },
+  "G37Q08": {
+    "easy": {
+      "start": 16,
+      "length": 9,
+      "answer": "delivered",
+      "distractors": [
+        "deliver",
+        "delivers",
+        "delivering"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G37Q09": {
+    "easy": {
+      "start": 13,
+      "length": 6,
+      "answer": "played",
+      "distractors": [
+        "play",
+        "plays",
+        "playing"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "playing"
+    ]
+  },
+  "G37Q10": {
+    "easy": {
+      "start": 16,
+      "length": 6,
+      "answer": "washed",
+      "distractors": [
+        "wash",
+        "washes",
+        "washing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G38Q01": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "built",
+      "distractors": [
+        "build",
+        "builds",
+        "building"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G38Q02": {
+    "easy": {
+      "start": 15,
+      "length": 6,
+      "answer": "stolen",
+      "distractors": [
+        "steal",
+        "steals",
+        "stole"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G38Q03": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G38Q04": {
+    "easy": {
+      "start": 16,
+      "length": 8,
+      "answer": "canceled",
+      "distractors": [
+        "cancel",
+        "cancels",
+        "canceling"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G38Q05": {
+    "easy": {
+      "start": 20,
+      "length": 5,
+      "answer": "taken",
+      "distractors": [
+        "take",
+        "takes",
+        "took"
+      ]
+    },
+    "hardDistractors": [
+      "take",
+      "took",
+      "does"
+    ]
+  },
+  "G38Q06": {
+    "easy": {
+      "start": 15,
+      "length": 7,
+      "answer": "written",
+      "distractors": [
+        "write",
+        "writes",
+        "wrote"
+      ]
+    },
+    "hardDistractors": [
+      "write",
+      "writes",
+      "wrote"
+    ]
+  },
+  "G38Q07": {
+    "easy": {
+      "start": 15,
+      "length": 6,
+      "answer": "broken",
+      "distractors": [
+        "break",
+        "breaks",
+        "broke"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G38Q08": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "sold",
+      "distractors": [
+        "sell",
+        "sells",
+        "selling"
+      ]
+    },
+    "hardDistractors": [
+      "sells",
+      "does",
+      "being"
+    ]
+  },
+  "G38Q09": {
+    "easy": {
+      "start": 17,
+      "length": 5,
+      "answer": "found",
+      "distractors": [
+        "find",
+        "finds",
+        "finding"
+      ]
+    },
+    "hardDistractors": [
+      "find",
+      "does",
+      "being"
+    ]
+  },
+  "G38Q10": {
+    "easy": {
+      "start": 13,
+      "length": 8,
+      "answer": "released",
+      "distractors": [
+        "release",
+        "releases",
+        "releasing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G39Q01": {
+    "easy": {
+      "start": 9,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "my",
+      "mine"
+    ]
+  },
+  "G39Q02": {
+    "easy": {
+      "start": 10,
+      "length": 2,
+      "answer": "us",
+      "distractors": [
+        "we",
+        "our",
+        "ours"
+      ]
+    },
+    "hardDistractors": [
+      "we",
+      "our",
+      "does"
+    ]
+  },
+  "G39Q03": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "mine",
+      "does"
+    ]
+  },
+  "G39Q04": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "her",
+      "distractors": [
+        "she",
+        "hers",
+        "herself"
+      ]
+    },
+    "hardDistractors": [
+      "she",
+      "hers",
+      "does"
+    ]
+  },
+  "G39Q05": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "us",
+      "distractors": [
+        "we",
+        "our",
+        "ours"
+      ]
+    },
+    "hardDistractors": [
+      "we",
+      "our",
+      "does"
+    ]
+  },
+  "G39Q06": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "my",
+      "mine"
+    ]
+  },
+  "G39Q07": {
+    "easy": {
+      "start": 9,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "my",
+      "mine"
+    ]
+  },
+  "G39Q08": {
+    "easy": {
+      "start": 12,
+      "length": 6,
+      "answer": "sister",
+      "distractors": [
+        "she",
+        "her",
+        "hers"
+      ]
+    },
+    "hardDistractors": [
+      "she",
+      "her",
+      "hers"
+    ]
+  },
+  "G39Q09": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "him",
+      "distractors": [
+        "he",
+        "his",
+        "himself"
+      ]
+    },
+    "hardDistractors": [
+      "he",
+      "his",
+      "does"
+    ]
+  },
+  "G39Q10": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "me",
+      "distractors": [
+        "I",
+        "my",
+        "mine"
+      ]
+    },
+    "hardDistractors": [
+      "I",
+      "my",
+      "mine"
+    ]
+  },
+  "G40Q01": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "tired",
+      "distractors": [
+        "tire",
+        "tiringly",
+        "tiredly"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q02": {
+    "easy": {
+      "start": 12,
+      "length": 11,
+      "answer": "interesting",
+      "distractors": [
+        "interest",
+        "interestingly",
+        "interests"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q03": {
+    "easy": {
+      "start": 19,
+      "length": 4,
+      "answer": "soft",
+      "distractors": [
+        "softly",
+        "softness",
+        "soften"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q04": {
+    "easy": {
+      "start": 16,
+      "length": 9,
+      "answer": "delicious",
+      "distractors": [
+        "deliciously",
+        "deliciousness",
+        "delicacy"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q05": {
+    "easy": {
+      "start": 16,
+      "length": 5,
+      "answer": "sweet",
+      "distractors": [
+        "sweetly",
+        "sweetness",
+        "sweeten"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q06": {
+    "easy": {
+      "start": 10,
+      "length": 5,
+      "answer": "happy",
+      "distractors": [
+        "happily",
+        "happiness",
+        "happierly"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q07": {
+    "easy": {
+      "start": 17,
+      "length": 5,
+      "answer": "great",
+      "distractors": [
+        "greatly",
+        "greatness",
+        "greats"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q08": {
+    "easy": {
+      "start": 16,
+      "length": 4,
+      "answer": "cold",
+      "distractors": [
+        "coldly",
+        "coldness",
+        "colds"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G40Q09": {
+    "easy": {
+      "start": 20,
+      "length": 9,
+      "answer": "wonderful",
+      "distractors": [
+        "wonderfully",
+        "wonder",
+        "wonders"
+      ]
+    },
+    "hardDistractors": [
+      "wonder",
+      "does",
+      "being"
+    ]
+  },
+  "G40Q10": {
+    "easy": {
+      "start": 16,
+      "length": 7,
+      "answer": "strange",
+      "distractors": [
+        "strangely",
+        "strangeness",
+        "strangers"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G41Q01": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q02": {
+    "easy": {
+      "start": 4,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q03": {
+    "easy": {
+      "start": 0,
+      "length": 4,
+      "answer": "Have",
+      "distractors": [
+        "Has",
+        "Had",
+        "Having"
+      ]
+    },
+    "hardDistractors": [
+      "Has",
+      "Had",
+      "does"
+    ]
+  },
+  "G41Q04": {
+    "easy": {
+      "start": 3,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q05": {
+    "easy": {
+      "start": 3,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q06": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q07": {
+    "easy": {
+      "start": 0,
+      "length": 3,
+      "answer": "Has",
+      "distractors": [
+        "Have",
+        "Had",
+        "Having"
+      ]
+    },
+    "hardDistractors": [
+      "Have",
+      "Had",
+      "does"
+    ]
+  },
+  "G41Q08": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q09": {
+    "easy": {
+      "start": 2,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "had",
+      "does"
+    ]
+  },
+  "G41Q10": {
+    "easy": {
+      "start": 11,
+      "length": 3,
+      "answer": "has",
+      "distractors": [
+        "have",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "had",
+      "does"
+    ]
+  },
+  "G42Q01": {
+    "easy": {
+      "start": 18,
+      "length": 3,
+      "answer": "for",
+      "distractors": [
+        "since",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "since",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q02": {
+    "easy": {
+      "start": 18,
+      "length": 5,
+      "answer": "since",
+      "distractors": [
+        "for",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q03": {
+    "easy": {
+      "start": 21,
+      "length": 3,
+      "answer": "for",
+      "distractors": [
+        "since",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "since",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q04": {
+    "easy": {
+      "start": 19,
+      "length": 5,
+      "answer": "since",
+      "distractors": [
+        "for",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q05": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "have",
+      "distractors": [
+        "has",
+        "had",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q06": {
+    "easy": {
+      "start": 25,
+      "length": 5,
+      "answer": "since",
+      "distractors": [
+        "for",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q07": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G42Q08": {
+    "easy": {
+      "start": 20,
+      "length": 5,
+      "answer": "since",
+      "distractors": [
+        "for",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q09": {
+    "easy": {
+      "start": 15,
+      "length": 3,
+      "answer": "for",
+      "distractors": [
+        "since",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "since",
+      "does",
+      "being"
+    ]
+  },
+  "G42Q10": {
+    "easy": {
+      "start": 33,
+      "length": 3,
+      "answer": "for",
+      "distractors": [
+        "since",
+        "during",
+        "from"
+      ]
+    },
+    "hardDistractors": [
+      "since",
+      "does",
+      "being"
+    ]
+  },
+  "G43Q01": {
+    "easy": {
+      "start": 12,
+      "length": 8,
+      "answer": "finished",
+      "distractors": [
+        "finish",
+        "finishes",
+        "finishing"
+      ]
+    },
+    "hardDistractors": [
+      "finish",
+      "does",
+      "being"
+    ]
+  },
+  "G43Q02": {
+    "easy": {
+      "start": 16,
+      "length": 4,
+      "answer": "left",
+      "distractors": [
+        "leave",
+        "leaves",
+        "leaving"
+      ]
+    },
+    "hardDistractors": [
+      "leave",
+      "leaving",
+      "does"
+    ]
+  },
+  "G43Q03": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "eaten",
+      "distractors": [
+        "eat",
+        "eats",
+        "ate"
+      ]
+    },
+    "hardDistractors": [
+      "eat",
+      "ate",
+      "does"
+    ]
+  },
+  "G43Q04": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "decided",
+      "distractors": [
+        "decide",
+        "decides",
+        "deciding"
+      ]
+    },
+    "hardDistractors": [
+      "decide",
+      "does",
+      "being"
+    ]
+  },
+  "G43Q05": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "lost",
+      "distractors": [
+        "lose",
+        "loses",
+        "losing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G43Q06": {
+    "easy": {
+      "start": 18,
+      "length": 7,
+      "answer": "arrived",
+      "distractors": [
+        "arrive",
+        "arrives",
+        "arriving"
+      ]
+    },
+    "hardDistractors": [
+      "arrive",
+      "does",
+      "being"
+    ]
+  },
+  "G43Q07": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "cleaned",
+      "distractors": [
+        "clean",
+        "cleans",
+        "cleaning"
+      ]
+    },
+    "hardDistractors": [
+      "clean",
+      "cleaning",
+      "does"
+    ]
+  },
+  "G43Q08": {
+    "easy": {
+      "start": 14,
+      "length": 7,
+      "answer": "started",
+      "distractors": [
+        "start",
+        "starts",
+        "starting"
+      ]
+    },
+    "hardDistractors": [
+      "start",
+      "starts",
+      "does"
+    ]
+  },
+  "G43Q09": {
+    "easy": {
+      "start": 8,
+      "length": 6,
+      "answer": "broken",
+      "distractors": [
+        "break",
+        "breaks",
+        "broke"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G43Q10": {
+    "easy": {
+      "start": 8,
+      "length": 8,
+      "answer": "finished",
+      "distractors": [
+        "finish",
+        "finishes",
+        "finishing"
+      ]
+    },
+    "hardDistractors": [
+      "finish",
+      "does",
+      "being"
+    ]
+  },
+  "G44Q01": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q02": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q03": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q04": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q05": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q06": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q07": {
+    "easy": {
+      "start": 18,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q08": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q09": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G44Q10": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G45Q01": {
+    "easy": {
+      "start": 16,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q02": {
+    "easy": {
+      "start": 9,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q03": {
+    "easy": {
+      "start": 18,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q04": {
+    "easy": {
+      "start": 7,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q05": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q06": {
+    "easy": {
+      "start": 15,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q07": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q08": {
+    "easy": {
+      "start": 18,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q09": {
+    "easy": {
+      "start": 10,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G45Q10": {
+    "easy": {
+      "start": 22,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G46Q01": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q02": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q03": {
+    "easy": {
+      "start": 14,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q04": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q05": {
+    "easy": {
+      "start": 19,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q06": {
+    "easy": {
+      "start": 8,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q07": {
+    "easy": {
+      "start": 12,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q08": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q09": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G46Q10": {
+    "easy": {
+      "start": 20,
+      "length": 5,
+      "answer": "which",
+      "distractors": [
+        "who",
+        "whose",
+        "what"
+      ]
+    },
+    "hardDistractors": [
+      "who",
+      "what",
+      "does"
+    ]
+  },
+  "G47Q01": {
+    "easy": {
+      "start": 18,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q02": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q03": {
+    "easy": {
+      "start": 15,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q04": {
+    "easy": {
+      "start": 11,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q05": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q06": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q07": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q08": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q09": {
+    "easy": {
+      "start": 21,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G47Q10": {
+    "easy": {
+      "start": 8,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G48Q01": {
+    "easy": {
+      "start": 12,
+      "length": 7,
+      "answer": "watched",
+      "distractors": [
+        "watch",
+        "watches",
+        "watching"
+      ]
+    },
+    "hardDistractors": [
+      "watch",
+      "watches",
+      "watching"
+    ]
+  },
+  "G48Q02": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G48Q03": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "lent",
+      "distractors": [
+        "lend",
+        "lends",
+        "lending"
+      ]
+    },
+    "hardDistractors": [
+      "lend",
+      "does",
+      "being"
+    ]
+  },
+  "G48Q04": {
+    "easy": {
+      "start": 13,
+      "length": 3,
+      "answer": "met",
+      "distractors": [
+        "meet",
+        "meets",
+        "meeting"
+      ]
+    },
+    "hardDistractors": [
+      "meet",
+      "does",
+      "being"
+    ]
+  },
+  "G48Q05": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "bought",
+      "distractors": [
+        "buy",
+        "buys",
+        "buying"
+      ]
+    },
+    "hardDistractors": [
+      "buy",
+      "does",
+      "being"
+    ]
+  },
+  "G48Q06": {
+    "easy": {
+      "start": 12,
+      "length": 5,
+      "answer": "heard",
+      "distractors": [
+        "hear",
+        "hears",
+        "hearing"
+      ]
+    },
+    "hardDistractors": [
+      "hear",
+      "hearing",
+      "does"
+    ]
+  },
+  "G48Q07": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "took",
+      "distractors": [
+        "take",
+        "takes",
+        "taking"
+      ]
+    },
+    "hardDistractors": [
+      "take",
+      "taking",
+      "does"
+    ]
+  },
+  "G48Q08": {
+    "easy": {
+      "start": 12,
+      "length": 5,
+      "answer": "chose",
+      "distractors": [
+        "choose",
+        "chooses",
+        "choosing"
+      ]
+    },
+    "hardDistractors": [
+      "choose",
+      "does",
+      "being"
+    ]
+  },
+  "G48Q09": {
+    "easy": {
+      "start": 19,
+      "length": 6,
+      "answer": "cooked",
+      "distractors": [
+        "cook",
+        "cooks",
+        "cooking"
+      ]
+    },
+    "hardDistractors": [
+      "cook",
+      "cooks",
+      "cooking"
+    ]
+  },
+  "G48Q10": {
+    "easy": {
+      "start": 15,
+      "length": 4,
+      "answer": "sent",
+      "distractors": [
+        "send",
+        "sends",
+        "sending"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G49Q01": {
+    "easy": {
+      "start": 9,
+      "length": 7,
+      "answer": "singing",
+      "distractors": [
+        "sing",
+        "sings",
+        "sang"
+      ]
+    },
+    "hardDistractors": [
+      "sing",
+      "sings",
+      "does"
+    ]
+  },
+  "G49Q02": {
+    "easy": {
+      "start": 8,
+      "length": 8,
+      "answer": "standing",
+      "distractors": [
+        "stand",
+        "stands",
+        "stood"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G49Q03": {
+    "easy": {
+      "start": 8,
+      "length": 8,
+      "answer": "sleeping",
+      "distractors": [
+        "sleep",
+        "sleeps",
+        "slept"
+      ]
+    },
+    "hardDistractors": [
+      "sleep",
+      "sleeps",
+      "does"
+    ]
+  },
+  "G49Q04": {
+    "easy": {
+      "start": 13,
+      "length": 7,
+      "answer": "waiting",
+      "distractors": [
+        "wait",
+        "waits",
+        "waited"
+      ]
+    },
+    "hardDistractors": [
+      "wait",
+      "waited",
+      "does"
+    ]
+  },
+  "G49Q05": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "wearing",
+      "distractors": [
+        "wear",
+        "wears",
+        "wore"
+      ]
+    },
+    "hardDistractors": [
+      "wear",
+      "wore",
+      "does"
+    ]
+  },
+  "G49Q06": {
+    "easy": {
+      "start": 8,
+      "length": 7,
+      "answer": "playing",
+      "distractors": [
+        "play",
+        "plays",
+        "played"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "played"
+    ]
+  },
+  "G49Q07": {
+    "easy": {
+      "start": 11,
+      "length": 7,
+      "answer": "dancing",
+      "distractors": [
+        "dance",
+        "dances",
+        "danced"
+      ]
+    },
+    "hardDistractors": [
+      "dance",
+      "does",
+      "being"
+    ]
+  },
+  "G49Q08": {
+    "easy": {
+      "start": 10,
+      "length": 7,
+      "answer": "leaving",
+      "distractors": [
+        "leave",
+        "leaves",
+        "left"
+      ]
+    },
+    "hardDistractors": [
+      "leave",
+      "left",
+      "does"
+    ]
+  },
+  "G49Q09": {
+    "easy": {
+      "start": 8,
+      "length": 7,
+      "answer": "looking",
+      "distractors": [
+        "look",
+        "looks",
+        "looked"
+      ]
+    },
+    "hardDistractors": [
+      "look",
+      "looks",
+      "does"
+    ]
+  },
+  "G49Q10": {
+    "easy": {
+      "start": 13,
+      "length": 7,
+      "answer": "running",
+      "distractors": [
+        "run",
+        "runs",
+        "ran"
+      ]
+    },
+    "hardDistractors": [
+      "run",
+      "runs",
+      "does"
+    ]
+  },
+  "G50Q01": {
+    "easy": {
+      "start": 9,
+      "length": 7,
+      "answer": "written",
+      "distractors": [
+        "write",
+        "writes",
+        "wrote"
+      ]
+    },
+    "hardDistractors": [
+      "write",
+      "writes",
+      "wrote"
+    ]
+  },
+  "G50Q02": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G50Q03": {
+    "easy": {
+      "start": 12,
+      "length": 5,
+      "answer": "taken",
+      "distractors": [
+        "take",
+        "takes",
+        "took"
+      ]
+    },
+    "hardDistractors": [
+      "take",
+      "took",
+      "does"
+    ]
+  },
+  "G50Q04": {
+    "easy": {
+      "start": 9,
+      "length": 9,
+      "answer": "published",
+      "distractors": [
+        "publish",
+        "publishes",
+        "publishing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G50Q05": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "broken",
+      "distractors": [
+        "break",
+        "breaks",
+        "broke"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G50Q06": {
+    "easy": {
+      "start": 12,
+      "length": 4,
+      "answer": "sent",
+      "distractors": [
+        "send",
+        "sends",
+        "sending"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G50Q07": {
+    "easy": {
+      "start": 8,
+      "length": 6,
+      "answer": "parked",
+      "distractors": [
+        "park",
+        "parks",
+        "parking"
+      ]
+    },
+    "hardDistractors": [
+      "park",
+      "does",
+      "being"
+    ]
+  },
+  "G50Q08": {
+    "easy": {
+      "start": 9,
+      "length": 6,
+      "answer": "played",
+      "distractors": [
+        "play",
+        "plays",
+        "playing"
+      ]
+    },
+    "hardDistractors": [
+      "play",
+      "plays",
+      "playing"
+    ]
+  },
+  "G50Q09": {
+    "easy": {
+      "start": 15,
+      "length": 5,
+      "answer": "grown",
+      "distractors": [
+        "grow",
+        "grows",
+        "grew"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G50Q10": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "told",
+      "distractors": [
+        "tell",
+        "tells",
+        "telling"
+      ]
+    },
+    "hardDistractors": [
+      "tell",
+      "does",
+      "being"
+    ]
+  },
+  "G51Q01": {
+    "easy": {
+      "start": 22,
+      "length": 5,
+      "answer": "lives",
+      "distractors": [
+        "live",
+        "lived",
+        "living"
+      ]
+    },
+    "hardDistractors": [
+      "live",
+      "lived",
+      "does"
+    ]
+  },
+  "G51Q02": {
+    "easy": {
+      "start": 17,
+      "length": 5,
+      "answer": "wants",
+      "distractors": [
+        "want",
+        "wanted",
+        "wanting"
+      ]
+    },
+    "hardDistractors": [
+      "want",
+      "wanted",
+      "does"
+    ]
+  },
+  "G51Q03": {
+    "easy": {
+      "start": 24,
+      "length": 6,
+      "answer": "starts",
+      "distractors": [
+        "start",
+        "started",
+        "starting"
+      ]
+    },
+    "hardDistractors": [
+      "start",
+      "started",
+      "does"
+    ]
+  },
+  "G51Q04": {
+    "easy": {
+      "start": 22,
+      "length": 4,
+      "answer": "left",
+      "distractors": [
+        "leave",
+        "leaves",
+        "leaving"
+      ]
+    },
+    "hardDistractors": [
+      "leave",
+      "leaving",
+      "does"
+    ]
+  },
+  "G51Q05": {
+    "easy": {
+      "start": 25,
+      "length": 3,
+      "answer": "met",
+      "distractors": [
+        "meet",
+        "meets",
+        "meeting"
+      ]
+    },
+    "hardDistractors": [
+      "meet",
+      "does",
+      "being"
+    ]
+  },
+  "G51Q06": {
+    "easy": {
+      "start": 19,
+      "length": 4,
+      "answer": "felt",
+      "distractors": [
+        "feels",
+        "feeling",
+        "to feel"
+      ]
+    },
+    "hardDistractors": [
+      "feels",
+      "feeling",
+      "does"
+    ]
+  },
+  "G51Q07": {
+    "easy": {
+      "start": 25,
+      "length": 2,
+      "answer": "is",
+      "distractors": [
+        "am",
+        "are",
+        "be"
+      ]
+    },
+    "hardDistractors": [
+      "am",
+      "are",
+      "be"
+    ]
+  },
+  "G51Q08": {
+    "easy": {
+      "start": 34,
+      "length": 4,
+      "answer": "take",
+      "distractors": [
+        "takes",
+        "took",
+        "taking"
+      ]
+    },
+    "hardDistractors": [
+      "took",
+      "taking",
+      "does"
+    ]
+  },
+  "G51Q09": {
+    "easy": {
+      "start": 28,
+      "length": 5,
+      "answer": "opens",
+      "distractors": [
+        "open",
+        "opened",
+        "opening"
+      ]
+    },
+    "hardDistractors": [
+      "open",
+      "opened",
+      "opening"
+    ]
+  },
+  "G51Q10": {
+    "easy": {
+      "start": 26,
+      "length": 3,
+      "answer": "put",
+      "distractors": [
+        "puts",
+        "putted",
+        "putting"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G52Q01": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q02": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q03": {
+    "easy": {
+      "start": 22,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q04": {
+    "easy": {
+      "start": 20,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q05": {
+    "easy": {
+      "start": 27,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q06": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q07": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q08": {
+    "easy": {
+      "start": 17,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q09": {
+    "easy": {
+      "start": 18,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G52Q10": {
+    "easy": {
+      "start": 21,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G53Q01": {
+    "easy": {
+      "start": 12,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q02": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q03": {
+    "easy": {
+      "start": 14,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q04": {
+    "easy": {
+      "start": 8,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q05": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q06": {
+    "easy": {
+      "start": 11,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q07": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q08": {
+    "easy": {
+      "start": 14,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q09": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G53Q10": {
+    "easy": {
+      "start": 17,
+      "length": 3,
+      "answer": "too",
+      "distractors": [
+        "very",
+        "so",
+        "much"
+      ]
+    },
+    "hardDistractors": [
+      "very",
+      "so",
+      "much"
+    ]
+  },
+  "G54Q01": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q02": {
+    "easy": {
+      "start": 18,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q03": {
+    "easy": {
+      "start": 11,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q04": {
+    "easy": {
+      "start": 7,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q05": {
+    "easy": {
+      "start": 16,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q06": {
+    "easy": {
+      "start": 14,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q07": {
+    "easy": {
+      "start": 8,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q08": {
+    "easy": {
+      "start": 17,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q09": {
+    "easy": {
+      "start": 13,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G54Q10": {
+    "easy": {
+      "start": 26,
+      "length": 6,
+      "answer": "enough",
+      "distractors": [
+        "too",
+        "very",
+        "many"
+      ]
+    },
+    "hardDistractors": [
+      "too",
+      "very",
+      "many"
+    ]
+  },
+  "G55Q01": {
+    "easy": {
+      "start": 18,
+      "length": 3,
+      "answer": "cry",
+      "distractors": [
+        "cries",
+        "cried",
+        "crying"
+      ]
+    },
+    "hardDistractors": [
+      "crying",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q02": {
+    "easy": {
+      "start": 17,
+      "length": 4,
+      "answer": "stay",
+      "distractors": [
+        "stays",
+        "stayed",
+        "staying"
+      ]
+    },
+    "hardDistractors": [
+      "stayed",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q03": {
+    "easy": {
+      "start": 17,
+      "length": 5,
+      "answer": "laugh",
+      "distractors": [
+        "laughs",
+        "laughed",
+        "laughing"
+      ]
+    },
+    "hardDistractors": [
+      "laughing",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q04": {
+    "easy": {
+      "start": 19,
+      "length": 5,
+      "answer": "leave",
+      "distractors": [
+        "leaves",
+        "left",
+        "leaving"
+      ]
+    },
+    "hardDistractors": [
+      "left",
+      "leaving",
+      "does"
+    ]
+  },
+  "G55Q05": {
+    "easy": {
+      "start": 18,
+      "length": 5,
+      "answer": "smile",
+      "distractors": [
+        "smiles",
+        "smiled",
+        "smiling"
+      ]
+    },
+    "hardDistractors": [
+      "smiled",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q06": {
+    "easy": {
+      "start": 17,
+      "length": 3,
+      "answer": "use",
+      "distractors": [
+        "uses",
+        "used",
+        "using"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G55Q07": {
+    "easy": {
+      "start": 29,
+      "length": 4,
+      "answer": "wake",
+      "distractors": [
+        "wakes",
+        "woke",
+        "waking"
+      ]
+    },
+    "hardDistractors": [
+      "woke",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q08": {
+    "easy": {
+      "start": 20,
+      "length": 6,
+      "answer": "borrow",
+      "distractors": [
+        "borrows",
+        "borrowed",
+        "borrowing"
+      ]
+    },
+    "hardDistractors": [
+      "does",
+      "being",
+      "had"
+    ]
+  },
+  "G55Q09": {
+    "easy": {
+      "start": 23,
+      "length": 5,
+      "answer": "dance",
+      "distractors": [
+        "dances",
+        "danced",
+        "dancing"
+      ]
+    },
+    "hardDistractors": [
+      "dancing",
+      "does",
+      "being"
+    ]
+  },
+  "G55Q10": {
+    "easy": {
+      "start": 18,
+      "length": 6,
+      "answer": "travel",
+      "distractors": [
+        "travels",
+        "traveled",
+        "traveling"
+      ]
+    },
+    "hardDistractors": [
+      "traveled",
+      "does",
+      "being"
+    ]
+  },
+  "G56Q01": {
+    "easy": {
+      "start": 11,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q02": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q03": {
+    "easy": {
+      "start": 12,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q04": {
+    "easy": {
+      "start": 21,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q05": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q06": {
+    "easy": {
+      "start": 13,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q07": {
+    "easy": {
+      "start": 18,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q08": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q09": {
+    "easy": {
+      "start": 14,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G56Q10": {
+    "easy": {
+      "start": 19,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  },
+  "G57Q01": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G57Q02": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G57Q03": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "knew",
+      "distractors": [
+        "know",
+        "knows",
+        "knowing"
+      ]
+    },
+    "hardDistractors": [
+      "know",
+      "knows",
+      "knowing"
+    ]
+  },
+  "G57Q04": {
+    "easy": {
+      "start": 5,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G57Q05": {
+    "easy": {
+      "start": 6,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G57Q06": {
+    "easy": {
+      "start": 6,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G57Q07": {
+    "easy": {
+      "start": 5,
+      "length": 5,
+      "answer": "spoke",
+      "distractors": [
+        "speak",
+        "speaks",
+        "speaking"
+      ]
+    },
+    "hardDistractors": [
+      "speak",
+      "speaks",
+      "speaking"
+    ]
+  },
+  "G57Q08": {
+    "easy": {
+      "start": 6,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G57Q09": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G57Q10": {
+    "easy": {
+      "start": 5,
+      "length": 4,
+      "answer": "knew",
+      "distractors": [
+        "know",
+        "knows",
+        "knowing"
+      ]
+    },
+    "hardDistractors": [
+      "know",
+      "knows",
+      "knowing"
+    ]
+  },
+  "G58Q01": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "could",
+      "distractors": [
+        "can",
+        "cans",
+        "could to"
+      ]
+    },
+    "hardDistractors": [
+      "can",
+      "does",
+      "being"
+    ]
+  },
+  "G58Q02": {
+    "easy": {
+      "start": 9,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G58Q03": {
+    "easy": {
+      "start": 15,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G58Q04": {
+    "easy": {
+      "start": 10,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G58Q05": {
+    "easy": {
+      "start": 13,
+      "length": 5,
+      "answer": "could",
+      "distractors": [
+        "can",
+        "cans",
+        "could to"
+      ]
+    },
+    "hardDistractors": [
+      "can",
+      "does",
+      "being"
+    ]
+  },
+  "G58Q06": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "knew",
+      "distractors": [
+        "know",
+        "knows",
+        "knowing"
+      ]
+    },
+    "hardDistractors": [
+      "know",
+      "knows",
+      "knowing"
+    ]
+  },
+  "G58Q07": {
+    "easy": {
+      "start": 11,
+      "length": 5,
+      "answer": "lived",
+      "distractors": [
+        "live",
+        "lives",
+        "living"
+      ]
+    },
+    "hardDistractors": [
+      "live",
+      "lives",
+      "does"
+    ]
+  },
+  "G58Q08": {
+    "easy": {
+      "start": 15,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G58Q09": {
+    "easy": {
+      "start": 13,
+      "length": 4,
+      "answer": "were",
+      "distractors": [
+        "is",
+        "are",
+        "been"
+      ]
+    },
+    "hardDistractors": [
+      "is",
+      "are",
+      "been"
+    ]
+  },
+  "G58Q10": {
+    "easy": {
+      "start": 13,
+      "length": 5,
+      "answer": "could",
+      "distractors": [
+        "can",
+        "cans",
+        "could to"
+      ]
+    },
+    "hardDistractors": [
+      "can",
+      "does",
+      "being"
+    ]
+  },
+  "G59Q01": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Feeling",
+      "distractors": [
+        "Feel",
+        "Feels",
+        "Felt"
+      ]
+    },
+    "hardDistractors": [
+      "Feel",
+      "Feels",
+      "Felt"
+    ]
+  },
+  "G59Q02": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Walking",
+      "distractors": [
+        "Walk",
+        "Walks",
+        "Walked"
+      ]
+    },
+    "hardDistractors": [
+      "Walk",
+      "Walked",
+      "does"
+    ]
+  },
+  "G59Q03": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Looking",
+      "distractors": [
+        "Look",
+        "Looks",
+        "Looked"
+      ]
+    },
+    "hardDistractors": [
+      "Look",
+      "Looks",
+      "does"
+    ]
+  },
+  "G59Q04": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Hearing",
+      "distractors": [
+        "Hear",
+        "Hears",
+        "Heard"
+      ]
+    },
+    "hardDistractors": [
+      "Hear",
+      "Heard",
+      "does"
+    ]
+  },
+  "G59Q05": {
+    "easy": {
+      "start": 4,
+      "length": 7,
+      "answer": "knowing",
+      "distractors": [
+        "know",
+        "knows",
+        "knew"
+      ]
+    },
+    "hardDistractors": [
+      "know",
+      "knows",
+      "knew"
+    ]
+  },
+  "G59Q06": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Opening",
+      "distractors": [
+        "Open",
+        "Opens",
+        "Opened"
+      ]
+    },
+    "hardDistractors": [
+      "Open",
+      "Opens",
+      "Opened"
+    ]
+  },
+  "G59Q07": {
+    "easy": {
+      "start": 0,
+      "length": 7,
+      "answer": "Sitting",
+      "distractors": [
+        "Sit",
+        "Sits",
+        "Sat"
+      ]
+    },
+    "hardDistractors": [
+      "Sit",
+      "does",
+      "being"
+    ]
+  },
+  "G59Q08": {
+    "easy": {
+      "start": 0,
+      "length": 6,
+      "answer": "Seeing",
+      "distractors": [
+        "See",
+        "Sees",
+        "Saw"
+      ]
+    },
+    "hardDistractors": [
+      "See",
+      "Saw",
+      "does"
+    ]
+  },
+  "G59Q09": {
+    "easy": {
+      "start": 0,
+      "length": 5,
+      "answer": "Being",
+      "distractors": [
+        "Be",
+        "Is",
+        "Was"
+      ]
+    },
+    "hardDistractors": [
+      "Be",
+      "Is",
+      "Was"
+    ]
+  },
+  "G59Q10": {
+    "easy": {
+      "start": 0,
+      "length": 9,
+      "answer": "Listening",
+      "distractors": [
+        "Listen",
+        "Listens",
+        "Listened"
+      ]
+    },
+    "hardDistractors": [
+      "Listen",
+      "Listens",
+      "does"
+    ]
+  },
+  "G60Q01": {
+    "easy": {
+      "start": 20,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "have",
+        "has",
+        "having"
+      ]
+    },
+    "hardDistractors": [
+      "have",
+      "has",
+      "does"
+    ]
+  },
+  "G60Q02": {
+    "easy": {
+      "start": 6,
+      "length": 5,
+      "answer": "rains",
+      "distractors": [
+        "rain",
+        "rained",
+        "raining"
+      ]
+    },
+    "hardDistractors": [
+      "rain",
+      "rained",
+      "raining"
+    ]
+  },
+  "G60Q03": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "that",
+      "distractors": [
+        "what",
+        "whose",
+        "whom"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "does",
+      "being"
+    ]
+  },
+  "G60Q04": {
+    "easy": {
+      "start": 7,
+      "length": 4,
+      "answer": "been",
+      "distractors": [
+        "be",
+        "being",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "be",
+      "being",
+      "was"
+    ]
+  },
+  "G60Q05": {
+    "easy": {
+      "start": 21,
+      "length": 3,
+      "answer": "had",
+      "distractors": [
+        "has",
+        "having",
+        "was"
+      ]
+    },
+    "hardDistractors": [
+      "has",
+      "was",
+      "does"
+    ]
+  },
+  "G60Q06": {
+    "easy": {
+      "start": 9,
+      "length": 4,
+      "answer": "made",
+      "distractors": [
+        "make",
+        "makes",
+        "making"
+      ]
+    },
+    "hardDistractors": [
+      "make",
+      "makes",
+      "does"
+    ]
+  },
+  "G60Q07": {
+    "easy": {
+      "start": 9,
+      "length": 5,
+      "answer": "could",
+      "distractors": [
+        "can",
+        "cans",
+        "could to"
+      ]
+    },
+    "hardDistractors": [
+      "can",
+      "does",
+      "being"
+    ]
+  },
+  "G60Q08": {
+    "easy": {
+      "start": 7,
+      "length": 7,
+      "answer": "reading",
+      "distractors": [
+        "read",
+        "reads",
+        "readed"
+      ]
+    },
+    "hardDistractors": [
+      "read",
+      "does",
+      "being"
+    ]
+  },
+  "G60Q09": {
+    "easy": {
+      "start": 9,
+      "length": 3,
+      "answer": "who",
+      "distractors": [
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    "hardDistractors": [
+      "what",
+      "where",
+      "when"
+    ]
+  },
+  "G60Q10": {
+    "easy": {
+      "start": 7,
+      "length": 2,
+      "answer": "to",
+      "distractors": [
+        "for",
+        "of",
+        "with"
+      ]
+    },
+    "hardDistractors": [
+      "for",
+      "of",
+      "with"
+    ]
+  }
+}

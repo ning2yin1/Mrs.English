@@ -30,7 +30,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "私は学生です。",
     "acceptedAnswers": [
-      "I am a student."
+      "I am a student.",
+      "I'm a student."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -65,7 +66,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "彼女は私の姉です。",
     "acceptedAnswers": [
-      "She is my sister."
+      "She is my sister.",
+      "She's my sister."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -100,7 +102,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "彼は歌手です。",
     "acceptedAnswers": [
-      "He is a singer."
+      "He is a singer.",
+      "He's a singer."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -131,7 +134,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "私たちは準備ができています。",
     "acceptedAnswers": [
-      "We are ready."
+      "We are ready.",
+      "We're ready."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -162,7 +166,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "彼らは親切です。",
     "acceptedAnswers": [
-      "They are kind."
+      "They are kind.",
+      "They're kind."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -337,7 +342,8 @@
     "grammarExplanation": "be動詞am/is/areは主語に合わせて使い分ける。",
     "translation": "あなたはとても勇敢です。",
     "acceptedAnswers": [
-      "You are very brave."
+      "You are very brave.",
+      "You're very brave."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -372,7 +378,8 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "私は疲れていません。",
     "acceptedAnswers": [
-      "I am not tired."
+      "I am not tired.",
+      "I'm not tired."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -407,7 +414,9 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "彼女は怒っていません。",
     "acceptedAnswers": [
-      "She is not angry."
+      "She is not angry.",
+      "She isn't angry.",
+      "She's not angry."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -442,7 +451,9 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "私たちは遅刻していません。",
     "acceptedAnswers": [
-      "We are not late."
+      "We are not late.",
+      "We aren't late.",
+      "We're not late."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -481,7 +492,8 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "これは私のかばんではありません。",
     "acceptedAnswers": [
-      "This is not my bag."
+      "This is not my bag.",
+      "This isn't my bag."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -520,7 +532,9 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "彼は医者ではありません。",
     "acceptedAnswers": [
-      "He is not a doctor."
+      "He is not a doctor.",
+      "He isn't a doctor.",
+      "He's not a doctor."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -555,7 +569,9 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "彼らはお腹が空いていません。",
     "acceptedAnswers": [
-      "They are not hungry."
+      "They are not hungry.",
+      "They aren't hungry.",
+      "They're not hungry."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -594,7 +610,8 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "ドアは開いていません。",
     "acceptedAnswers": [
-      "The door is not open."
+      "The door is not open.",
+      "The door isn't open."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -629,7 +646,9 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "あなたは一人ではありません。",
     "acceptedAnswers": [
-      "You are not alone."
+      "You are not alone.",
+      "You aren't alone.",
+      "You're not alone."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -668,7 +687,8 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "この靴は高くありません。",
     "acceptedAnswers": [
-      "These shoes are not expensive."
+      "These shoes are not expensive.",
+      "These shoes aren't expensive."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -711,7 +731,8 @@
     "grammarExplanation": "be動詞の直後にnotを置いて否定する。",
     "translation": "弟は家にいません。",
     "acceptedAnswers": [
-      "My brother is not at home."
+      "My brother is not at home.",
+      "My brother isn't at home."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -887,7 +908,7 @@
     "topicId": "G03",
     "grade": 1,
     "english": "Are we early?",
-    "japanese": "私たちは早く着きましたか。",
+    "japanese": "私たちは予定より早いですか。",
     "tokens": [
       {
         "id": "G03Q06T01",
@@ -907,7 +928,7 @@
       }
     ],
     "grammarExplanation": "be動詞を主語の前に移して疑問文を作る。",
-    "translation": "私たちは早く着きましたか。",
+    "translation": "私たちは予定より早いですか。",
     "acceptedAnswers": [
       "Are we early?"
     ],
@@ -1812,7 +1833,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "私は肉を食べません。",
     "acceptedAnswers": [
-      "I do not eat meat."
+      "I do not eat meat.",
+      "I don't eat meat."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -1851,7 +1873,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "彼女はコーヒーが好きではありません。",
     "acceptedAnswers": [
-      "She does not like coffee."
+      "She does not like coffee.",
+      "She doesn't like coffee."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -1894,7 +1917,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "私たちは車を持っていません。",
     "acceptedAnswers": [
-      "We do not have a car."
+      "We do not have a car.",
+      "We don't have a car."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -1933,7 +1957,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "彼はサッカーをしません。",
     "acceptedAnswers": [
-      "He does not play soccer."
+      "He does not play soccer.",
+      "He doesn't play soccer."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -1976,7 +2001,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "彼らは日曜日に働きません。",
     "acceptedAnswers": [
-      "They do not work on Sundays."
+      "They do not work on Sundays.",
+      "They don't work on Sundays."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -2019,7 +2045,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "私の猫は牛乳を飲みません。",
     "acceptedAnswers": [
-      "My cat does not drink milk."
+      "My cat does not drink milk.",
+      "My cat doesn't drink milk."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -2062,7 +2089,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "私は彼の名前を覚えていません。",
     "acceptedAnswers": [
-      "I do not remember his name."
+      "I do not remember his name.",
+      "I don't remember his name."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -2101,7 +2129,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "彼女はテレビを見ません。",
     "acceptedAnswers": [
-      "She does not watch television."
+      "She does not watch television.",
+      "She doesn't watch television."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -2144,7 +2173,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "あなたに切符は必要ありません。",
     "acceptedAnswers": [
-      "You do not need a ticket."
+      "You do not need a ticket.",
+      "You don't need a ticket."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -2183,7 +2213,8 @@
     "grammarExplanation": "一般動詞の否定はdo not / does not + 動詞の原形。",
     "translation": "この機械は動きません。",
     "acceptedAnswers": [
-      "This machine does not work."
+      "This machine does not work.",
+      "This machine doesn't work."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -3775,7 +3806,8 @@
     "grammarExplanation": "can + 動詞の原形で能力・可能・許可を表す。",
     "translation": "彼は運転できません。",
     "acceptedAnswers": [
-      "He cannot drive."
+      "He cannot drive.",
+      "He can't drive."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -3997,7 +4029,8 @@
     "grammarExplanation": "can + 動詞の原形で能力・可能・許可を表す。",
     "translation": "眼鏡が見つかりません。",
     "acceptedAnswers": [
-      "I cannot find my glasses."
+      "I cannot find my glasses.",
+      "I can't find my glasses."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4036,7 +4069,8 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "私は本を読んでいます。",
     "acceptedAnswers": [
-      "I am reading a book."
+      "I am reading a book.",
+      "I'm reading a book."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4071,7 +4105,8 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "彼女は夕食を作っています。",
     "acceptedAnswers": [
-      "She is cooking dinner."
+      "She is cooking dinner.",
+      "She's cooking dinner."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4106,7 +4141,8 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "彼らは外で遊んでいます。",
     "acceptedAnswers": [
-      "They are playing outside."
+      "They are playing outside.",
+      "They're playing outside."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4141,7 +4177,9 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "彼は眠っていません。",
     "acceptedAnswers": [
-      "He is not sleeping."
+      "He is not sleeping.",
+      "He isn't sleeping.",
+      "He's not sleeping."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4223,7 +4261,8 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "私たちはバスを待っています。",
     "acceptedAnswers": [
-      "We are waiting for the bus."
+      "We are waiting for the bus.",
+      "We're waiting for the bus."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4328,7 +4367,8 @@
     "grammarExplanation": "be + 動詞の-ing形で今進行中の動作を表す。",
     "translation": "今雨が降っています。",
     "acceptedAnswers": [
-      "It is raining now."
+      "It is raining now.",
+      "It's raining now."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -4511,7 +4551,8 @@
     "grammarExplanation": "過去の状態はwas/wereを使う。",
     "translation": "私たちは準備ができていませんでした。",
     "acceptedAnswers": [
-      "We were not ready."
+      "We were not ready.",
+      "We weren't ready."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -5527,7 +5568,8 @@
     "grammarExplanation": "一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。",
     "translation": "私は昨日学校へ行きませんでした。",
     "acceptedAnswers": [
-      "I did not go to school yesterday."
+      "I did not go to school yesterday.",
+      "I didn't go to school yesterday."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -5601,7 +5643,8 @@
     "grammarExplanation": "一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。",
     "translation": "彼は昼食を食べませんでした。",
     "acceptedAnswers": [
-      "He did not eat lunch."
+      "He did not eat lunch.",
+      "He didn't eat lunch."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -5679,7 +5722,8 @@
     "grammarExplanation": "一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。",
     "translation": "私たちは質問を理解できませんでした。",
     "acceptedAnswers": [
-      "We did not understand the question."
+      "We did not understand the question.",
+      "We didn't understand the question."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -5761,7 +5805,8 @@
     "grammarExplanation": "一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。",
     "translation": "彼女はそのドレスを買いませんでした。",
     "acceptedAnswers": [
-      "She did not buy the dress."
+      "She did not buy the dress.",
+      "She didn't buy the dress."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -5835,7 +5880,8 @@
     "grammarExplanation": "一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。",
     "translation": "私はよく眠れませんでした。",
     "acceptedAnswers": [
-      "I did not sleep well."
+      "I did not sleep well.",
+      "I didn't sleep well."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -6623,7 +6669,8 @@
     "grammarExplanation": "me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。",
     "translation": "あなたに本当のことを話します。",
     "acceptedAnswers": [
-      "I will tell you the truth."
+      "I will tell you the truth.",
+      "I'll tell you the truth."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7414,7 +7461,8 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "今夜電話します。",
     "acceptedAnswers": [
-      "I will call you tonight."
+      "I will call you tonight.",
+      "I'll call you tonight."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7449,7 +7497,8 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "彼女は明日到着するでしょう。",
     "acceptedAnswers": [
-      "She will arrive tomorrow."
+      "She will arrive tomorrow.",
+      "She'll arrive tomorrow."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7484,7 +7533,8 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "私たちが手伝います。",
     "acceptedAnswers": [
-      "We will help you."
+      "We will help you.",
+      "We'll help you."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7597,7 +7647,9 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "彼はこの日を忘れないでしょう。",
     "acceptedAnswers": [
-      "He will not forget this day."
+      "He will not forget this day.",
+      "He won't forget this day.",
+      "He'll not forget this day."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7640,7 +7692,8 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "彼らは来週京都を訪れます。",
     "acceptedAnswers": [
-      "They will visit Kyoto next week."
+      "They will visit Kyoto next week.",
+      "They'll visit Kyoto next week."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7679,7 +7732,8 @@
     "grammarExplanation": "will + 動詞の原形で未来・予測・その場の意志を表す。",
     "translation": "あなたのかばんを運びます。",
     "acceptedAnswers": [
-      "I will carry your bag."
+      "I will carry your bag.",
+      "I'll carry your bag."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7804,7 +7858,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "私は今夜勉強する予定です。",
     "acceptedAnswers": [
-      "I am going to study tonight."
+      "I am going to study tonight.",
+      "I'm going to study tonight."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7851,7 +7906,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "彼女はギターを買う予定です。",
     "acceptedAnswers": [
-      "She is going to buy a guitar."
+      "She is going to buy a guitar.",
+      "She's going to buy a guitar."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7894,7 +7950,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "私たちは大阪を訪れる予定です。",
     "acceptedAnswers": [
-      "We are going to visit Osaka."
+      "We are going to visit Osaka.",
+      "We're going to visit Osaka."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -7933,7 +7990,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "雨が降りそうです。",
     "acceptedAnswers": [
-      "It is going to rain."
+      "It is going to rain.",
+      "It's going to rain."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8019,7 +8077,9 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "彼はやめるつもりはありません。",
     "acceptedAnswers": [
-      "He is not going to quit."
+      "He is not going to quit.",
+      "He isn't going to quit.",
+      "He's not going to quit."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8066,7 +8126,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "彼らは来月引っ越す予定です。",
     "acceptedAnswers": [
-      "They are going to move next month."
+      "They are going to move next month.",
+      "They're going to move next month."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8109,7 +8170,8 @@
     "grammarExplanation": "be going to + 動詞の原形で予定・根拠のある予測を表す。",
     "translation": "私は韓国語を学ぶつもりです。",
     "acceptedAnswers": [
-      "I am going to learn Korean."
+      "I am going to learn Korean.",
+      "I'm going to learn Korean."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8355,7 +8417,8 @@
     "grammarExplanation": "mustは強い義務、must notは禁止。",
     "translation": "ここで喫煙してはいけません。",
     "acceptedAnswers": [
-      "You must not smoke here."
+      "You must not smoke here.",
+      "You mustn't smoke here."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8472,7 +8535,8 @@
     "grammarExplanation": "mustは強い義務、must notは禁止。",
     "translation": "その電線に触ってはいけません。",
     "acceptedAnswers": [
-      "You must not touch that wire."
+      "You must not touch that wire.",
+      "You mustn't touch that wire."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8550,7 +8614,8 @@
     "grammarExplanation": "mustは強い義務、must notは禁止。",
     "translation": "水を無駄にしてはいけません。",
     "acceptedAnswers": [
-      "We must not waste water."
+      "We must not waste water.",
+      "We mustn't waste water."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8714,7 +8779,8 @@
     "grammarExplanation": "have toは必要・義務、do not have toは「必要がない」で禁止ではない。",
     "translation": "急ぐ必要はありません。",
     "acceptedAnswers": [
-      "You do not have to hurry."
+      "You do not have to hurry.",
+      "You don't have to hurry."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8800,7 +8866,8 @@
     "grammarExplanation": "have toは必要・義務、do not have toは「必要がない」で禁止ではない。",
     "translation": "彼は来る必要がありません。",
     "acceptedAnswers": [
-      "He does not have to come."
+      "He does not have to come.",
+      "He doesn't have to come."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -8976,7 +9043,8 @@
     "grammarExplanation": "have toは必要・義務、do not have toは「必要がない」で禁止ではない。",
     "translation": "私たちは切符を買う必要はありません。",
     "acceptedAnswers": [
-      "We do not have to buy tickets."
+      "We do not have to buy tickets.",
+      "We don't have to buy tickets."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -9167,7 +9235,8 @@
     "grammarExplanation": "should + 動詞の原形で助言・勧めを表す。",
     "translation": "朝食を抜かないほうがいいです。",
     "acceptedAnswers": [
-      "You should not skip breakfast."
+      "You should not skip breakfast.",
+      "You shouldn't skip breakfast."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -9319,7 +9388,8 @@
     "grammarExplanation": "should + 動詞の原形で助言・勧めを表す。",
     "translation": "あまり心配しないほうがいいです。",
     "acceptedAnswers": [
-      "You should not worry too much."
+      "You should not worry too much.",
+      "You shouldn't worry too much."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -9807,7 +9877,8 @@
     "grammarExplanation": "to + 動詞の原形が名詞の働きをし「〜すること」となる。",
     "translation": "一緒に歌うことは楽しいです。",
     "acceptedAnswers": [
-      "It is fun to sing together."
+      "It is fun to sing together.",
+      "It's fun to sing together."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -10598,7 +10669,7 @@
         "text": "."
       }
     ],
-    "grammarExplanation": "to不定詞は目的「〜するために」や感情の原因などを表す。",
+    "grammarExplanation": "「目覚めると〜だと分かった」という結果のto不定詞。ここでは目的「〜するために」ではなく、目覚めた結果気づいたことを表す。",
     "translation": "目が覚めると外には雪が積もっていました。",
     "acceptedAnswers": [
       "I woke up to find snow outside."
@@ -10936,7 +11007,8 @@
     "grammarExplanation": "動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。",
     "translation": "私は中国語を学ぶことに興味があります。",
     "acceptedAnswers": [
-      "I am interested in learning Chinese."
+      "I am interested in learning Chinese.",
+      "I'm interested in learning Chinese."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -11409,7 +11481,8 @@
     "grammarExplanation": "比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。",
     "translation": "彼は弟より背が高いです。",
     "acceptedAnswers": [
-      "He is taller than his brother."
+      "He is taller than his brother.",
+      "He's taller than his brother."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -11554,7 +11627,8 @@
     "grammarExplanation": "the + 最上級で「最も…」。good→best、bad→worstに注意。",
     "translation": "彼女はクラスで一番背が高いです。",
     "acceptedAnswers": [
-      "She is the tallest in our class."
+      "She is the tallest in our class.",
+      "She's the tallest in our class."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -11879,7 +11953,8 @@
     "grammarExplanation": "the + 最上級で「最も…」。good→best、bad→worstに注意。",
     "translation": "それは店で一番高いかばんです。",
     "acceptedAnswers": [
-      "It is the most expensive bag in the shop."
+      "It is the most expensive bag in the shop.",
+      "It's the most expensive bag in the shop."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -11926,7 +12001,8 @@
     "grammarExplanation": "the + 最上級で「最も…」。good→best、bad→worstに注意。",
     "translation": "彼女は三姉妹の末っ子です。",
     "acceptedAnswers": [
-      "She is the youngest of three sisters."
+      "She is the youngest of three sisters.",
+      "She's the youngest of three sisters."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12173,7 +12249,9 @@
     "grammarExplanation": "as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。",
     "translation": "私の携帯はあなたのものほど古くありません。",
     "acceptedAnswers": [
-      "My phone is not as old as yours."
+      "My phone is not as old as yours.",
+      "My phone isn't as old as yours.",
+      "My phone is not so old as yours."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12271,7 +12349,9 @@
     "grammarExplanation": "as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。",
     "translation": "私は昨日ほど忙しくありません。",
     "acceptedAnswers": [
-      "I am not as busy as yesterday."
+      "I am not as busy as yesterday.",
+      "I'm not as busy as yesterday.",
+      "I am not so busy as yesterday."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12318,7 +12398,8 @@
     "grammarExplanation": "as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。",
     "translation": "彼は母親と同じくらい親切です。",
     "acceptedAnswers": [
-      "He is as kind as his mother."
+      "He is as kind as his mother.",
+      "He's as kind as his mother."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12373,7 +12454,9 @@
     "grammarExplanation": "as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。",
     "translation": "テストは思っていたほど難しくありませんでした。",
     "acceptedAnswers": [
-      "The test was not as difficult as I expected."
+      "The test was not as difficult as I expected.",
+      "The test wasn't as difficult as I expected.",
+      "The test was not so difficult as I expected."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12514,7 +12597,8 @@
     "grammarExplanation": "becauseは理由、soは結果をつなぐ。",
     "translation": "雨が降ったので家にいました。",
     "acceptedAnswers": [
-      "I stayed home because it rained."
+      "I stayed home because it rained.",
+      "Because it rained, I stayed home."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12608,7 +12692,8 @@
     "grammarExplanation": "becauseは理由、soは結果をつなぐ。",
     "translation": "彼はうれしかったので笑いました。",
     "acceptedAnswers": [
-      "He smiled because he was happy."
+      "He smiled because he was happy.",
+      "Because he was happy, he smiled."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12710,7 +12795,8 @@
     "grammarExplanation": "becauseは理由、soは結果をつなぐ。",
     "translation": "寒かったのでコートを着ました。",
     "acceptedAnswers": [
-      "I wore a coat because it was cold."
+      "I wore a coat because it was cold.",
+      "Because it was cold, I wore a coat."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12808,7 +12894,8 @@
     "grammarExplanation": "becauseは理由、soは結果をつなぐ。",
     "translation": "道路が混んでいたので早く出発しました。",
     "acceptedAnswers": [
-      "We left early because the roads were busy."
+      "We left early because the roads were busy.",
+      "Because the roads were busy, we left early."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -12914,7 +13001,8 @@
     "grammarExplanation": "becauseは理由、soは結果をつなぐ。",
     "translation": "静かなのでこのカフェが好きです。",
     "acceptedAnswers": [
-      "I like this cafe because it is quiet."
+      "I like this cafe because it is quiet.",
+      "Because it is quiet, I like this cafe."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13063,7 +13151,8 @@
     "grammarExplanation": "whenは時、ifは条件。未来の話でも条件節内は原則現在形。",
     "translation": "雨が降ったら家にいます。",
     "acceptedAnswers": [
-      "If it rains, we will stay home."
+      "If it rains, we will stay home.",
+      "We will stay home if it rains."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13157,7 +13246,8 @@
     "grammarExplanation": "whenは時、ifは条件。未来の話でも条件節内は原則現在形。",
     "translation": "助けが必要なら私に聞いてください。",
     "acceptedAnswers": [
-      "If you need help, ask me."
+      "If you need help, ask me.",
+      "Ask me if you need help."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13259,7 +13349,9 @@
     "grammarExplanation": "whenは時、ifは条件。未来の話でも条件節内は原則現在形。",
     "translation": "時間があればあなたを訪ねます。",
     "acceptedAnswers": [
-      "If I have time, I will visit you."
+      "If I have time, I will visit you.",
+      "If I have time, I'll visit you.",
+      "I will visit you if I have time."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13361,7 +13453,9 @@
     "grammarExplanation": "whenは時、ifは条件。未来の話でも条件節内は原則現在形。",
     "translation": "彼女から電話があれば外出中だと伝えてください。",
     "acceptedAnswers": [
-      "If she calls, tell her I am out."
+      "If she calls, tell her I am out.",
+      "If she calls, tell her I'm out.",
+      "Tell her I am out if she calls."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13467,7 +13561,8 @@
     "grammarExplanation": "whenは時、ifは条件。未来の話でも条件節内は原則現在形。",
     "translation": "急げばバスに間に合います。",
     "acceptedAnswers": [
-      "If you hurry, you can catch the bus."
+      "If you hurry, you can catch the bus.",
+      "You can catch the bus if you hurry."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -13788,7 +13883,8 @@
     "grammarExplanation": "that節を動詞の目的語などとして使い「〜ということ」を表す。",
     "translation": "彼が来ると確信しています。",
     "acceptedAnswers": [
-      "I am sure that he will come."
+      "I am sure that he will come.",
+      "I'm sure that he will come."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -14093,7 +14189,8 @@
     "grammarExplanation": "was/were + -ingで過去のある時点で進行中の動作を表す。",
     "translation": "彼は眠っていませんでした。",
     "acceptedAnswers": [
-      "He was not sleeping."
+      "He was not sleeping.",
+      "He wasn't sleeping."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -15998,7 +16095,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "私は台湾を二度訪れたことがあります。",
     "acceptedAnswers": [
-      "I have visited Taiwan twice."
+      "I have visited Taiwan twice.",
+      "I've visited Taiwan twice."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16037,7 +16135,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "彼女は一度も寿司を食べたことがありません。",
     "acceptedAnswers": [
-      "She has never eaten sushi."
+      "She has never eaten sushi.",
+      "She's never eaten sushi."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16119,7 +16218,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "私たちは以前その映画を見たことがあります。",
     "acceptedAnswers": [
-      "We have watched that movie before."
+      "We have watched that movie before.",
+      "We've watched that movie before."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16158,7 +16258,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "彼は富士山に登ったことがあります。",
     "acceptedAnswers": [
-      "He has climbed Mount Fuji."
+      "He has climbed Mount Fuji.",
+      "He's climbed Mount Fuji."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16201,7 +16302,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "私は馬に乗ったことがありません。",
     "acceptedAnswers": [
-      "I have never ridden a horse."
+      "I have never ridden a horse.",
+      "I've never ridden a horse."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16283,7 +16385,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "彼らはこのステージで演奏したことがあります。",
     "acceptedAnswers": [
-      "They have played on this stage."
+      "They have played on this stage.",
+      "They've played on this stage."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16326,7 +16429,8 @@
     "grammarExplanation": "have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。",
     "translation": "私はそのレストランを一度試したことがあります。",
     "acceptedAnswers": [
-      "I have tried that restaurant once."
+      "I have tried that restaurant once.",
+      "I've tried that restaurant once."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16420,7 +16524,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "私はここに五年間住んでいます。",
     "acceptedAnswers": [
-      "I have lived here for five years."
+      "I have lived here for five years.",
+      "I've lived here for five years."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16463,7 +16568,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "彼女は子どものころから彼を知っています。",
     "acceptedAnswers": [
-      "She has known him since childhood."
+      "She has known him since childhood.",
+      "She's known him since childhood."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16510,7 +16616,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "私たちは十年間友達です。",
     "acceptedAnswers": [
-      "We have been friends for ten years."
+      "We have been friends for ten years.",
+      "We've been friends for ten years."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16553,7 +16660,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "彼は四月からここで働いています。",
     "acceptedAnswers": [
-      "He has worked here since April."
+      "He has worked here since April.",
+      "He's worked here since April."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16643,7 +16751,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "彼らは2020年から一緒に住んでいます。",
     "acceptedAnswers": [
-      "They have lived together since 2020."
+      "They have lived together since 2020.",
+      "They've lived together since 2020."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16686,7 +16795,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "私は今週ずっと忙しいです。",
     "acceptedAnswers": [
-      "I have been busy all week."
+      "I have been busy all week.",
+      "I've been busy all week."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16737,7 +16847,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "彼女は幼いころから音楽が大好きです。",
     "acceptedAnswers": [
-      "She has loved music since she was little."
+      "She has loved music since she was little.",
+      "She's loved music since she was little."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16780,7 +16891,8 @@
     "grammarExplanation": "have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。",
     "translation": "私たちは一時間待っています。",
     "acceptedAnswers": [
-      "We have waited for an hour."
+      "We have waited for an hour.",
+      "We've waited for an hour."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16874,7 +16986,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "私はちょうど宿題を終えたところです。",
     "acceptedAnswers": [
-      "I have just finished my homework."
+      "I have just finished my homework.",
+      "I've just finished my homework."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16909,7 +17022,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "彼女はもう出発しました。",
     "acceptedAnswers": [
-      "She has already left."
+      "She has already left.",
+      "She's already left."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -16987,7 +17101,9 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "私たちはまだ決めていません。",
     "acceptedAnswers": [
-      "We have not decided yet."
+      "We have not decided yet.",
+      "We haven't decided yet.",
+      "We've not decided yet."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17026,7 +17142,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "彼は財布をなくしてしまいました。",
     "acceptedAnswers": [
-      "He has lost his wallet."
+      "He has lost his wallet.",
+      "He's lost his wallet."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17061,7 +17178,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "彼らはもう到着しています。",
     "acceptedAnswers": [
-      "They have already arrived."
+      "They have already arrived.",
+      "They've already arrived."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17104,7 +17222,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "私はちょうど部屋を掃除したところです。",
     "acceptedAnswers": [
-      "I have just cleaned my room."
+      "I have just cleaned my room.",
+      "I've just cleaned my room."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17182,7 +17301,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "彼女は眼鏡を壊してしまいました。",
     "acceptedAnswers": [
-      "She has broken her glasses."
+      "She has broken her glasses.",
+      "She's broken her glasses."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17225,7 +17345,8 @@
     "grammarExplanation": "have/has + 過去分詞で完了・結果。just/already/yetに注目。",
     "translation": "私たちはクッキーを全部食べ終えました。",
     "acceptedAnswers": [
-      "We have finished all the cookies."
+      "We have finished all the cookies.",
+      "We've finished all the cookies."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17272,7 +17393,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "私は二時間ずっと勉強しています。",
     "acceptedAnswers": [
-      "I have been studying for two hours."
+      "I have been studying for two hours.",
+      "I've been studying for two hours."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17315,7 +17437,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "彼女は朝からずっと働いています。",
     "acceptedAnswers": [
-      "She has been working since morning."
+      "She has been working since morning.",
+      "She's been working since morning."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17401,7 +17524,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "私たちはずっとあなたを待っています。",
     "acceptedAnswers": [
-      "We have been waiting for you."
+      "We have been waiting for you.",
+      "We've been waiting for you."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17444,7 +17568,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "彼はずっとギターを練習しています。",
     "acceptedAnswers": [
-      "He has been practicing the guitar."
+      "He has been practicing the guitar.",
+      "He's been practicing the guitar."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17491,7 +17616,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "彼らは一時間話し続けています。",
     "acceptedAnswers": [
-      "They have been talking for an hour."
+      "They have been talking for an hour.",
+      "They've been talking for an hour."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17585,7 +17711,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "私はずっと鍵を探しています。",
     "acceptedAnswers": [
-      "I have been looking for my keys."
+      "I have been looking for my keys.",
+      "I've been looking for my keys."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17636,7 +17763,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "彼女は今週ずっとその小説を読んでいます。",
     "acceptedAnswers": [
-      "She has been reading that novel all week."
+      "She has been reading that novel all week.",
+      "She's been reading that novel all week."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17683,7 +17811,8 @@
     "grammarExplanation": "have/has been + -ingで過去から現在まで続く動作を表す。",
     "translation": "私たちはずっとお祭りの準備をしています。",
     "acceptedAnswers": [
-      "We have been preparing for the festival."
+      "We have been preparing for the festival.",
+      "We've been preparing for the festival."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17730,7 +17859,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "私には中国語を話す友達がいます。",
     "acceptedAnswers": [
-      "I have a friend who speaks Chinese."
+      "I have a friend who speaks Chinese.",
+      "I have a friend that speaks Chinese."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17777,7 +17907,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "優勝した女の子は私の妹です。",
     "acceptedAnswers": [
-      "The girl who won is my sister."
+      "The girl who won is my sister.",
+      "The girl that won is my sister."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17824,7 +17955,9 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "彼は私を助けてくれた先生です。",
     "acceptedAnswers": [
-      "He is the teacher who helped me."
+      "He is the teacher who helped me.",
+      "He's the teacher who helped me.",
+      "He is the teacher that helped me."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17871,7 +18004,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "音楽が好きな人はこれを楽しめるでしょう。",
     "acceptedAnswers": [
-      "People who love music will enjoy this."
+      "People who love music will enjoy this.",
+      "People that love music will enjoy this."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17922,7 +18056,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "隣に住む男性は親切です。",
     "acceptedAnswers": [
-      "The man who lives next door is kind."
+      "The man who lives next door is kind.",
+      "The man that lives next door is kind."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -17977,7 +18112,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "私は自分で曲を書く歌手に会いました。",
     "acceptedAnswers": [
-      "I met a singer who writes her own songs."
+      "I met a singer who writes her own songs.",
+      "I met a singer that writes her own songs."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18024,7 +18160,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "あなたに電話した少年が待っています。",
     "acceptedAnswers": [
-      "The boy who called you is waiting."
+      "The boy who called you is waiting.",
+      "The boy that called you is waiting."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18071,7 +18208,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "彼女はそれを修理できる人を知っています。",
     "acceptedAnswers": [
-      "She knows someone who can fix it."
+      "She knows someone who can fix it.",
+      "She knows someone that can fix it."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18118,7 +18256,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "美術を教える女性は有名です。",
     "acceptedAnswers": [
-      "The woman who teaches art is famous."
+      "The woman who teaches art is famous.",
+      "The woman that teaches art is famous."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18169,7 +18308,8 @@
     "grammarExplanation": "whoが人を先行詞とする関係節の主語になる。",
     "translation": "私たちはかばんを見つけてくれた人に感謝しました。",
     "acceptedAnswers": [
-      "We thanked the person who found our bag."
+      "We thanked the person who found our bag.",
+      "We thanked the person that found our bag."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18220,7 +18360,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "これは私を笑顔にする曲です。",
     "acceptedAnswers": [
-      "This is a song which makes me smile."
+      "This is a song which makes me smile.",
+      "This is a song that makes me smile."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18267,7 +18408,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "私が買った本は面白いです。",
     "acceptedAnswers": [
-      "The book which I bought is interesting."
+      "The book which I bought is interesting.",
+      "The book that I bought is interesting."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18318,7 +18460,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "私はこのドアを開ける鍵を見つけました。",
     "acceptedAnswers": [
-      "I found a key which opens this door."
+      "I found a key which opens this door.",
+      "I found a key that opens this door."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18365,7 +18508,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "彼女が作ったケーキはおいしかったです。",
     "acceptedAnswers": [
-      "The cake which she made was delicious."
+      "The cake which she made was delicious.",
+      "The cake that she made was delicious."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18412,7 +18556,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "これは私が使っているカメラです。",
     "acceptedAnswers": [
-      "This is the camera which I use."
+      "This is the camera which I use.",
+      "This is the camera that I use."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18459,7 +18604,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "中心街へ行くバスが遅れています。",
     "acceptedAnswers": [
-      "The bus which goes downtown is late."
+      "The bus which goes downtown is late.",
+      "The bus that goes downtown is late."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18506,7 +18652,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "彼が描いた絵は美しいです。",
     "acceptedAnswers": [
-      "The picture which he painted is beautiful."
+      "The picture which he painted is beautiful.",
+      "The picture that he painted is beautiful."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18557,7 +18704,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "あなたがくれたペンをなくしました。",
     "acceptedAnswers": [
-      "I lost the pen which you gave me."
+      "I lost the pen which you gave me.",
+      "I lost the pen that you gave me."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18604,7 +18752,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "私たちが遊んだゲームは楽しかったです。",
     "acceptedAnswers": [
-      "The game which we played was fun."
+      "The game which we played was fun.",
+      "The game that we played was fun."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18651,7 +18800,8 @@
     "grammarExplanation": "whichは物・動物を先行詞とする関係代名詞。",
     "translation": "彼女は壊れていた時計を直しました。",
     "acceptedAnswers": [
-      "She fixed the clock which was broken."
+      "She fixed the clock which was broken.",
+      "She fixed the clock that was broken."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18698,7 +18848,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "これは私が大好きな映画です。",
     "acceptedAnswers": [
-      "This is the movie that I love."
+      "This is the movie that I love.",
+      "This is the movie which I love."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18741,7 +18892,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "吠えた犬は私の犬です。",
     "acceptedAnswers": [
-      "The dog that barked is mine."
+      "The dog that barked is mine.",
+      "The dog who barked is mine."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18792,7 +18944,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "おいしいパンを売る場所を知っています。",
     "acceptedAnswers": [
-      "I know a place that sells good bread."
+      "I know a place that sells good bread.",
+      "I know a place which sells good bread."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18839,7 +18992,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "彼女が書いた手紙は長かったです。",
     "acceptedAnswers": [
-      "The letter that she wrote was long."
+      "The letter that she wrote was long.",
+      "The letter which she wrote was long."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18886,7 +19040,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "電話してきた男性は私のおじです。",
     "acceptedAnswers": [
-      "The man that called is my uncle."
+      "The man that called is my uncle.",
+      "The man who called is my uncle."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18933,7 +19088,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "これは私が欲しかった贈り物です。",
     "acceptedAnswers": [
-      "This is the gift that I wanted."
+      "This is the gift that I wanted.",
+      "This is the gift which I wanted."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -18980,7 +19136,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "彼が買った靴は赤いです。",
     "acceptedAnswers": [
-      "The shoes that he bought are red."
+      "The shoes that he bought are red.",
+      "The shoes which he bought are red."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -19027,7 +19184,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "私たちが聴いた曲は美しかったです。",
     "acceptedAnswers": [
-      "The song that we heard was beautiful."
+      "The song that we heard was beautiful.",
+      "The song which we heard was beautiful."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -19074,7 +19232,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "なくしたノートを見つけました。",
     "acceptedAnswers": [
-      "I found the notebook that I lost."
+      "I found the notebook that I lost.",
+      "I found the notebook which I lost."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -19121,7 +19280,8 @@
     "grammarExplanation": "thatは人・物の両方を先行詞にできる。",
     "translation": "ここで眠る猫は人懐っこいです。",
     "acceptedAnswers": [
-      "The cat that sleeps here is friendly."
+      "The cat that sleeps here is friendly.",
+      "The cat who sleeps here is friendly."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -20695,7 +20855,8 @@
     "grammarExplanation": "間接疑問文は疑問詞 + 主語 + 動詞の語順にする。",
     "translation": "なぜ彼女が去ったのか分かりません。",
     "acceptedAnswers": [
-      "I do not know why she left."
+      "I do not know why she left.",
+      "I don't know why she left."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -20781,7 +20942,8 @@
     "grammarExplanation": "間接疑問文は疑問詞 + 主語 + 動詞の語順にする。",
     "translation": "彼女は私がどう感じているか尋ねました。",
     "acceptedAnswers": [
-      "She asked me how I felt."
+      "She asked me how I felt.",
+      "She asked me how I feel."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -20973,7 +21135,8 @@
     "grammarExplanation": "間接疑問文は疑問詞 + 主語 + 動詞の語順にする。",
     "translation": "携帯をどこに置いたか思い出せません。",
     "acceptedAnswers": [
-      "I cannot remember where I put my phone."
+      "I cannot remember where I put my phone.",
+      "I can't remember where I put my phone."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21020,7 +21183,8 @@
     "grammarExplanation": "what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。",
     "translation": "何と言えばいいか分かりません。",
     "acceptedAnswers": [
-      "I do not know what to say."
+      "I do not know what to say.",
+      "I don't know what to say."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21208,7 +21372,8 @@
     "grammarExplanation": "what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。",
     "translation": "彼はどれを選べばいいか分かりません。",
     "acceptedAnswers": [
-      "He does not know which one to choose."
+      "He does not know which one to choose.",
+      "He doesn't know which one to choose."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21423,7 +21588,8 @@
     "grammarExplanation": "what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。",
     "translation": "何を着ればいいか決められません。",
     "acceptedAnswers": [
-      "I cannot decide what to wear."
+      "I cannot decide what to wear.",
+      "I can't decide what to wear."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21513,7 +21679,8 @@
     "grammarExplanation": "too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。",
     "translation": "彼は疲れすぎて勉強できません。",
     "acceptedAnswers": [
-      "He is too tired to study."
+      "He is too tired to study.",
+      "He's too tired to study."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21650,7 +21817,8 @@
     "grammarExplanation": "too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。",
     "translation": "ここは暗すぎて本を読めません。",
     "acceptedAnswers": [
-      "It is too dark to read here."
+      "It is too dark to read here.",
+      "It's too dark to read here."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21744,7 +21912,8 @@
     "grammarExplanation": "too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。",
     "translation": "私は忙しすぎて外出できません。",
     "acceptedAnswers": [
-      "I am too busy to go out."
+      "I am too busy to go out.",
+      "I'm too busy to go out."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21834,7 +22003,8 @@
     "grammarExplanation": "too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。",
     "translation": "彼は若すぎて運転できません。",
     "acceptedAnswers": [
-      "He is too young to drive."
+      "He is too young to drive.",
+      "He's too young to drive."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -21924,7 +22094,8 @@
     "grammarExplanation": "形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。",
     "translation": "彼女は運転できる年齢です。",
     "acceptedAnswers": [
-      "She is old enough to drive."
+      "She is old enough to drive.",
+      "She's old enough to drive."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -22026,7 +22197,8 @@
     "grammarExplanation": "形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。",
     "translation": "彼は棚に届くほど背が高いです。",
     "acceptedAnswers": [
-      "He is tall enough to reach the shelf."
+      "He is tall enough to reach the shelf.",
+      "He's tall enough to reach the shelf."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -22312,7 +22484,8 @@
     "grammarExplanation": "形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。",
     "translation": "彼はその箱を持ち上げられるほど力があります。",
     "acceptedAnswers": [
-      "He is strong enough to lift the box."
+      "He is strong enough to lift the box.",
+      "He's strong enough to lift the box."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -22677,7 +22850,7 @@
     "topicId": "G55",
     "grade": 3,
     "english": "She let her brother borrow the book.",
-    "japanese": "彼女は弟にその本を貸すことを許しました。",
+    "japanese": "彼女は弟がその本を借りるのを許しました。",
     "tokens": [
       {
         "id": "G55Q08T01",
@@ -22713,7 +22886,7 @@
       }
     ],
     "grammarExplanation": "make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。",
-    "translation": "彼女は弟にその本を貸すことを許しました。",
+    "translation": "彼女は弟がその本を借りるのを許しました。",
     "acceptedAnswers": [
       "She let her brother borrow the book."
     ],
@@ -23977,7 +24150,8 @@
     "grammarExplanation": "I wish + 主語 + 過去形で現在と異なる願望を表す。",
     "translation": "雨が降っていなければいいのに。",
     "acceptedAnswers": [
-      "I wish it were not raining."
+      "I wish it were not raining.",
+      "I wish it weren't raining."
     ],
     "reviewStatus": "editorial-draft"
   },
@@ -24773,7 +24947,7 @@
         "text": "."
       }
     ],
-    "grammarExplanation": "複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。",
+    "grammarExplanation": "arrivedは過去形、had already leftは過去完了形。到着するより前に出発が完了していたことを示す（発展）。",
     "translation": "私が着いたとき彼女はすでに出発していました。",
     "acceptedAnswers": [
       "When I arrived, she had already left."
@@ -24981,7 +25155,7 @@
         "text": "."
       }
     ],
-    "grammarExplanation": "複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。",
+    "grammarExplanation": "askedは過去形。where I had foundは間接疑問の平叙文語順で、尋ねた時より前の発見を過去完了で表す（発展）。",
     "translation": "彼女は私がどこで鍵を見つけたか尋ねました。",
     "acceptedAnswers": [
       "She asked me where I had found the key."
