@@ -1,0 +1,2 @@
+# The supplied spreadsheet export intentionally uses CRLF.
+*.csv whitespace=cr-at-eol
