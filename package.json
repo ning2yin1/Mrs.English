@@ -12,7 +12,8 @@
     "audit:data": "tsx scripts/audit.ts",
     "format": "prettier --write src tests scripts vite.config.ts playwright.config.ts",
     "prepare:assets": "node scripts/prepare-assets.mjs",
-    "test:webkit": "bash scripts/test-webkit.sh"
+    "test:webkit": "bash scripts/test-webkit.sh",
+    "prepare": "node scripts/prepare-assets.mjs"
   },
   "dependencies": {
     "idb": "^8.0.3",

@@ -73,8 +73,24 @@ E2Eは4難易度の完走、誤答・解説保持、再開、10連保証とス�
 
 iPhone実機のSafariとホーム画面起動、ノッチ左右、システムキーボード、OSの音声制約・ストレージ回収は実機での最終確認が必要です。デスクトップWebKitの検証は実機試験の代用にはなりません。詳しい実行結果は `docs/IMPLEMENTATION-REPORT.md` を参照してください。
 
-## 公開について
+## GitHub Pagesへのデプロイ
 
-**この作業は公開デプロイを行いません。** GitHub Actionsによる自動公開も設定しません。人物写真・WAVを新たにコミットしたり、GitHub Pagesなどへ配信する前に、ユーザーの明示的な確認が必要です。既に提供元コミットに含まれていた素材について、この実装作業で公開許可を得たとはみなしません。
+GitHubの **Settings → Pages → Source** を **GitHub Actions** に設定してください。
+`.github/workflows/deploy-pages.yml` がmainブランチへのPush時に次を実行します。
 
-ビルド成果物 `dist` にはローカル検証のため人物素材が含まれます。承認前にアップロードしないでください。公開用に人物素材を除き、端末内インポート方式へ変更する場合は別の公開仕様として実装・検証してください。
+1. Node.js 24で `npm ci`
+2. `npm run prepare` で写真・音声・UI素材を準備
+3. `npm run build` で `/Mrs.English/` 用の本番ファイルを生成
+4. `dist/` をPagesアーティファクトとしてアップロードし、GitHub Pagesへデプロイ
+
+`prepare` は既存の `prepare:assets` と同じ処理です。npmのライフサイクル上、`npm ci` でも自動実行されます。素材準備は繰り返し実行できます。従来の `npm run prepare:assets` も使用できます。
+
+ワークフローがmainへマージされると、そのPushから自動公開が始まります。Actions画面の **Deploy Mrs.English to GitHub Pages** で実行結果を確認してください。以前の `pages-build-deployment` は過去の履歴です。必要な場合は同ワークフローの **Run workflow** からmainを選んで再実行できます。main以外からの手動実行とPRでは配信しません。
+
+配信先：`https://ning2yin1.github.io/Mrs.English/`
+
+iPhoneのSafariで開き、共有メニューから「ホーム画面に追加」してください。ホーム画面から横向きで起動し、オフライン利用前に設定から写真・音声を保存できます。更新時はアプリの設定から新しいバージョンを適用してください。
+
+### 配信に含まれる素材
+
+`dist/` には提供済みの人物写真・WAVが含まれ、Pagesへデプロイするとこれらも一般公開されます。ソースの人物素材や生成された配信用コピーを、この変更で新規コミットすることはありません。新たな人物写真・WAVのコミット・公開配信には、事前にユーザーの確認が必要です。
