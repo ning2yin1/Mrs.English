@@ -6,6 +6,10 @@ class AudioManager {
   voice = new Audio();
   bgm = new Audio();
   settings: Settings | null = null;
+  voiceSource: AudioBufferSourceNode | null = null;
+  voiceGain: GainNode | null = null;
+  generation = 0;
+  buffers = new Map<string, Promise<AudioBuffer>>();
   constructor() {
     this.voice.preload = "auto";
     this.bgm.loop = true;
@@ -23,6 +27,8 @@ class AudioManager {
   configure(settings: Settings) {
     this.settings = settings;
     this.voice.volume = settings.muted ? 0 : settings.voice;
+    if (this.voiceGain)
+      this.voiceGain.gain.value = settings.muted ? 0 : settings.voice;
     this.bgm.volume = settings.muted ? 0 : settings.bgm;
     if (settings.muted) this.bgm.pause();
     else this.startBgm();
@@ -53,20 +59,69 @@ class AudioManager {
       osc.stop(t + 0.18);
     });
   }
+  async prepareVoice(v: Voice) {
+    if (!this.context) return null;
+    let buffer = this.buffers.get(v.id);
+    if (!buffer) {
+      const ctx = this.context;
+      buffer = fetch(url(v.path))
+        .then((response) => {
+          if (!response.ok) throw Error("音声を読み込めませんでした。");
+          return response.arrayBuffer();
+        })
+        .then((data) => ctx.decodeAudioData(data));
+      this.buffers.set(v.id, buffer);
+      buffer.catch(() => this.buffers.delete(v.id));
+    }
+    return buffer;
+  }
   async play(v: Voice) {
     this.stop();
-    this.voice.src = url(v.path);
+    const generation = this.generation;
     if (this.settings?.muted || !this.settings?.voice) return true;
+    const ctx = this.context;
+    if (ctx?.state === "running") {
+      try {
+        const buffer = await this.prepareVoice(v);
+        if (!buffer || generation !== this.generation) return false;
+        const source = ctx.createBufferSource(),
+          gain = ctx.createGain();
+        gain.gain.value = this.settings?.muted
+          ? 0
+          : (this.settings?.voice ?? 0.7);
+        source.buffer = buffer;
+        source.connect(gain).connect(ctx.destination);
+        this.voiceSource = source;
+        this.voiceGain = gain;
+        source.start();
+        return true;
+      } catch {
+        return false;
+      }
+    }
+    this.voice.src = url(v.path);
     try {
       await this.voice.play();
+      if (generation !== this.generation) {
+        this.voice.pause();
+        return false;
+      }
       return true;
     } catch {
       return false;
     }
   }
   stop() {
+    this.generation++;
     this.voice.pause();
     this.voice.currentTime = 0;
+    try {
+      this.voiceSource?.stop();
+    } catch {}
+    this.voiceSource?.disconnect();
+    this.voiceGain?.disconnect();
+    this.voiceSource = null;
+    this.voiceGain = null;
     window.speechSynthesis?.cancel();
   }
   speak(text: string) {

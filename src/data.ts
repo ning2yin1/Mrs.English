@@ -1,3 +1,4 @@
+import framing from "../data/card-framing.json" with { type: "json" };
 import topicsJson from "../data/grammar-topics.json" with { type: "json" };
 import questionsJson from "../data/questions-600.json" with { type: "json" };
 import assetsJson from "../data/assets.json" with { type: "json" };
@@ -5,7 +6,13 @@ import modesJson from "../data/mode-overrides.json" with { type: "json" };
 export const topics = topicsJson;
 export const questions = questionsJson;
 export type Question = (typeof questions)[number];
-export const assets = assetsJson;
+export const assets = {
+  ...assetsJson,
+  cards: assetsJson.cards.map((card) => ({
+    ...card,
+    ...framing[card.id as keyof typeof framing],
+  })),
+};
 export type Card = (typeof assets.cards)[number];
 export type Voice = (typeof assets.audio)[number];
 export const modes = modesJson as Record<

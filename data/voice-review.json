@@ -1,0 +1,278 @@
+[
+  {
+    "voiceId": "group-voice-01",
+    "member": "group",
+    "path": "assets/audio/voice/group-01.wav",
+    "unverifiedLabel": "拍手",
+    "transcript": null,
+    "meaningClass": "unknown",
+    "ranks": [],
+    "photoCardId": null,
+    "reviewStatus": "excluded",
+    "reason": "選択した個別メンバーのボイスではないため対象外",
+    "photoCardIds": []
+  },
+  {
+    "voiceId": "motoki-voice-01",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-01.wav",
+    "transcript": "うぃす",
+    "meaningClass": "greeting",
+    "ranks": [],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "motoki-voice-02",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-02.wav",
+    "transcript": "えぐぅ！",
+    "meaningClass": "celebration",
+    "ranks": [
+      "S",
+      "A"
+    ],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "motoki-voice-03",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-03.wav",
+    "transcript": "オッケー",
+    "meaningClass": "affirmation",
+    "ranks": [
+      "A",
+      "B",
+      "C"
+    ],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "motoki-voice-04",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-04.wav",
+    "transcript": "ガチでマジで",
+    "meaningClass": "context-dependent",
+    "ranks": [],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "motoki-voice-05",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-05.wav",
+    "transcript": "最強",
+    "meaningClass": "praise",
+    "ranks": [
+      "S"
+    ],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "motoki-voice-06",
+    "member": "motoki",
+    "path": "assets/audio/voice/motoki-06.wav",
+    "transcript": "素敵な日だ",
+    "meaningClass": "positive",
+    "ranks": [
+      "S",
+      "A",
+      "B"
+    ],
+    "photoCardId": "motoki-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "motoki-A-01",
+      "motoki-A-02"
+    ]
+  },
+  {
+    "voiceId": "hiloto-voice-01",
+    "member": "hiloto",
+    "path": "assets/audio/voice/hiloto-01.wav",
+    "transcript": "すみません",
+    "meaningClass": "apology",
+    "ranks": [],
+    "photoCardId": "hiloto-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "hiloto-A-01",
+      "hiloto-A-02"
+    ]
+  },
+  {
+    "voiceId": "hiloto-voice-02",
+    "member": "hiloto",
+    "path": "assets/audio/voice/hiloto-02.wav",
+    "transcript": "大丈夫",
+    "meaningClass": "reassurance",
+    "ranks": [
+      "A",
+      "B",
+      "C"
+    ],
+    "photoCardId": "hiloto-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "hiloto-A-01",
+      "hiloto-A-02"
+    ]
+  },
+  {
+    "voiceId": "hiloto-voice-03",
+    "member": "hiloto",
+    "path": "assets/audio/voice/hiloto-03.wav",
+    "transcript": "楽しみ",
+    "meaningClass": "joyful-anticipation",
+    "ranks": [
+      "S",
+      "A",
+      "B"
+    ],
+    "photoCardId": "hiloto-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "hiloto-A-01",
+      "hiloto-A-02"
+    ]
+  },
+  {
+    "voiceId": "hiloto-voice-04",
+    "member": "hiloto",
+    "path": "assets/audio/voice/hiloto-04.wav",
+    "transcript": "頑張れ",
+    "meaningClass": "encouragement",
+    "ranks": [
+      "B",
+      "C"
+    ],
+    "photoCardId": "hiloto-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "hiloto-A-01",
+      "hiloto-A-02"
+    ]
+  },
+  {
+    "voiceId": "ryoka-voice-01",
+    "member": "ryoka",
+    "path": "assets/audio/voice/ryoka-01.wav",
+    "transcript": "あれ？",
+    "meaningClass": "question",
+    "ranks": [],
+    "photoCardId": "ryoka-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "ryoka-A-01",
+      "ryoka-A-02"
+    ]
+  },
+  {
+    "voiceId": "ryoka-voice-02",
+    "member": "ryoka",
+    "path": "assets/audio/voice/ryoka-02.wav",
+    "transcript": "いいよ",
+    "meaningClass": "affirmation",
+    "ranks": [
+      "A",
+      "B",
+      "C"
+    ],
+    "photoCardId": "ryoka-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "ryoka-A-01",
+      "ryoka-A-02"
+    ]
+  },
+  {
+    "voiceId": "ryoka-voice-03",
+    "member": "ryoka",
+    "path": "assets/audio/voice/ryoka-03.wav",
+    "transcript": "お疲れ様",
+    "meaningClass": "appreciation",
+    "ranks": [
+      "A",
+      "B",
+      "C"
+    ],
+    "photoCardId": "ryoka-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "ryoka-A-01",
+      "ryoka-A-02"
+    ]
+  },
+  {
+    "voiceId": "ryoka-voice-04",
+    "member": "ryoka",
+    "path": "assets/audio/voice/ryoka-04.wav",
+    "transcript": "わーい",
+    "meaningClass": "celebration",
+    "ranks": [
+      "S",
+      "A"
+    ],
+    "photoCardId": "ryoka-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "ryoka-A-01",
+      "ryoka-A-02"
+    ]
+  },
+  {
+    "voiceId": "ryoka-voice-05",
+    "member": "ryoka",
+    "path": "assets/audio/voice/ryoka-05.wav",
+    "transcript": "アッハッハ",
+    "meaningClass": "joy",
+    "ranks": [
+      "S",
+      "A"
+    ],
+    "photoCardId": "ryoka-A-01",
+    "reviewStatus": "user-confirmed-transcript",
+    "reviewEvidence": "ユーザーが実音声と台詞ラベルの一致を確認。聴取不可の環境で実聴したと偽らず、確認済み台詞の意味から分類。",
+    "photoCardIds": [
+      "ryoka-A-01",
+      "ryoka-A-02"
+    ]
+  }
+]

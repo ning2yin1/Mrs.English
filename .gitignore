@@ -6,3 +6,6 @@ test-results/
 public/assets/photos/
 public/assets/audio/
 *.log
+public/assets/ui/
+public/assets/backgrounds/
+public/assets/branding/

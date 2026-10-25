@@ -1,3 +1,9 @@
+import {
+  choosePresentation,
+  resultCandidates,
+  voiceReviews,
+} from "../src/voices";
+import { claimWelcome, finishWelcome } from "../src/game";
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync, existsSync } from "node:fs";
@@ -13,7 +19,6 @@ import {
   answerQuestion,
   bank,
   begin,
-  chooseVoice,
   claimLogin,
   draw,
   easyQuestion,
@@ -234,14 +239,114 @@ test("save round trip, interrupted feedback state, corrupt and hostile backups r
   assert.throws(() => importSave("x".repeat(2000001)));
   assert.deepEqual(s, importSave(exportSave(s)));
 });
-test("result voice avoids repeats and maps independently from grade", () => {
-  let last = "";
-  const r = rng();
-  for (let i = 0; i < 100; i++) {
-    const v = chooseVoice(last, r);
-    assert.notEqual(v.id, last);
-    last = v.id;
-  }
+test("result voices match member, grade and confirmed content, with nonrepeating pairs", () => {
+  const random = rng();
+  for (const member of ["motoki", "hiloto", "ryoka"] as const)
+    for (const rank of ["S", "A", "B", "C"]) {
+      let lastVoice = "",
+        lastPhoto = "";
+      const pool = resultCandidates(member, rank);
+      assert.ok(pool.length >= 2);
+      for (let i = 0; i < 50; i++) {
+        const p = choosePresentation(
+          member,
+          rank,
+          lastVoice,
+          lastPhoto,
+          random,
+        )!;
+        assert.ok(p);
+        assert.notEqual(
+          p.voiceId + ":" + p.photoCardId,
+          lastVoice + ":" + lastPhoto,
+        );
+        const review = voiceReviews.find((v) => v.voiceId === p.voiceId)!;
+        assert.equal(review.member, member);
+        assert.ok(review.ranks.includes(rank));
+        assert.equal(review.reviewStatus, "user-confirmed-transcript");
+        assert.equal(
+          assets.cards.find((c) => c.id === p.photoCardId)!.member,
+          member,
+        );
+        assert.ok(
+          ![
+            "group-voice-01",
+            "hiloto-voice-01",
+            "ryoka-voice-01",
+            "motoki-voice-01",
+            "motoki-voice-04",
+          ].includes(p.voiceId),
+        );
+        lastVoice = p.voiceId;
+        lastPhoto = p.photoCardId;
+      }
+    }
+});
+test("legacy v1 save migrates additively without changing GP/cards/affection/progress/settings", () => {
+  const legacy: any = freshSave();
+  legacy.gp = 7654;
+  legacy.cards[assets.cards[0].id] = 4;
+  legacy.affection.hiloto = 123;
+  legacy.chat.hiloto = 5;
+  legacy.records["G01:EASY"] = { best: 900, last: 800, plays: 3 };
+  legacy.mistakes = ["G01Q01"];
+  legacy.settings.wallpaper = "BG20";
+  delete legacy.profile;
+  delete legacy.lastResultPhoto;
+  const before = structuredClone(legacy),
+    next = validateSave(legacy);
+  assert.equal(next.profile.step, 1);
+  assert.equal(next.profile.giftClaimed, false);
+  for (const key of Object.keys(before))
+    assert.deepEqual((next as any)[key], before[key]);
+  assert.deepEqual(legacy, before);
+  assert.deepEqual(
+    importSave(JSON.stringify({ app: "Mrs.English", format: 1, data: legacy })),
+    next,
+  );
+});
+test("free welcome ten-pack is guaranteed, costs no GP, survives reload and is awarded once", () => {
+  const s = freshSave();
+  s.gp = 321;
+  s.profile.nickname = "MINT";
+  s.profile.step = 4;
+  s.cards[assets.cards[0].id] = 3;
+  s.gacha = [assets.cards[0].id];
+  const gift = claimWelcome(s, () => 0);
+  assert.equal(gift.length, 10);
+  assert.equal(s.gp, 321);
+  assert.ok(
+    gift.some((id) =>
+      ["A", "S"].includes(assets.cards.find((c) => c.id === id)!.rarity),
+    ),
+  );
+  assert.equal(
+    Object.values(s.cards).reduce((a, b) => a + b, 0),
+    13,
+  );
+  assert.deepEqual(s.gacha, [assets.cards[0].id]);
+  const reloaded = importSave(exportSave(s));
+  assert.deepEqual(
+    claimWelcome(reloaded, () => 0.99),
+    gift,
+  );
+  assert.deepEqual(reloaded, s);
+  finishWelcome(reloaded);
+  assert.equal(reloaded.profile.completed, true);
+  assert.equal(reloaded.profile.step, 5);
+  validateSave(reloaded);
+  assert.deepEqual(claimWelcome(reloaded), gift);
+  assert.equal(
+    Object.values(reloaded.cards).reduce((a, b) => a + b, 0),
+    13,
+  );
+});
+test("onboarding validation rejects a completed profile without a claimed gift", () => {
+  const s = freshSave();
+  s.profile.nickname = "MINT";
+  s.profile.step = 5;
+  s.profile.completed = true;
+  assert.throws(() => validateSave(s));
 });
 
 test("imports reject an out-of-range question cursor and unowned gacha references", () => {
