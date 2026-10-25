@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "note": "テンプレート。nullは未受領/未確定。実在ファイル名や値を推測しない。",
+  "backgrounds": [
+    {
+      "id": "background-01",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "background-02",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "background-03",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "background-04",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "background-05",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "background-06",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "background-07",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "background-08",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "background-09",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "background-10",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "background-11",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "id": "background-12",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": "background-13",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "id": "background-14",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "background-15",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "id": "background-16",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "id": "background-17",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "id": "background-18",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "id": "background-19",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "id": "background-20",
+      "file": null,
+      "focalPoint": null,
+      "grammarNumbers": [
+        58,
+        59,
+        60
+      ]
+    }
+  ],
+  "homeWallpaperId": null,
+  "members": [],
+  "cards": [],
+  "cardRecordExample": {
+    "id": null,
+    "memberId": null,
+    "rank": "C",
+    "photoFile": null,
+    "photoPosition": null,
+    "caption": null
+  },
+  "audio": {
+    "bgm": null,
+    "sfx": {
+      "tap": null,
+      "correct": null,
+      "incorrect": null,
+      "gachaNormal": null,
+      "gachaA": null,
+      "gachaS": null,
+      "reward": null
+    }
+  },
+  "gameConfig": {
+    "grammarCount": 60,
+    "questionsPerPlay": 10,
+    "difficulties": [
+      "EASY",
+      "NORMAL",
+      "HARD",
+      "MASTER"
+    ],
+    "gachaCostOne": null,
+    "gachaCostTen": null,
+    "gachaRates": null,
+    "duplicatePolicy": null,
+    "scoreRankThresholds": null,
+    "loginCycleDays": null,
+    "loginTimezone": null
+  },
+  "chatScripts": []
+}

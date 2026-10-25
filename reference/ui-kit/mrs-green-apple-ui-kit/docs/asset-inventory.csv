@@ -1,0 +1,118 @@
+﻿file,png,width,height,png_width,png_height,screen,purpose,recommended_css_size,layer,animation,css,nine_slice,origin
+assets/ui/common/nav-bar.svg,assets/ui/common/nav-bar.png,1600,112,1600,112,common,nav-bar,safe width×56px,70,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/common/nav-selected.svg,assets/ui/common/nav-selected.png,240,104,240,104,common,nav-selected,1タブ幅×52px,71,tab-160,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/common/notification-badge.svg,assets/ui/common/notification-badge.png,40,40,40,40,common,notification-badge,10×10px,90,none,数字はDOM。未読はアクセシブル名も更新。,,svg-authored
+assets/ui/common/panel-glass.svg,assets/ui/common/panel-glass.png,640,320,640,320,common,panel-glass,320×160px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/common/panel-quiet.svg,assets/ui/common/panel-quiet.png,640,320,640,320,common,panel-quiet,320×160px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/common/modal-frame.svg,assets/ui/common/modal-frame.png,1120,560,1120,560,common,modal-frame,560×280px,80,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/common/button-primary.svg,assets/ui/common/button-primary.png,400,96,400,96,common,button-primary,200×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/common/button-secondary.svg,assets/ui/common/button-secondary.png,400,96,400,96,common,button-secondary,200×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/common/button-gold.svg,assets/ui/common/button-gold.png,400,96,400,96,common,button-gold,200×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/common/tab-chip.svg,assets/ui/common/tab-chip.png,200,88,200,88,common,tab-chip,100×44px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/common/tab-selected.svg,assets/ui/common/tab-selected.png,200,88,200,88,common,tab-selected,100×44px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/common/divider.svg,assets/ui/common/divider.png,640,8,640,8,common,divider,可変幅×1px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/common/focus-ring.svg,assets/ui/common/focus-ring.png,400,96,400,96,common,focus-ring,200×48px,30,none,キーボードfocus-visible。色だけで状態を示さない。,"[28, 28, 28, 28]",svg-authored
+assets/ui/title/logo-ornament.svg,assets/ui/title/logo-ornament.png,960,280,960,280,title,logo-ornament,360–440×105–128px,30,none,タイトル文字は別DOM。仮称GREEN ROOM ENGLISH。,,svg-authored
+assets/ui/title/logotype-editable.svg,assets/ui/title/logotype-editable.png,960,280,960,280,title,logotype-editable,装飾と同じ位置・同じ寸法,30,none,唯一の文字入り素材。仮称の編集可能ロゴ文字レイヤー。DOM描画を優先、公式ロゴではない。,,svg-authored
+assets/ui/title/start-ornament.svg,assets/ui/title/start-ornament.png,640,88,640,88,title,start-ornament,320×44px,30,gentle-breathe,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/title/title-halo.svg,assets/ui/title/title-halo.png,1200,560,1200,560,title,title-halo,600×280px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/home/status-bar.svg,assets/ui/home/status-bar.png,1000,96,1000,96,home,status-bar,可変幅×48px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/home/lesson-summary.svg,assets/ui/home/lesson-summary.png,560,280,560,280,home,lesson-summary,280×140px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/home/wallpaper-thumb.svg,assets/ui/home/wallpaper-thumb.png,304,168,304,168,home,wallpaper-thumb,152×84px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/home/wallpaper-selected.svg,assets/ui/home/wallpaper-selected.png,304,168,304,168,home,wallpaper-selected,152×84px,30,none,枠を写真に重ねる。写真全体はクリック可能に。,,svg-authored
+assets/ui/home/member-chip.svg,assets/ui/home/member-chip.png,280,88,280,88,home,member-chip,140×44px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/grammar-list.svg,assets/ui/play/grammar-list.png,660,500,660,500,play,grammar-list,330×250px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/grammar-row.svg,assets/ui/play/grammar-row.png,612,96,612,96,play,grammar-row,306×48px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/grammar-selected.svg,assets/ui/play/grammar-selected.png,612,96,612,96,play,grammar-selected,306×48px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/play/difficulty-easy.svg,assets/ui/play/difficulty-easy.png,240,88,240,88,play,difficulty-easy,120×44px,30,none,難易度名はDOM。下部に1–4本の刻印で識別。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/difficulty-normal.svg,assets/ui/play/difficulty-normal.png,240,88,240,88,play,difficulty-normal,120×44px,30,none,難易度名はDOM。下部に1–4本の刻印で識別。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/difficulty-hard.svg,assets/ui/play/difficulty-hard.png,240,88,240,88,play,difficulty-hard,120×44px,30,none,難易度名はDOM。下部に1–4本の刻印で識別。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/difficulty-master.svg,assets/ui/play/difficulty-master.png,240,88,240,88,play,difficulty-master,120×44px,30,none,難易度名はDOM。下部に1–4本の刻印で識別。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/clear-mark.svg,assets/ui/play/clear-mark.png,64,64,64,64,play,clear-mark,24×24px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/play/start-button.svg,assets/ui/play/start-button.png,400,96,400,96,play,start-button,200×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/play/question-panel.svg,assets/ui/play/question-panel.png,1100,300,1100,300,play,question-panel,可変幅×150px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/answer-area.svg,assets/ui/play/answer-area.png,1056,112,1056,112,play,answer-area,可変幅×56px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/word-tile.svg,assets/ui/play/word-tile.png,240,96,240,96,play,word-tile,内容幅×48px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/word-selected.svg,assets/ui/play/word-selected.png,240,96,240,96,play,word-selected,内容幅×48px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[24, 24, 24, 24]",svg-authored
+assets/ui/play/answer-correct.svg,assets/ui/play/answer-correct.png,1100,300,1100,300,play,answer-correct,550×150px,30,correct-450,正解ラベルとチェックをDOM/SVGで併記。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/answer-incorrect.svg,assets/ui/play/answer-incorrect.png,1100,300,1100,300,play,answer-incorrect,550×150px,30,incorrect-180,赤枠を一度表示。大きい揺れや点滅なし。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/explanation-panel.svg,assets/ui/play/explanation-panel.png,1280,480,1280,480,play,explanation-panel,可変幅×240px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/play/progress-track.svg,assets/ui/play/progress-track.png,960,24,960,24,play,progress-track,可変幅×12px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[12, 12, 12, 12]",svg-authored
+assets/ui/play/progress-fill.svg,assets/ui/play/progress-fill.png,960,24,960,24,play,progress-fill,可変幅×12px,30,none,widthまたはclip-pathで0–100%。固定画像を圧縮しない。,"[12, 12, 12, 12]",svg-authored
+assets/ui/result/result-panel.svg,assets/ui/result/result-panel.png,1000,500,1000,500,result,result-panel,500×250px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/result/result-ornament.svg,assets/ui/result/result-ornament.png,1000,500,1000,500,result,result-ornament,結果パネル全体,35,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/result/rank-c-emblem.svg,assets/ui/result/rank-c-emblem.png,240,240,240,240,result,rank-c-emblem,72–104px正方形,30,rank-enter,評価文字はDOM。カード希少度と評価基準は別設定。,,svg-authored
+assets/ui/result/rank-b-emblem.svg,assets/ui/result/rank-b-emblem.png,240,240,240,240,result,rank-b-emblem,72–104px正方形,30,rank-enter,評価文字はDOM。カード希少度と評価基準は別設定。,,svg-authored
+assets/ui/result/rank-a-emblem.svg,assets/ui/result/rank-a-emblem.png,240,240,240,240,result,rank-a-emblem,72–104px正方形,30,rank-enter,評価文字はDOM。カード希少度と評価基準は別設定。,,svg-authored
+assets/ui/result/rank-s-emblem.svg,assets/ui/result/rank-s-emblem.png,240,240,240,240,result,rank-s-emblem,72–104px正方形,30,rank-enter,評価文字はDOM。カード希少度と評価基準は別設定。,,svg-authored
+assets/ui/result/affection-track.svg,assets/ui/result/affection-track.png,720,32,720,32,result,affection-track,360×16px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[16, 16, 16, 16]",svg-authored
+assets/ui/result/affection-fill.svg,assets/ui/result/affection-fill.png,720,32,720,32,result,affection-fill,0–360×16px,30,none,可変ゲージ。現在値をラベルで併記。,"[16, 16, 16, 16]",svg-authored
+assets/ui/result/gp-gain.svg,assets/ui/result/gp-gain.png,640,240,640,240,result,gp-gain,320×120px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/result/affection-up.svg,assets/ui/result/affection-up.png,640,240,640,240,result,affection-up,320×120px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/cards/frame-c.svg,assets/ui/cards/frame-c.png,600,840,600,840,cards,Cランク共通窓フレーム,一覧100×140px／詳細180×252px,40,none,"写真x5%,y3.571429%,w90%,h89.285714%。半径3%。枠は固定比率で全体縮小。ラベルはDOM。",,imagegen-texture-svg-aperture-mask
+assets/ui/cards/frame-b.svg,assets/ui/cards/frame-b.png,600,840,600,840,cards,Bランク共通窓フレーム,一覧100×140px／詳細180×252px,40,none,"写真x5%,y3.571429%,w90%,h89.285714%。半径3%。枠は固定比率で全体縮小。ラベルはDOM。",,imagegen-texture-svg-aperture-mask
+assets/ui/cards/frame-a.svg,assets/ui/cards/frame-a.png,600,840,600,840,cards,Aランク共通窓フレーム,一覧100×140px／詳細180×252px,40,none,"写真x5%,y3.571429%,w90%,h89.285714%。半径3%。枠は固定比率で全体縮小。ラベルはDOM。",,imagegen-texture-svg-aperture-mask
+assets/ui/cards/frame-s.svg,assets/ui/cards/frame-s.png,600,840,600,840,cards,Sランク共通窓フレーム,一覧100×140px／詳細180×252px,40,none,"写真x5%,y3.571429%,w90%,h89.285714%。半径3%。枠は固定比率で全体縮小。ラベルはDOM。",,imagegen-texture-svg-aperture-mask
+assets/ui/cards/collection-panel.svg,assets/ui/cards/collection-panel.png,1500,500,1500,500,cards,collection-panel,一覧領域全体,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/cards/collection-ornament.svg,assets/ui/cards/collection-ornament.png,1500,500,1500,500,cards,collection-ornament,一覧領域全体,20,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/cards/unowned-card.svg,assets/ui/cards/unowned-card.png,600,840,600,840,cards,unowned-card,100×140px,30,none,未所持は写真を表示しない。カードIDとランクの表示方針はデータ側。,,svg-authored
+assets/ui/cards/detail-panel.svg,assets/ui/cards/detail-panel.png,720,520,720,520,cards,detail-panel,360×260px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/gacha/stage-orbit.svg,assets/ui/gacha/stage-orbit.png,1200,500,1200,500,gacha,stage-orbit,600×250px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/gacha/draw-one.svg,assets/ui/gacha/draw-one.png,560,96,560,96,gacha,draw-one,280×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/gacha/draw-ten.svg,assets/ui/gacha/draw-ten.png,560,96,560,96,gacha,draw-ten,280×48px,30,press-100,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[28, 28, 28, 28]",svg-authored
+assets/ui/gacha/card-back.svg,assets/ui/gacha/card-back.png,600,840,600,840,gacha,card-back,180×252px,30,card-flip,rotateYする表裏を別要素で重ね、backface-visibility:hidden。,,svg-authored
+assets/ui/gacha/reveal-normal.svg,assets/ui/gacha/reveal-normal.png,1000,500,1000,500,gacha,reveal-normal,500×250px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/gacha/reveal-a.svg,assets/ui/gacha/reveal-a.png,1000,500,1000,500,gacha,reveal-a,500×250px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/gacha/ten-result-panel.svg,assets/ui/gacha/ten-result-panel.png,1500,500,1500,500,gacha,ten-result-panel,全幅×250px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/gacha/ten-result-slot.svg,assets/ui/gacha/ten-result-slot.png,200,280,200,280,gacha,ten-result-slot,100×140px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/chat/conversation-panel.svg,assets/ui/chat/conversation-panel.png,540,500,540,500,chat,conversation-panel,270×250px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/chat/conversation-row.svg,assets/ui/chat/conversation-row.png,500,120,500,120,chat,conversation-row,250×60px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/chat/conversation-selected.svg,assets/ui/chat/conversation-selected.png,500,120,500,120,chat,conversation-selected,250×60px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[24, 24, 24, 24]",svg-authored
+assets/ui/chat/bubble-incoming.svg,assets/ui/chat/bubble-incoming.png,560,160,560,160,chat,bubble-incoming,内容幅×内容高,30,none,伸縮はCSS吹き出しを推奨。左右padding16px、尾は疑似要素。文章はDOM。,,svg-authored
+assets/ui/chat/bubble-outgoing.svg,assets/ui/chat/bubble-outgoing.png,560,160,560,160,chat,bubble-outgoing,内容幅×内容高,30,none,伸縮はCSS吹き出し推奨。濃色背景なので文字は白、淡色へ変える時は濃紺。,,svg-authored
+assets/ui/chat/locked-chat.svg,assets/ui/chat/locked-chat.png,500,120,500,120,chat,locked-chat,250×60px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/chat/message-unlock.svg,assets/ui/chat/message-unlock.png,640,240,640,240,chat,message-unlock,320×120px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/login/bonus-panel.svg,assets/ui/login/bonus-panel.png,1280,500,1280,500,login,bonus-panel,640×250px,80,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/login/day-frame.svg,assets/ui/login/day-frame.png,144,184,144,184,login,day-frame,72×92px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/login/day-today.svg,assets/ui/login/day-today.png,144,184,144,184,login,day-today,72×92px,30,none,DAY・報酬額はDOM。当日はラベルと線で示す。,"[24, 24, 24, 24]",svg-authored
+assets/ui/login/day-claimed.svg,assets/ui/login/day-claimed.png,144,184,144,184,login,day-claimed,72×92px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,,svg-authored
+assets/ui/login/reward-claim.svg,assets/ui/login/reward-claim.png,640,240,640,240,login,reward-claim,320×120px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/settings/settings-panel.svg,assets/ui/settings/settings-panel.png,1280,500,1280,500,settings,settings-panel,640×250px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/settings/confirmation-dialog.svg,assets/ui/settings/confirmation-dialog.png,900,420,900,420,settings,confirmation-dialog,450×210px,80,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[32, 32, 32, 32]",svg-authored
+assets/ui/settings/slider-track.svg,assets/ui/settings/slider-track.png,640,24,640,24,settings,slider-track,320×12px,30,none,DOM文字を重ねる。SVGを優先し、単純面はCSS再現可。,"[12, 12, 12, 12]",svg-authored
+assets/ui/settings/slider-fill.svg,assets/ui/settings/slider-fill.png,640,24,640,24,settings,slider-fill,可変幅×12px,30,none,input[type=range]で実装。画像は見本。,"[12, 12, 12, 12]",svg-authored
+assets/ui/settings/slider-thumb.svg,assets/ui/settings/slider-thumb.png,64,64,64,64,settings,slider-thumb,24×24px／当たり44px,30,none,ドラッグ操作はネイティブrange。,,svg-authored
+assets/ui/settings/switch-on.svg,assets/ui/settings/switch-on.png,120,72,120,72,settings,switch-on,60×36px／当たり60×44px,30,none,button role=switch、aria-checked、ON/OFFをDOMで併記。,,svg-authored
+assets/ui/settings/switch-off.svg,assets/ui/settings/switch-off.png,120,72,120,72,settings,switch-off,60×36px／当たり60×44px,30,none,button role=switch、aria-checked、ON/OFFをDOMで併記。,,svg-authored
+assets/ui/icons/home.svg,assets/ui/icons/home.png,24,24,96,96,icons,home,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/play.svg,assets/ui/icons/play.png,24,24,96,96,icons,play,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/cards.svg,assets/ui/icons/cards.png,24,24,96,96,icons,cards,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/gacha.svg,assets/ui/icons/gacha.png,24,24,96,96,icons,gacha,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/chat.svg,assets/ui/icons/chat.png,24,24,96,96,icons,chat,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/settings.svg,assets/ui/icons/settings.png,24,24,96,96,icons,settings,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/bell.svg,assets/ui/icons/bell.png,24,24,96,96,icons,bell,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/wallpaper.svg,assets/ui/icons/wallpaper.png,24,24,96,96,icons,wallpaper,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/gift.svg,assets/ui/icons/gift.png,24,24,96,96,icons,gift,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/heart.svg,assets/ui/icons/heart.png,24,24,96,96,icons,heart,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/gp.svg,assets/ui/icons/gp.png,24,24,96,96,icons,gp,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/back.svg,assets/ui/icons/back.png,24,24,96,96,icons,back,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/next.svg,assets/ui/icons/next.png,24,24,96,96,icons,next,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/close.svg,assets/ui/icons/close.png,24,24,96,96,icons,close,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/check.svg,assets/ui/icons/check.png,24,24,96,96,icons,check,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/lock.svg,assets/ui/icons/lock.png,24,24,96,96,icons,lock,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/volume.svg,assets/ui/icons/volume.png,24,24,96,96,icons,volume,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/music.svg,assets/ui/icons/music.png,24,24,96,96,icons,music,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/save.svg,assets/ui/icons/save.png,24,24,96,96,icons,save,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/upload.svg,assets/ui/icons/upload.png,24,24,96,96,icons,upload,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/download.svg,assets/ui/icons/download.png,24,24,96,96,icons,download,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/search.svg,assets/ui/icons/search.png,24,24,96,96,icons,search,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/reset.svg,assets/ui/icons/reset.png,24,24,96,96,icons,reset,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/help.svg,assets/ui/icons/help.png,24,24,96,96,icons,help,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/portrait.svg,assets/ui/icons/portrait.png,24,24,96,96,icons,portrait,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/icons/rotate.svg,assets/ui/icons/rotate.png,24,24,96,96,icons,rotate,20–24px／当たり44×44px,50,none,単色SVG、CSS maskで状態色変更可能。aria-labelは親ボタンへ。,,svg-authored
+assets/ui/effects/sparkle.svg,assets/ui/effects/sparkle.png,96,96,96,96,effects,sparkle,8–24px,60,particle-800,上限40個。輝点の点滅ループは禁止。,,svg-authored
+assets/ui/effects/soft-flare.svg,assets/ui/effects/soft-flare.png,640,320,640,320,effects,soft-flare,320×160px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/effects/affection-halo.svg,assets/ui/effects/affection-halo.png,640,320,640,320,effects,affection-halo,320×160px,20,pulse-once,opacity/transformだけをアニメーション。pointer-events:none。,,svg-authored
+assets/ui/effects/edge-aurora.svg,assets/ui/effects/edge-aurora.png,1600,720,1600,720,effects,edge-aurora,全画面,10,none,写真上の装飾。設問付近では非表示。,,svg-authored
+assets/ui/gacha/reveal-s-ring.png,,1774,887,1774,887,gacha,S確定ホログラムリング,幅320–480px、比率維持,20,s-reveal-2200,透明PNG。opacity/transformを別途実装。,,imagegen
+assets/ui/effects/correct-sweep.png,,2172,724,2172,724,effects,正解時の光,幅320–480px、比率維持,20,correct-450,透明PNG。opacity/transformを別途実装。,,imagegen

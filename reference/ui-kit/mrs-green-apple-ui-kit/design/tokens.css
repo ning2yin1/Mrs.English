@@ -1,0 +1,22 @@
+/* Design tokens only. No game implementation. */
+:root {
+  --gr-night: #08111F;
+  --gr-panel: #101E32;
+  --gr-text: #F4F7FC;
+  --gr-muted: #ACBED1;
+  --gr-silver: #CBD7E7;
+  --gr-mint: #74F4CA;
+  --gr-blue: #72B9FF;
+  --gr-violet: #BC9BFF;
+  --gr-rose: #FF9DD4;
+  --gr-gold: #F2D68C;
+  --gr-error: #FF939E;
+  --gr-radius-panel: 16px;
+  --gr-radius-button: 12px;
+  --gr-radius-tile: 10px;
+  --gr-tap-min: 44px;
+  --gr-font: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --gr-ease: cubic-bezier(.2,.7,.2,1);
+  --gr-motion-tab: 160ms;
+  --gr-motion-panel: 220ms;
+}

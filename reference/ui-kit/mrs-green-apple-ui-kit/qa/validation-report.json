@@ -1,0 +1,1419 @@
+{
+  "logicalAssetCount": 117,
+  "productionPngCount": 117,
+  "productionSvgCount": 115,
+  "allPngHaveActualTransparency": true,
+  "cardApertureIdentical": true,
+  "failures": [],
+  "checks": [
+    {
+      "file": "assets/ui/common/nav-bar.png",
+      "size": [
+        1600,
+        112
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3880,
+      "semiTransparentPixels": 175320,
+      "sha256": "52a75e638e9458dcb8c4e5ba4a3bd0139759265b0f81aa43b9d12b3a847ed8b8"
+    },
+    {
+      "file": "assets/ui/common/nav-selected.png",
+      "size": [
+        240,
+        104
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6244,
+      "semiTransparentPixels": 17912,
+      "sha256": "0ddc6b9096a0432bfb7df0c9830a839a9c31debe3304fd662b1e06885a30c9a5"
+    },
+    {
+      "file": "assets/ui/common/notification-badge.png",
+      "size": [
+        40,
+        40
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 526,
+      "semiTransparentPixels": 129,
+      "sha256": "4739ce222bfa532e391cd952ff487da8ce40c71666f87e55c4966a412dd6b76c"
+    },
+    {
+      "file": "assets/ui/common/panel-glass.png",
+      "size": [
+        640,
+        320
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2548,
+      "semiTransparentPixels": 202252,
+      "sha256": "dc1812caceaf756f0785994f515a47dbf6cc083016d70f9e69b093550c58d120"
+    },
+    {
+      "file": "assets/ui/common/panel-quiet.png",
+      "size": [
+        640,
+        320
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2548,
+      "semiTransparentPixels": 202252,
+      "sha256": "e4a22ddfcbeaed601daff0bcc53055295f691998a91ec939683f225df96c16a9"
+    },
+    {
+      "file": "assets/ui/common/modal-frame.png",
+      "size": [
+        1120,
+        560
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3988,
+      "semiTransparentPixels": 623212,
+      "sha256": "6d21ee29e65f71f747f1b3e62c4dfd90d8a85cda93310ff36ad8ac2b8b16cb9f"
+    },
+    {
+      "file": "assets/ui/common/button-primary.png",
+      "size": [
+        400,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1448,
+      "semiTransparentPixels": 36486,
+      "sha256": "4d69d7e905763b7c50a7688376964daa606e17c9a0ae14902a30ec4978cc50df"
+    },
+    {
+      "file": "assets/ui/common/button-secondary.png",
+      "size": [
+        400,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1448,
+      "semiTransparentPixels": 36486,
+      "sha256": "52af04d5aef9b247e0b6e84eff368c26433a198d46515c187f1ac1781bc65ce8"
+    },
+    {
+      "file": "assets/ui/common/button-gold.png",
+      "size": [
+        400,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1448,
+      "semiTransparentPixels": 36486,
+      "sha256": "2e9cc845aa950315f136df8be3eaf21ea274ed7e3a048603778db64a1d86354e"
+    },
+    {
+      "file": "assets/ui/common/tab-chip.png",
+      "size": [
+        200,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2019,
+      "semiTransparentPixels": 15581,
+      "sha256": "5636eadec4aa223862866a12735cfb1971fea876db985f3835c6608115f97e6c"
+    },
+    {
+      "file": "assets/ui/common/tab-selected.png",
+      "size": [
+        200,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 2019,
+      "semiTransparentPixels": 15568,
+      "sha256": "e3474cdbd22c232b4c79a50c0102a97bb699d22a9286e1f8f10388cb6af27825"
+    },
+    {
+      "file": "assets/ui/common/divider.png",
+      "size": [
+        640,
+        8
+      ],
+      "alphaMin": 0,
+      "alphaMax": 102,
+      "transparentPixels": 3848,
+      "semiTransparentPixels": 1272,
+      "sha256": "0949a957bf4249744efc7fdb36ccd05512e13e707b81f3819fff5d3fb0849dee"
+    },
+    {
+      "file": "assets/ui/common/focus-ring.png",
+      "size": [
+        400,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 34495,
+      "semiTransparentPixels": 351,
+      "sha256": "fd514e7d5fc79bc798b3fb5f3f0de0d32eec85942a409bead3ec5ebf21685267"
+    },
+    {
+      "file": "assets/ui/title/logo-ornament.png",
+      "size": [
+        960,
+        280
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 261411,
+      "semiTransparentPixels": 5733,
+      "sha256": "11c62e1cbaacea86af588406f605f180f470d2daa8e386fa534e16ebbff56f0e"
+    },
+    {
+      "file": "assets/ui/title/logotype-editable.png",
+      "size": [
+        960,
+        280
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 254668,
+      "semiTransparentPixels": 4347,
+      "sha256": "d1598e900720c50a82e0064b09b063723fa45fbc35ede1c488695a643ffb9b59"
+    },
+    {
+      "file": "assets/ui/title/start-ornament.png",
+      "size": [
+        640,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 55424,
+      "semiTransparentPixels": 672,
+      "sha256": "7a25007c7284b39042089d46e16b45bd18cdc89112cea6069b509c7e6491fa58"
+    },
+    {
+      "file": "assets/ui/title/title-halo.png",
+      "size": [
+        1200,
+        560
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 223517,
+      "semiTransparentPixels": 448483,
+      "sha256": "82c86baee44b26a9a1304e049287ff1e1b045a4d7321a8a88b0e95176c208e8d"
+    },
+    {
+      "file": "assets/ui/home/status-bar.png",
+      "size": [
+        1000,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3928,
+      "semiTransparentPixels": 92072,
+      "sha256": "5edc287893351a849f992246129433ad38395af8e4c616d9b0c2ad10228d4838"
+    },
+    {
+      "file": "assets/ui/home/lesson-summary.png",
+      "size": [
+        560,
+        280
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2308,
+      "semiTransparentPixels": 154492,
+      "sha256": "dc2e277f0732ba4118d408dde97788df7fd49c0ce2519a24a3f9c2d306011c6b"
+    },
+    {
+      "file": "assets/ui/home/wallpaper-thumb.png",
+      "size": [
+        304,
+        168
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1084,
+      "semiTransparentPixels": 49988,
+      "sha256": "0d64df38dc16a7add60ce6c78449b91f3d90d5e527655a1025f7245e911e6edb"
+    },
+    {
+      "file": "assets/ui/home/wallpaper-selected.png",
+      "size": [
+        304,
+        168
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 45627,
+      "semiTransparentPixels": 1125,
+      "sha256": "3fe769f4e855158a9e94e37cac770107c363eebba59ab16b8b65a1652c81879e"
+    },
+    {
+      "file": "assets/ui/home/member-chip.png",
+      "size": [
+        280,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2179,
+      "semiTransparentPixels": 22461,
+      "sha256": "6d2e6ec267d9cbcab82f9a22aa6733317bfaa2f78174302ec3c999580cb8e215"
+    },
+    {
+      "file": "assets/ui/play/grammar-list.png",
+      "size": [
+        660,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2948,
+      "semiTransparentPixels": 327052,
+      "sha256": "ebb0e933dab33f1a3f2efda7956f92b141bc7b33d2dc0571fd4d1030620d9833"
+    },
+    {
+      "file": "assets/ui/play/grammar-row.png",
+      "size": [
+        612,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1615,
+      "semiTransparentPixels": 57137,
+      "sha256": "6f57383a38855253e66e8b72ebfb071a0dc89e4fa587fd1dd36f740e3ec6c810"
+    },
+    {
+      "file": "assets/ui/play/grammar-selected.png",
+      "size": [
+        612,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1615,
+      "semiTransparentPixels": 56057,
+      "sha256": "e8b4f88aae43d31d2f946f7c4654a84da3855f69140ef378e5471f6514a7b4b2"
+    },
+    {
+      "file": "assets/ui/play/difficulty-easy.png",
+      "size": [
+        240,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 20116,
+      "sha256": "dd874e6a5d602ecf086dd7a97bb511c13a91336f836e1b288d63208fc1be9eba"
+    },
+    {
+      "file": "assets/ui/play/difficulty-normal.png",
+      "size": [
+        240,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 20076,
+      "sha256": "2e7079a3544b2ac2c2e2c46f287cd204d9a9316a1be73c90ce4fc1cf04576c48"
+    },
+    {
+      "file": "assets/ui/play/difficulty-hard.png",
+      "size": [
+        240,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 20036,
+      "sha256": "b60a3ed224ea733a1e5837d0b763664188364cf87ce35a28afdb8172121a65ae"
+    },
+    {
+      "file": "assets/ui/play/difficulty-master.png",
+      "size": [
+        240,
+        88
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 19996,
+      "sha256": "51cc1698867a39088fadd66c2f4309009958636a3b3954f46562511f6ae740d2"
+    },
+    {
+      "file": "assets/ui/play/clear-mark.png",
+      "size": [
+        64,
+        64
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1536,
+      "semiTransparentPixels": 214,
+      "sha256": "91519bd966766be93a0bf76bc3efbcc8b14ef7697c1ae87c8d0b9dbc053fc946"
+    },
+    {
+      "file": "assets/ui/play/start-button.png",
+      "size": [
+        400,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1448,
+      "semiTransparentPixels": 36486,
+      "sha256": "4d69d7e905763b7c50a7688376964daa606e17c9a0ae14902a30ec4978cc50df"
+    },
+    {
+      "file": "assets/ui/play/question-panel.png",
+      "size": [
+        1100,
+        300
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3428,
+      "semiTransparentPixels": 326572,
+      "sha256": "7a11e1be3499222b01f16e27fddd5b14f6ae8d9aa91efc14618ebc2ddb069c2e"
+    },
+    {
+      "file": "assets/ui/play/answer-area.png",
+      "size": [
+        1056,
+        112
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2644,
+      "semiTransparentPixels": 115628,
+      "sha256": "51bff9a67257cad038615ddf23ed6cf3a35a4182c4ec31c7cd3e4f3a5de8f5e5"
+    },
+    {
+      "file": "assets/ui/play/word-tile.png",
+      "size": [
+        240,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 920,
+      "semiTransparentPixels": 22120,
+      "sha256": "6cf35b091c161df3dd2a4ba65733a8ee997d81463c1f31f8b07e94442dae00ee"
+    },
+    {
+      "file": "assets/ui/play/word-selected.png",
+      "size": [
+        240,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 920,
+      "semiTransparentPixels": 21839,
+      "sha256": "030154e36fb34024a1e80dcc89dadbf565733b306413fe76caa9f43fc6bc2f40"
+    },
+    {
+      "file": "assets/ui/play/answer-correct.png",
+      "size": [
+        1100,
+        300
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 318856,
+      "semiTransparentPixels": 402,
+      "sha256": "943999ad1badfec5227a34a9e7fdf1b6ac26a55d8def92ba4537564543bb21bc"
+    },
+    {
+      "file": "assets/ui/play/answer-incorrect.png",
+      "size": [
+        1100,
+        300
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 318856,
+      "semiTransparentPixels": 402,
+      "sha256": "e9627eb717b4b0aa2b825262e2a7f2a28308bb2b641387152b9d96b16d60d2d2"
+    },
+    {
+      "file": "assets/ui/play/explanation-panel.png",
+      "size": [
+        1280,
+        480
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 4148,
+      "semiTransparentPixels": 610252,
+      "sha256": "46facb64f28f52f6b8a623c681e8ef291ec5df7c8676625c759b599d708ab23b"
+    },
+    {
+      "file": "assets/ui/play/progress-track.png",
+      "size": [
+        960,
+        24
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2032,
+      "semiTransparentPixels": 21008,
+      "sha256": "2abeec69ef3ab34b4482523a68cd92c37e713953670229a2e61faec98a4133d2"
+    },
+    {
+      "file": "assets/ui/play/progress-fill.png",
+      "size": [
+        960,
+        24
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 3976,
+      "semiTransparentPixels": 18762,
+      "sha256": "cca9613acdadc6bf207fc9e386c764422a2594fda99f81f5c1944c439391d759"
+    },
+    {
+      "file": "assets/ui/result/result-panel.png",
+      "size": [
+        1000,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3628,
+      "semiTransparentPixels": 496372,
+      "sha256": "12cf17734c350996742183beccc04b88cc61cbe550811bee5e5c44af94235acb"
+    },
+    {
+      "file": "assets/ui/result/result-ornament.png",
+      "size": [
+        1000,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 498560,
+      "semiTransparentPixels": 0,
+      "sha256": "6d9a9fdba8988f10ebeb2f7a000abe46ca98c113f38c7a8c1c5912abe0ba8b0a"
+    },
+    {
+      "file": "assets/ui/result/rank-c-emblem.png",
+      "size": [
+        240,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 15882,
+      "semiTransparentPixels": 41718,
+      "sha256": "860decfec13f9568103b1eabd669edd4c9c70a6de686d95ab8d301844af5a158"
+    },
+    {
+      "file": "assets/ui/result/rank-b-emblem.png",
+      "size": [
+        240,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 15882,
+      "semiTransparentPixels": 41718,
+      "sha256": "465970a7a3c115bbb1f8920a4df99e04145abbd6577f2314beb9906a3caeffd0"
+    },
+    {
+      "file": "assets/ui/result/rank-a-emblem.png",
+      "size": [
+        240,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 15882,
+      "semiTransparentPixels": 41718,
+      "sha256": "de432b2bb35b79937a8f8c4a701ad3360121e756e7e87438851387da4db2c7f7"
+    },
+    {
+      "file": "assets/ui/result/rank-s-emblem.png",
+      "size": [
+        240,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 15882,
+      "semiTransparentPixels": 41718,
+      "sha256": "b3c4bc71d5a205eb7d22446123f8d194aa90574462c1c3e1cc64228b9e334a0a"
+    },
+    {
+      "file": "assets/ui/result/affection-track.png",
+      "size": [
+        720,
+        32
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1645,
+      "semiTransparentPixels": 21395,
+      "sha256": "6ab28a509cb0d640fc01fa4e7f2f95df29e0357b73e843f0c063a0c0a315c905"
+    },
+    {
+      "file": "assets/ui/result/affection-fill.png",
+      "size": [
+        720,
+        32
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 3115,
+      "semiTransparentPixels": 19628,
+      "sha256": "64714774c0cf5abe3663395f497c29d7ee5ff28b84baa06e6d0416124dd78c72"
+    },
+    {
+      "file": "assets/ui/result/gp-gain.png",
+      "size": [
+        640,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 51188,
+      "semiTransparentPixels": 102412,
+      "sha256": "decd436c4006fc5a9835378681df44ec2d2a03aec846541cc9606cc581b23917"
+    },
+    {
+      "file": "assets/ui/result/affection-up.png",
+      "size": [
+        640,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 51188,
+      "semiTransparentPixels": 102412,
+      "sha256": "43153c439f2f20f11f2d42c3307661e838ce01aa2c85f8857f1d1de8b1b25109"
+    },
+    {
+      "file": "assets/ui/cards/frame-c.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 402712,
+      "semiTransparentPixels": 56716,
+      "sha256": "d9c2761e3d85e26ad044d146d7f19f2689e4c52551e764d3e690c7dc7515353e",
+      "photoWindowMaxAlpha": 0
+    },
+    {
+      "file": "assets/ui/cards/frame-b.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 402721,
+      "semiTransparentPixels": 65273,
+      "sha256": "07fe142eb169333e9e15215c2c8f14f4e3c502c0ab8b1997356f68e7c5133d36",
+      "photoWindowMaxAlpha": 0
+    },
+    {
+      "file": "assets/ui/cards/frame-a.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 402975,
+      "semiTransparentPixels": 65505,
+      "sha256": "2e9030faa06e39507cad7cd40406c293755373683729847e17f5a31c41507702",
+      "photoWindowMaxAlpha": 0
+    },
+    {
+      "file": "assets/ui/cards/frame-s.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 402906,
+      "semiTransparentPixels": 62334,
+      "sha256": "fc87714b9c101c779e1fcebd1ed6fbcb5f2c99361892d20568b9c5ff81be149e",
+      "photoWindowMaxAlpha": 0
+    },
+    {
+      "file": "assets/ui/cards/collection-panel.png",
+      "size": [
+        1500,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 4628,
+      "semiTransparentPixels": 745372,
+      "sha256": "65a6f515206ed6269d4b82b5f63d261d9b10341e1f379040533124d5f2d043e0"
+    },
+    {
+      "file": "assets/ui/cards/collection-ornament.png",
+      "size": [
+        1500,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 229,
+      "transparentPixels": 744789,
+      "semiTransparentPixels": 5211,
+      "sha256": "100a332aa0e08401d4ed6eb863d9e67676efc222addb785a0182bf5e59cc1018"
+    },
+    {
+      "file": "assets/ui/cards/unowned-card.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 3336,
+      "semiTransparentPixels": 95987,
+      "sha256": "2f7bbda1a85ece01643ce2d202b200749e433fe5bf5144c3195985a1d678e6fd"
+    },
+    {
+      "file": "assets/ui/cards/detail-panel.png",
+      "size": [
+        720,
+        520
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3108,
+      "semiTransparentPixels": 371292,
+      "sha256": "9c0451f433fb65a5c628f7121c7db6ef80d71cc24b260740beca9835f6a7f03c"
+    },
+    {
+      "file": "assets/ui/gacha/stage-orbit.png",
+      "size": [
+        1200,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 199632,
+      "semiTransparentPixels": 400368,
+      "sha256": "4088e121321f90493fdf07ad73dda53b2f9123ba7f47cc7066113630b2b6bc17"
+    },
+    {
+      "file": "assets/ui/gacha/draw-one.png",
+      "size": [
+        560,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1768,
+      "semiTransparentPixels": 51269,
+      "sha256": "b83ad99e9e842c4bbe3fbea8b6bbaad6bebf26e5491f213530cc9ba5e4b926b7"
+    },
+    {
+      "file": "assets/ui/gacha/draw-ten.png",
+      "size": [
+        560,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1768,
+      "semiTransparentPixels": 51269,
+      "sha256": "c906ff1991090822e237a0e95359e6cebb9e2982078f94b1ffc8559cdf965527"
+    },
+    {
+      "file": "assets/ui/gacha/card-back.png",
+      "size": [
+        600,
+        840
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 3336,
+      "semiTransparentPixels": 494908,
+      "sha256": "cbd7135455a9446dad21c514d59e38188a268e659e43defe4aa92eb99dd447cf"
+    },
+    {
+      "file": "assets/ui/gacha/reveal-normal.png",
+      "size": [
+        1000,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 198,
+      "transparentPixels": 164448,
+      "semiTransparentPixels": 335552,
+      "sha256": "bd6d536777dc4aa9300fd7bea3965e09cc497d89f7d8c23b483c87515b74c0c9"
+    },
+    {
+      "file": "assets/ui/gacha/reveal-a.png",
+      "size": [
+        1000,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 198,
+      "transparentPixels": 164448,
+      "semiTransparentPixels": 335552,
+      "sha256": "b9c3d724cc4f2f1c946270f57246759fb26c88cb1b0d0af38849474bc2937e7f"
+    },
+    {
+      "file": "assets/ui/gacha/ten-result-panel.png",
+      "size": [
+        1500,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 4628,
+      "semiTransparentPixels": 745372,
+      "sha256": "b838493711b0619468b9ca9bca48238ca4ca985633f77e3f74c585a4c41ea3c5"
+    },
+    {
+      "file": "assets/ui/gacha/ten-result-slot.png",
+      "size": [
+        200,
+        280
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1024,
+      "semiTransparentPixels": 54976,
+      "sha256": "8138662414b86e1275e380adc873acce6df2a10aae79f87d4e825256490d8e45"
+    },
+    {
+      "file": "assets/ui/chat/conversation-panel.png",
+      "size": [
+        540,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 2708,
+      "semiTransparentPixels": 267292,
+      "sha256": "182bacc2fd6826d8ab0411fa3ccf52d35ebf539fbf6a0b3d07840c621a957a81"
+    },
+    {
+      "file": "assets/ui/chat/conversation-row.png",
+      "size": [
+        500,
+        120
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1488,
+      "semiTransparentPixels": 58512,
+      "sha256": "dada291c1ffdfb229b677cf5e86be72b6e583bbfed55f7152dfe9d055fb9383d"
+    },
+    {
+      "file": "assets/ui/chat/conversation-selected.png",
+      "size": [
+        500,
+        120
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 320,
+      "semiTransparentPixels": 57306,
+      "sha256": "6daed41440c974f4feb8e0f89fc5f58aec08d5880de7e5a874e9527c39055b33"
+    },
+    {
+      "file": "assets/ui/chat/bubble-incoming.png",
+      "size": [
+        560,
+        160
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 10988,
+      "semiTransparentPixels": 78612,
+      "sha256": "0244e4e46981df6b6e4e5717296a1e1c1916e2fc44349d0b4ab6ac30e4faef56"
+    },
+    {
+      "file": "assets/ui/chat/bubble-outgoing.png",
+      "size": [
+        560,
+        160
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 10988,
+      "semiTransparentPixels": 78083,
+      "sha256": "5b196a2fa29bd74f2be54c84a35c7065e5fd70ad417e6ccc1b162aa5d3d11076"
+    },
+    {
+      "file": "assets/ui/chat/locked-chat.png",
+      "size": [
+        500,
+        120
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1488,
+      "semiTransparentPixels": 58512,
+      "sha256": "dada291c1ffdfb229b677cf5e86be72b6e583bbfed55f7152dfe9d055fb9383d"
+    },
+    {
+      "file": "assets/ui/chat/message-unlock.png",
+      "size": [
+        640,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 51188,
+      "semiTransparentPixels": 102412,
+      "sha256": "43153c439f2f20f11f2d42c3307661e838ce01aa2c85f8857f1d1de8b1b25109"
+    },
+    {
+      "file": "assets/ui/login/bonus-panel.png",
+      "size": [
+        1280,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 4188,
+      "semiTransparentPixels": 635812,
+      "sha256": "495a2522c8335506d75d063b66893d0a8819ed8b0bc6226fc25a4394fbdd6e5a"
+    },
+    {
+      "file": "assets/ui/login/day-frame.png",
+      "size": [
+        144,
+        184
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 25532,
+      "sha256": "7861b2e9ff3a40e7556a02ad8f7ecb969da9394051344e0ff02446c6f57d932e"
+    },
+    {
+      "file": "assets/ui/login/day-today.png",
+      "size": [
+        144,
+        184
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 24817,
+      "sha256": "13b694c8722fd7cccda8f5c057a4066ead9b6d78e780a6e16dd83c254d0e560b"
+    },
+    {
+      "file": "assets/ui/login/day-claimed.png",
+      "size": [
+        144,
+        184
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 964,
+      "semiTransparentPixels": 25151,
+      "sha256": "370abbd7e9c1842a6114a86c7c96f5eec91d0500b3d12de4724a87c2768a0367"
+    },
+    {
+      "file": "assets/ui/login/reward-claim.png",
+      "size": [
+        640,
+        240
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 51188,
+      "semiTransparentPixels": 102412,
+      "sha256": "decd436c4006fc5a9835378681df44ec2d2a03aec846541cc9606cc581b23917"
+    },
+    {
+      "file": "assets/ui/settings/settings-panel.png",
+      "size": [
+        1280,
+        500
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 4188,
+      "semiTransparentPixels": 635812,
+      "sha256": "9eb8873ff29ca5f61f0c400ed5e4554071a9aed34cab47a5ae986c3e20083e38"
+    },
+    {
+      "file": "assets/ui/settings/confirmation-dialog.png",
+      "size": [
+        900,
+        420
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 3268,
+      "semiTransparentPixels": 374732,
+      "sha256": "4a68a9d791db72a2ae1fe309b58ad6782edd026e94334839d879df6d6d8224b0"
+    },
+    {
+      "file": "assets/ui/settings/slider-track.png",
+      "size": [
+        640,
+        24
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1392,
+      "semiTransparentPixels": 13968,
+      "sha256": "3a18a1e231f4894e9a9cf66aa47807fabf1ed0325bd90effcd46af337b341753"
+    },
+    {
+      "file": "assets/ui/settings/slider-fill.png",
+      "size": [
+        640,
+        24
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 2696,
+      "semiTransparentPixels": 12474,
+      "sha256": "8493b055354447b91460ab2350fbb7e397a3b47a7092977389cf78b23ceb2ca3"
+    },
+    {
+      "file": "assets/ui/settings/slider-thumb.png",
+      "size": [
+        64,
+        64
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1785,
+      "semiTransparentPixels": 2139,
+      "sha256": "3fa084c96cf9c3d17a50b35a38394bab01dc70bf183e3041accf1d3bd556566e"
+    },
+    {
+      "file": "assets/ui/settings/switch-on.png",
+      "size": [
+        120,
+        72
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1309,
+      "semiTransparentPixels": 5463,
+      "sha256": "9ed8537c2edacea05aaf728f2a9030b7dc279bff5f5707e6e93696a807260993"
+    },
+    {
+      "file": "assets/ui/settings/switch-off.png",
+      "size": [
+        120,
+        72
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 1309,
+      "semiTransparentPixels": 5465,
+      "sha256": "109c94845050eac18178542358349b7e50e86d9a4afef8c894cc7c3fb8ea5d00"
+    },
+    {
+      "file": "assets/ui/icons/home.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6732,
+      "semiTransparentPixels": 679,
+      "sha256": "3698a5e3fed6639f2f7330c3225fcdc90a42e1e4354878b8ffde4cbc733da09f"
+    },
+    {
+      "file": "assets/ui/icons/play.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7780,
+      "semiTransparentPixels": 430,
+      "sha256": "4f5b9b89d4986ea0e684ef8840ec943fabc4295364b093a03ab2770bc1004802"
+    },
+    {
+      "file": "assets/ui/icons/cards.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6750,
+      "semiTransparentPixels": 651,
+      "sha256": "987c3442d2f0584e9fcd52d29d3453dfd6b7fac853ec4c81509f1f2d73892fd3"
+    },
+    {
+      "file": "assets/ui/icons/gacha.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7329,
+      "semiTransparentPixels": 543,
+      "sha256": "9211f1d65833cb48382e6136484613bcb5f90c2587a22cd6f472dc2d305022bf"
+    },
+    {
+      "file": "assets/ui/icons/chat.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6711,
+      "semiTransparentPixels": 678,
+      "sha256": "497d05d93e6f237dc7607e107ceed9b2209f7f009122adce115defdee94887d6"
+    },
+    {
+      "file": "assets/ui/icons/settings.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6728,
+      "semiTransparentPixels": 754,
+      "sha256": "c7578de2582a0c27796c41e9410d2d5193f07eb68a29728c174f8505ec86ed49"
+    },
+    {
+      "file": "assets/ui/icons/bell.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7551,
+      "semiTransparentPixels": 463,
+      "sha256": "06e265bccf4453c1add3492617a6e273cecb3fd9a46d49dbfbaad6c0d0ca9515"
+    },
+    {
+      "file": "assets/ui/icons/wallpaper.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 5938,
+      "semiTransparentPixels": 913,
+      "sha256": "ab08cd22b21754b903e9ef20ae66b6f0946c08774cc478b11a21f5d17ff83e37"
+    },
+    {
+      "file": "assets/ui/icons/gift.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 5965,
+      "semiTransparentPixels": 798,
+      "sha256": "115b2994ef0e0b80a922c98a59ae5fc33e2c602bda4b7fae14c56e38e8527142"
+    },
+    {
+      "file": "assets/ui/icons/heart.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7183,
+      "semiTransparentPixels": 652,
+      "sha256": "39e2c62be01ef7e2dc7c22122eb8045b91ccdab4c60bb585fc1ec3714d337334"
+    },
+    {
+      "file": "assets/ui/icons/gp.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 5522,
+      "semiTransparentPixels": 1065,
+      "sha256": "2a06b8cfca7af29824ed1ab63ef90703da6ff28fbfa0f2e64136c06ff96c91d9"
+    },
+    {
+      "file": "assets/ui/icons/back.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 8462,
+      "semiTransparentPixels": 282,
+      "sha256": "6a03af487fa374a30d6c5ecb90ac088f13b1011f02640ba76efcb581beaeae21"
+    },
+    {
+      "file": "assets/ui/icons/next.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 8462,
+      "semiTransparentPixels": 282,
+      "sha256": "8ab8a99ec2f35e0fce33a1034a070f67ac7aa285a46edc02d8b4a1dbcf6ed6c3"
+    },
+    {
+      "file": "assets/ui/icons/close.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7940,
+      "semiTransparentPixels": 468,
+      "sha256": "757313957ac47308f6516e7222db2c9a1ee163990925fdbeed502fab1150eab9"
+    },
+    {
+      "file": "assets/ui/icons/check.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 8462,
+      "semiTransparentPixels": 282,
+      "sha256": "6b3304d254e300984993c25034bc814baf7c64a48b8f368080df3a84f4e0d557"
+    },
+    {
+      "file": "assets/ui/icons/lock.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7044,
+      "semiTransparentPixels": 587,
+      "sha256": "67fb05f46d917730bcbf01ba351308d01a8101730916d03155db666a2afb33a0"
+    },
+    {
+      "file": "assets/ui/icons/volume.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7022,
+      "semiTransparentPixels": 654,
+      "sha256": "488047bffb5703a4d91c58d4c379a890f7a9f9d4811406f5a9a4587bdf8c74fd"
+    },
+    {
+      "file": "assets/ui/icons/music.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6856,
+      "semiTransparentPixels": 613,
+      "sha256": "6c2f759cb46bc6b72c557d24e1a13197ea88a07cceaf92a0d68f723e86aa0068"
+    },
+    {
+      "file": "assets/ui/icons/save.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 5638,
+      "semiTransparentPixels": 894,
+      "sha256": "388f38fd47ed16c064627f88f611b7647ddcf1cf72b19ca7a1288613e98c6104"
+    },
+    {
+      "file": "assets/ui/icons/upload.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7402,
+      "semiTransparentPixels": 524,
+      "sha256": "ac875fa8d045e7bfa8720f7561cc1027259b3e268d94ad889be3b66ce3cef67e"
+    },
+    {
+      "file": "assets/ui/icons/download.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7402,
+      "semiTransparentPixels": 524,
+      "sha256": "cc7b083c651c99a700939168a1558f80838e7c32a7d8694f5f788e5b63f25dbf"
+    },
+    {
+      "file": "assets/ui/icons/search.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7721,
+      "semiTransparentPixels": 458,
+      "sha256": "7107db74e0a38efdedd18a36edc86964754a915a6c2757fd50d6a31b9223dfc2"
+    },
+    {
+      "file": "assets/ui/icons/reset.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7438,
+      "semiTransparentPixels": 522,
+      "sha256": "5c5f7d23b33a3cc6e03b3ec03a24da13bed014e2711221c3b171df658027b518"
+    },
+    {
+      "file": "assets/ui/icons/help.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6802,
+      "semiTransparentPixels": 747,
+      "sha256": "e1b9a67c5be8d67a7c81a744e4a8c0614ab6d2b38f5d0cc0c1bff2d4647a8de6"
+    },
+    {
+      "file": "assets/ui/icons/portrait.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7602,
+      "semiTransparentPixels": 466,
+      "sha256": "958076402becf8022392ea56303b2dbc6eb9f9688531c167030d5a087eb55334"
+    },
+    {
+      "file": "assets/ui/icons/rotate.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 6898,
+      "semiTransparentPixels": 656,
+      "sha256": "098f849e492902d4adecae55644bf95ae619007989a490d5625f7ecf0018c93f"
+    },
+    {
+      "file": "assets/ui/effects/sparkle.png",
+      "size": [
+        96,
+        96
+      ],
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "transparentPixels": 7808,
+      "semiTransparentPixels": 256,
+      "sha256": "7b3276ade4392c94a1ce80dcfed6e89cc9e00ff8fb22008071c5866e20f269d8"
+    },
+    {
+      "file": "assets/ui/effects/soft-flare.png",
+      "size": [
+        640,
+        320
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 68318,
+      "semiTransparentPixels": 136482,
+      "sha256": "d39c1b85eb5ca8258e82c747cb214b4889d171ab58a6e3817537448a0be694d4"
+    },
+    {
+      "file": "assets/ui/effects/affection-halo.png",
+      "size": [
+        640,
+        320
+      ],
+      "alphaMin": 0,
+      "alphaMax": 199,
+      "transparentPixels": 68318,
+      "semiTransparentPixels": 136482,
+      "sha256": "c89099f82ea64b52c9af12a7b1b0ffe867527029afcbe8ea9da89511adb5b9d6"
+    },
+    {
+      "file": "assets/ui/effects/edge-aurora.png",
+      "size": [
+        1600,
+        720
+      ],
+      "alphaMin": 0,
+      "alphaMax": 40,
+      "transparentPixels": 1141316,
+      "semiTransparentPixels": 10684,
+      "sha256": "e1709b97f7a00e308b5930c77ba1a4e5616337eb0af1f398ed2db8ba0d946cd2"
+    },
+    {
+      "file": "assets/ui/gacha/reveal-s-ring.png",
+      "size": [
+        1774,
+        887
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1106265,
+      "semiTransparentPixels": 467273,
+      "sha256": "4136d6d445d5f98d318fea29d2475002724c2774b1b146b7ca9cbeb3b3ece0cf"
+    },
+    {
+      "file": "assets/ui/effects/correct-sweep.png",
+      "size": [
+        2172,
+        724
+      ],
+      "alphaMin": 0,
+      "alphaMax": 253,
+      "transparentPixels": 1213482,
+      "semiTransparentPixels": 359046,
+      "sha256": "f342961422fba8ca8bba3429ffb20beaf40094b066bc124fe82878fe97e059c1"
+    }
+  ],
+  "scope": "Static material validation only. No device gameplay tests."
+}

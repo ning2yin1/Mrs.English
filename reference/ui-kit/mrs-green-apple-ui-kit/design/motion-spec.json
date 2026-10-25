@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "implementation": "CSS/Canvas to be implemented by Codex",
+  "reducedMotion": {
+    "durationMs": 120,
+    "particles": false,
+    "rotation": false,
+    "flash": false
+  },
+  "maximumParticles": 40,
+  "effects": [
+    {
+      "id": "tab-160",
+      "asset": "assets/ui/common/nav-selected.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/common/button-primary.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/common/button-secondary.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/common/button-gold.svg"
+    },
+    {
+      "id": "gentle-breathe",
+      "asset": "assets/ui/title/start-ornament.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/title/title-halo.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/play/start-button.svg"
+    },
+    {
+      "id": "correct-450",
+      "asset": "assets/ui/play/answer-correct.svg"
+    },
+    {
+      "id": "incorrect-180",
+      "asset": "assets/ui/play/answer-incorrect.svg"
+    },
+    {
+      "id": "rank-enter",
+      "asset": "assets/ui/result/rank-c-emblem.svg"
+    },
+    {
+      "id": "rank-enter",
+      "asset": "assets/ui/result/rank-b-emblem.svg"
+    },
+    {
+      "id": "rank-enter",
+      "asset": "assets/ui/result/rank-a-emblem.svg"
+    },
+    {
+      "id": "rank-enter",
+      "asset": "assets/ui/result/rank-s-emblem.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/result/gp-gain.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/result/affection-up.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/gacha/stage-orbit.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/gacha/draw-one.svg"
+    },
+    {
+      "id": "press-100",
+      "asset": "assets/ui/gacha/draw-ten.svg"
+    },
+    {
+      "id": "card-flip",
+      "asset": "assets/ui/gacha/card-back.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/gacha/reveal-normal.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/gacha/reveal-a.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/chat/message-unlock.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/login/reward-claim.svg"
+    },
+    {
+      "id": "particle-800",
+      "asset": "assets/ui/effects/sparkle.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/effects/soft-flare.svg"
+    },
+    {
+      "id": "pulse-once",
+      "asset": "assets/ui/effects/affection-halo.svg"
+    },
+    {
+      "id": "s-reveal-2200",
+      "asset": "assets/ui/gacha/reveal-s-ring.png"
+    },
+    {
+      "id": "correct-450",
+      "asset": "assets/ui/effects/correct-sweep.png"
+    }
+  ],
+  "sReveal": {
+    "durationMs": 2200,
+    "ring": "assets/ui/gacha/reveal-s-ring.png",
+    "flashMaxOpacity": 0.12,
+    "flashCount": 1,
+    "keyEventsMs": {
+      "ringStart": 0,
+      "particles": 450,
+      "flipStart": 700,
+      "flipEnd": 1200,
+      "ringExpand": 1200,
+      "fadeOut": 1700,
+      "finish": 2200
+    }
+  },
+  "details": "docs/animation-spec.md"
+}

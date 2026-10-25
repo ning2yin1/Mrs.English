@@ -1,0 +1,152 @@
+[
+  {
+    "name": "title",
+    "title": "TITLE",
+    "file": "mockups/title-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "home",
+    "title": "HOME",
+    "file": "mockups/home-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "wallpaper",
+    "title": "WALLPAPER",
+    "file": "mockups/wallpaper-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "4×2 thumbnails; list internally scrolls to 20. thumbnail height may shrink to 84px on short devices."
+  },
+  {
+    "name": "grammar",
+    "title": "GRAMMAR",
+    "file": "mockups/grammar-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "play-easy",
+    "title": "PLAY / EASY",
+    "file": "mockups/play-easy-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "English annotations mark Japanese text placement; real prompt: 彼は歌手です。Normal/hard show a partially composed answer after two taps. Used tokens disappear from bank. Actual Japanese is rendered by system fonts on iPhone."
+  },
+  {
+    "name": "play-normal",
+    "title": "PLAY / NORMAL",
+    "file": "mockups/play-normal-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "English annotations mark Japanese text placement; real prompt: 彼は歌手です。Normal/hard show a partially composed answer after two taps. Used tokens disappear from bank. Actual Japanese is rendered by system fonts on iPhone."
+  },
+  {
+    "name": "play-hard",
+    "title": "PLAY / HARD",
+    "file": "mockups/play-hard-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "English annotations mark Japanese text placement; real prompt: 彼は歌手です。Normal/hard show a partially composed answer after two taps. Used tokens disappear from bank. Actual Japanese is rendered by system fonts on iPhone."
+  },
+  {
+    "name": "play-master",
+    "title": "PLAY / MASTER",
+    "file": "mockups/play-master-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "English annotations mark Japanese text placement; real prompt: 彼は歌手です。Normal/hard show a partially composed answer after two taps. Used tokens disappear from bank. Actual Japanese is rendered by system fonts on iPhone."
+  },
+  {
+    "name": "result",
+    "title": "RESULT",
+    "file": "mockups/result-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "cards",
+    "title": "CARDS",
+    "file": "mockups/cards-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "gacha",
+    "title": "GACHA",
+    "file": "mockups/gacha-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "gacha-ten",
+    "title": "10 DRAW RESULT",
+    "file": "mockups/gacha-ten-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "A single row scrolls horizontally. Do not squeeze ten cards into 2 short unreadable rows."
+  },
+  {
+    "name": "chat",
+    "title": "CHAT",
+    "file": "mockups/chat-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": "Scripted sample only. No live message generation or real-person claim. Conversation list and thread scroll separately."
+  },
+  {
+    "name": "login",
+    "title": "LOGIN BONUS",
+    "file": "mockups/login-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  },
+  {
+    "name": "settings",
+    "title": "SETTINGS",
+    "file": "mockups/settings-layout.png",
+    "logical_size": [
+      844,
+      390
+    ],
+    "note": ""
+  }
+]
