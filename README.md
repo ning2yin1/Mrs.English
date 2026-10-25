@@ -56,11 +56,16 @@ EASYは画面に表示する**和訳と文法項目に合う**語を選びます
 npm test                 # 600問×4モード、240完走、報酬、確率、保存検証
 npm run audit:data       # 件数と参照検証をdata/implementation-validation.jsonへ
 npm run build            # 型検査と本番ビルド
-PLAYWRIGHT_BROWSERS_PATH=/workspace/.mrs-browsers npx playwright install chromium webkit
-PLAYWRIGHT_BROWSERS_PATH=/workspace/.mrs-browsers npm run test:e2e
+PLAYWRIGHT_BROWSERS_PATH=/workspace/.mrs-browsers npm run test:e2e -- --project=chromium
+bash scripts/setup-webkit.sh   # このDebian 13クラウド環境用の初回準備
+npm run test:webkit           # 共有ライブラリの実ロード確認後にWebKitを実行
 ```
 
-システムの `/usr/bin/chromium` がある場合は自動利用します。別の実行ファイルは `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH` で指定できます。Chromiumのみの実行は `npm run test:e2e -- --project=chromium`。WebKitの取得にはPlaywrightの配布ドメインへのネットワーク許可が必要です。
+システムの `/usr/bin/chromium` がある場合は自動利用します。別の実行ファイルは `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH` で指定できます。Chromiumのみの実行は `npm run test:e2e -- --project=chromium`。WebKitの取得にはPlaywrightの配布ドメインへのネットワーク許可が必要です。このクラウド環境では許可の反映を確認済みです。
+
+`setup-webkit.sh` は公式Debianの署名付きメタデータとパッケージハッシュをAPTで検証してから、不足ライブラリを `/workspace/.mrs-system` へ展開します。sudoは不要で、システム全体のライブラリやWebKitの実行ファイル・ラッパーは書き換えません。公式MiniBrowserが使用する検索ディレクトリには、不足するライブラリへのリンクだけを追加します。
+
+Playwrightの一部の依存検査はシステムのldconfigキャッシュだけを見るため、作業領域のライブラリを検出できません。`test:webkit` は6ライブラリの実際の動的ロードを検査してから、この事前検査のみを置き換えてブラウザを起動します。署名・ハッシュ・TLS検証、ブラウザ起動、機能テストの検証は省略しません。
 
 E2Eは4難易度の完走、誤答・解説保持、再開、10連保証とスキップ、カード、チャット既読、JSON復元、ログイン二重受領防止、オフライン再読み込み、667×375 / 844×390 / 852×393 / 932×430の6タブ、全写真・WAVのHTTP応答を検証します。画像・音声のデコードも別途確認しています。
 

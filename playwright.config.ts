@@ -1,5 +1,5 @@
 import { existsSync } from "node:fs";
-import { defineConfig } from "@playwright/test";
+import { defineConfig, devices } from "@playwright/test";
 export default defineConfig({
   testDir: "./tests/e2e",
   timeout: 60000,
@@ -25,7 +25,17 @@ export default defineConfig({
         },
       },
     },
-    { name: "webkit", use: { browserName: "webkit" } },
+    {
+      // iPhone DPR=3 rendering in the headless software renderer is slower than desktop.
+      name: "webkit",
+      timeout: 120000,
+      use: {
+        ...devices["iPhone 13 landscape"],
+        browserName: "webkit",
+        viewport: { width: 844, height: 390 },
+        screen: { width: 844, height: 390 },
+      },
+    },
   ],
   webServer: {
     command: "npm run preview -- --port 4173",

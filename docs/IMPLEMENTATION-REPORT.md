@@ -43,7 +43,8 @@ IndexedDBでGP・カード・好感度・チャット・学習記録・途中回
 |全素材の明示的な保存、繰り返し保存、未閲覧写真のオフライン取得|成功|
 |全115素材のHTTP応答とMIME型|成功|
 |全画像のデコード・WAVフレーム読み取り|成功|
-|WebKitのブラウザ取得・E2E|配布先への通信が403で拒否され、未実行|
+|WebKit 27.2 デスクトップ設定 E2E|19項目成功|
+|WebKit iPhone横画面設定 E2E|実行中（タッチ・画素密度3・iPhone UA）|
 |iPhone実機Safari / ホーム画面起動|この環境からは未実施|
 
 Chromiumのまとめ実行で19項目成功した後、インポートの境界値検証を追加し、ロックファイルから再導入・再ビルドして影響するEASY完走・ガチャ・バックアップ・長文操作を再確認しています。ソース修正に対するロジックテストも再実行しています。
@@ -52,15 +53,17 @@ Chromiumのまとめ実行で19項目成功した後、インポートの境界�
 
 ## 残る確認と公開
 
-WebKit配布先 `cdn.playwright.dev` / `playwright.download.prss.microsoft.com` / `storage.googleapis.com` の許可を環境設定の下書きに保存しています。設定を反映後、次を実行してください（この作業を継続する場合はエージェントが再開します）。
+ネットワーク設定反映後、WebKit 27.2とFFmpegの公式配布ファイルを取得できました。GitHub APIへの接続も既存認証で成功し、新しいトークンは不要でした。
+
+不足していたDebian共有ライブラリはAPTの署名・ハッシュ検証を維持したまま作業領域に展開。システム全体、WebKitの実行ファイル、公式ラッパーは変更していません。公式MiniBrowserのライブラリ検索場所に不足分へのリンクを追加しています。
+
+Playwrightのdlopen事前検査はグローバルなldconfigキャッシュだけを参照するため、rootlessの配置を検出できません。`test:webkit` は必要な6ライブラリを実際に動的ロードして確認した後、この事前検査だけを置き換えて実ブラウザと全機能テストを実行します。署名・ハッシュ・TLS・機能アサーションを無効化していません。
 
 ```sh
 cd /workspace/Mrs.English
-PLAYWRIGHT_BROWSERS_PATH=/workspace/.mrs-browsers npx playwright install webkit
-PLAYWRIGHT_BROWSERS_PATH=/workspace/.mrs-browsers npm run test:e2e -- --project=webkit
+bash scripts/setup-webkit.sh  # Debian 13のこのクラウド環境で再現確認
+npm run test:webkit
 ```
-
-GitHub CLIのPR操作に必要な `api.github.com` も通信制限で拒否されたため、下書きへ追加しました。GitのHTTPSアクセスとGitHub APIへのアクセスは別です。新しいトークンを要求したり、既存認証を取り出したりしていません。
 
 iPhone実機のノッチ左右、システムキーボード、WAV/TTSの音声制約、ホーム画面起動、OSによる保存領域回収は実機での最終確認が必要です。写真分類・音声のセリフと写真の表情の好みも専門的・主観的な最終監修までは行っていません。
 
