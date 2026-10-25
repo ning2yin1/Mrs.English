@@ -1,3 +1,4 @@
+import { choosePresentation } from "./voices";
 import {
   assets,
   byQuestion,
@@ -93,8 +94,26 @@ export type Result = {
   affection: number;
   voiceId: string;
   at: string;
+  photoCardId?: string;
+  voicePlayed?: boolean;
 };
+export type Profile = {
+  nickname: string;
+  step: 1 | 2 | 3 | 4 | 5;
+  giftClaimed: boolean;
+  giftCards: string[];
+  completed: boolean;
+};
+export const freshProfile = (): Profile => ({
+  nickname: "",
+  step: 1,
+  giftClaimed: false,
+  giftCards: [],
+  completed: false,
+});
 export type Save = {
+  profile: Profile;
+  lastResultPhoto: string;
   version: 1;
   gp: number;
   cards: Record<string, number>;
@@ -112,6 +131,8 @@ export type Save = {
 export function freshSave(): Save {
   return {
     version: 1,
+    profile: freshProfile(),
+    lastResultPhoto: "",
     gp: 0,
     cards: {},
     affection: { motoki: 0, hiloto: 0, ryoka: 0 },
@@ -169,10 +190,6 @@ export function answerQuestion(
   if (!correct) s.mistakes.push(question);
   return true;
 }
-export function chooseVoice(last: string, rng = random): Voice {
-  const pool = assets.audio.filter((v) => v.id !== last);
-  return pool[Math.floor(rng() * pool.length)];
-}
 export function finish(
   s: Save,
   sessionId: string,
@@ -185,7 +202,13 @@ export function finish(
   const correct = p.answers.filter((a) => a.correct).length,
     gp = correct * rates[p.difficulty],
     affection = correct + (correct === 10 ? 5 : 0),
-    v = chooseVoice(s.lastVoice, rng);
+    presentation = choosePresentation(
+      p.member,
+      grade(correct),
+      s.lastVoice,
+      s.lastResultPhoto,
+      rng,
+    );
   const result: Result = {
     id: p.id,
     topic: p.topic,
@@ -194,7 +217,9 @@ export function finish(
     correct,
     gp,
     affection,
-    voiceId: v.id,
+    voiceId: presentation?.voiceId ?? "",
+    photoCardId: presentation?.photoCardId,
+    voicePlayed: false,
     at: new Date().toISOString(),
   };
   s.gp += gp;
@@ -207,7 +232,10 @@ export function finish(
     last: correct * 100,
   };
   s.result = result;
-  s.lastVoice = v.id;
+  if (presentation) {
+    s.lastVoice = presentation.voiceId;
+    s.lastResultPhoto = presentation.photoCardId;
+  }
   s.session = null;
   return result;
 }
@@ -218,6 +246,13 @@ export function rarity(rng = random): "C" | "B" | "A" | "S" {
 export function draw(s: Save, count: 1 | 10, rng = random): string[] {
   const cost = count === 10 ? 2700 : 300;
   if (s.gp < cost) throw Error("GPが足りません。PLAYで何度でも獲得できます。");
+  const result = rollCards(count, rng);
+  s.gp -= cost;
+  for (const id of result) s.cards[id] = (s.cards[id] ?? 0) + 1;
+  s.gacha = result;
+  return result;
+}
+export function rollCards(count: 1 | 10, rng = random): string[] {
   const ranks = Array.from({ length: count }, () => rarity(rng));
   // Conditional A/S distribution preserves the 12:3 ratio for the guaranteed slot.
   if (count === 10 && !ranks.some((r) => r === "A" || r === "S"))
@@ -226,10 +261,23 @@ export function draw(s: Save, count: 1 | 10, rng = random): string[] {
     const pool = assets.cards.filter((c) => c.rarity === r);
     return pool[Math.floor(rng() * pool.length)].id;
   });
-  s.gp -= cost;
-  for (const id of result) s.cards[id] = (s.cards[id] ?? 0) + 1;
-  s.gacha = result;
   return result;
+}
+export function claimWelcome(s: Save, rng = random): string[] {
+  if (s.profile.giftClaimed) return [...s.profile.giftCards];
+  if (s.profile.step !== 4 || !s.profile.nickname.trim())
+    throw Error("初回設定を先に完了してください。");
+  const cards = rollCards(10, rng);
+  for (const id of cards) s.cards[id] = (s.cards[id] ?? 0) + 1;
+  s.profile.giftClaimed = true;
+  s.profile.giftCards = cards;
+  return [...cards];
+}
+export function finishWelcome(s: Save) {
+  if (!s.profile.giftClaimed || s.profile.giftCards.length !== 10)
+    throw Error("初回プレゼントを受け取ってください。");
+  s.profile.completed = true;
+  s.profile.step = 5;
 }
 export function localDate(d = new Date()) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
@@ -255,7 +303,32 @@ export function validateSave(input: unknown): Save {
     );
   };
   if (!object(input)) return bad();
-  const s = input as Save;
+  const s = structuredClone(input) as Save;
+  if (s.profile === undefined) s.profile = freshProfile();
+  if (s.lastResultPhoto === undefined) s.lastResultPhoto = "";
+  const profile = s.profile;
+  if (
+    !object(profile) ||
+    typeof profile.nickname !== "string" ||
+    Array.from(profile.nickname).length > 20 ||
+    !integer(profile.step, 5) ||
+    profile.step < 1 ||
+    typeof profile.giftClaimed !== "boolean" ||
+    typeof profile.completed !== "boolean" ||
+    !Array.isArray(profile.giftCards) ||
+    ![0, 10].includes(profile.giftCards.length) ||
+    profile.giftCards.some((id) => !assets.cards.some((c) => c.id === id)) ||
+    (profile.giftClaimed
+      ? profile.giftCards.length !== 10
+      : profile.giftCards.length !== 0) ||
+    (profile.step > 1 && !profile.nickname.trim()) ||
+    (profile.completed && (profile.step !== 5 || !profile.giftClaimed)) ||
+    (profile.step === 5 && !profile.completed) ||
+    typeof s.lastResultPhoto !== "string" ||
+    (s.lastResultPhoto !== "" &&
+      !assets.cards.some((c) => c.id === s.lastResultPhoto))
+  )
+    return bad();
   const memberIds = members.map((m) => m.id),
     cardIds = new Set(assets.cards.map((c) => c.id));
   if (
@@ -385,7 +458,12 @@ export function validateSave(input: unknown): Save {
       !integer(r.correct, 10) ||
       r.gp !== r.correct * rates[r.difficulty] ||
       r.affection !== r.correct + (r.correct === 10 ? 5 : 0) ||
-      !assets.audio.some((v) => v.id === r.voiceId) ||
+      (r.voiceId !== "" && !assets.audio.some((v) => v.id === r.voiceId)) ||
+      (r.photoCardId !== undefined &&
+        !assets.cards.some(
+          (c) => c.id === r.photoCardId && c.member === r.member,
+        )) ||
+      (r.voicePlayed !== undefined && typeof r.voicePlayed !== "boolean") ||
       typeof r.at !== "string" ||
       Number.isNaN(Date.parse(r.at))
     )
