@@ -1,0 +1,601 @@
+﻿id,topicId,grade,english,japanese,grammarExplanation
+G01Q01,G01,1,I am a student.,私は学生です。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q02,G01,1,She is my sister.,彼女は私の姉です。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q03,G01,1,He is a singer.,彼は歌手です。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q04,G01,1,We are ready.,私たちは準備ができています。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q05,G01,1,They are kind.,彼らは親切です。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q06,G01,1,This is my notebook.,これは私のノートです。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q07,G01,1,The sky is blue.,空は青いです。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q08,G01,1,My father is busy.,父は忙しいです。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q09,G01,1,These flowers are beautiful.,これらの花は美しいです。,be動詞am/is/areは主語に合わせて使い分ける。
+G01Q10,G01,1,You are very brave.,あなたはとても勇敢です。,be動詞am/is/areは主語に合わせて使い分ける。
+G02Q01,G02,1,I am not tired.,私は疲れていません。,be動詞の直後にnotを置いて否定する。
+G02Q02,G02,1,She is not angry.,彼女は怒っていません。,be動詞の直後にnotを置いて否定する。
+G02Q03,G02,1,We are not late.,私たちは遅刻していません。,be動詞の直後にnotを置いて否定する。
+G02Q04,G02,1,This is not my bag.,これは私のかばんではありません。,be動詞の直後にnotを置いて否定する。
+G02Q05,G02,1,He is not a doctor.,彼は医者ではありません。,be動詞の直後にnotを置いて否定する。
+G02Q06,G02,1,They are not hungry.,彼らはお腹が空いていません。,be動詞の直後にnotを置いて否定する。
+G02Q07,G02,1,The door is not open.,ドアは開いていません。,be動詞の直後にnotを置いて否定する。
+G02Q08,G02,1,You are not alone.,あなたは一人ではありません。,be動詞の直後にnotを置いて否定する。
+G02Q09,G02,1,These shoes are not expensive.,この靴は高くありません。,be動詞の直後にnotを置いて否定する。
+G02Q10,G02,1,My brother is not at home.,弟は家にいません。,be動詞の直後にnotを置いて否定する。
+G03Q01,G03,1,Are you ready?,準備はできていますか。,be動詞を主語の前に移して疑問文を作る。
+G03Q02,G03,1,Is she your friend?,彼女はあなたの友達ですか。,be動詞を主語の前に移して疑問文を作る。
+G03Q03,G03,1,Are they students?,彼らは学生ですか。,be動詞を主語の前に移して疑問文を作る。
+G03Q04,G03,1,Is this your phone?,これはあなたの携帯電話ですか。,be動詞を主語の前に移して疑問文を作る。
+G03Q05,G03,1,Is he busy today?,彼は今日忙しいですか。,be動詞を主語の前に移して疑問文を作る。
+G03Q06,G03,1,Are we early?,私たちは早く着きましたか。,be動詞を主語の前に移して疑問文を作る。
+G03Q07,G03,1,Is the shop open?,その店は開いていますか。,be動詞を主語の前に移して疑問文を作る。
+G03Q08,G03,1,Are these seats free?,これらの席は空いていますか。,be動詞を主語の前に移して疑問文を作る。
+G03Q09,G03,1,Is your mother a teacher?,お母さんは先生ですか。,be動詞を主語の前に移して疑問文を作る。
+G03Q10,G03,1,Are you happy here?,ここで楽しく過ごしていますか。,be動詞を主語の前に移して疑問文を作る。
+G04Q01,G04,1,I play tennis.,私はテニスをします。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q02,G04,1,We study English.,私たちは英語を勉強します。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q03,G04,1,They live in Tokyo.,彼らは東京に住んでいます。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q04,G04,1,You speak clearly.,あなたははっきり話します。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q05,G04,1,I drink tea every morning.,私は毎朝お茶を飲みます。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q06,G04,1,We watch movies on Fridays.,私たちは金曜日に映画を見ます。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q07,G04,1,They walk to school.,彼らは歩いて学校へ行きます。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q08,G04,1,I love this song.,私はこの曲が大好きです。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q09,G04,1,You know the answer.,あなたは答えを知っています。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G04Q10,G04,1,We need more time.,私たちにはもっと時間が必要です。,現在形は習慣・一般的事実を表す。I/you/we/theyでは動詞の原形を使う。
+G05Q01,G05,1,She plays the piano.,彼女はピアノを弾きます。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q02,G05,1,He studies English.,彼は英語を勉強します。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q03,G05,1,My dog likes cheese.,私の犬はチーズが好きです。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q04,G05,1,Emma goes to school by bus.,エマはバスで学校へ行きます。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q05,G05,1,My father cooks dinner.,父は夕食を作ります。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q06,G05,1,The sun rises in the east.,太陽は東から昇ります。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q07,G05,1,Ken watches anime every night.,ケンは毎晩アニメを見ます。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q08,G05,1,She has two cats.,彼女は猫を二匹飼っています。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q09,G05,1,He does his homework after dinner.,彼は夕食後に宿題をします。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G05Q10,G05,1,My sister teaches music.,姉は音楽を教えています。,主語がhe/she/itなど三人称単数なら現在形の動詞に-s/-esを付ける。have→has、do→doesに注意。
+G06Q01,G06,1,I do not eat meat.,私は肉を食べません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q02,G06,1,She does not like coffee.,彼女はコーヒーが好きではありません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q03,G06,1,We do not have a car.,私たちは車を持っていません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q04,G06,1,He does not play soccer.,彼はサッカーをしません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q05,G06,1,They do not work on Sundays.,彼らは日曜日に働きません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q06,G06,1,My cat does not drink milk.,私の猫は牛乳を飲みません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q07,G06,1,I do not remember his name.,私は彼の名前を覚えていません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q08,G06,1,She does not watch television.,彼女はテレビを見ません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q09,G06,1,You do not need a ticket.,あなたに切符は必要ありません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G06Q10,G06,1,This machine does not work.,この機械は動きません。,一般動詞の否定はdo not / does not + 動詞の原形。
+G07Q01,G07,1,Do you like music?,音楽は好きですか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q02,G07,1,Does he speak Chinese?,彼は中国語を話しますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q03,G07,1,Do they live nearby?,彼らは近くに住んでいますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q04,G07,1,Does she have a bicycle?,彼女は自転車を持っていますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q05,G07,1,Do you play the guitar?,ギターを弾きますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q06,G07,1,Does your brother cook?,弟は料理をしますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q07,G07,1,Do we need umbrellas?,私たちに傘は必要ですか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q08,G07,1,Does this bus stop here?,このバスはここに停まりますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q09,G07,1,Do your friends know her?,友達は彼女を知っていますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G07Q10,G07,1,Does the library open at nine?,図書館は九時に開きますか。,一般動詞の疑問はDo / Does + 主語 + 動詞の原形。
+G08Q01,G08,1,What is your name?,あなたの名前は何ですか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q02,G08,1,Who is that person?,あの人は誰ですか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q03,G08,1,Where do you live?,どこに住んでいますか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q04,G08,1,What do you want?,何が欲しいですか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q05,G08,1,Who plays the drums?,誰がドラムを演奏しますか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q06,G08,1,Where is my key?,私の鍵はどこですか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q07,G08,1,What does she study?,彼女は何を勉強していますか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q08,G08,1,Who is your favorite singer?,好きな歌手は誰ですか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q09,G08,1,Where does this train go?,この電車はどこへ行きますか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G08Q10,G08,1,What is in the box?,箱の中には何がありますか。,whatは何、whoは誰、whereはどこ。疑問詞の後は適切な疑問文の語順にする。
+G09Q01,G09,1,When is your birthday?,誕生日はいつですか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q02,G09,1,Why are you sad?,なぜ悲しいのですか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q03,G09,1,How do you go to school?,どうやって学校へ行きますか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q04,G09,1,When does the concert start?,コンサートはいつ始まりますか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q05,G09,1,Why does he run every day?,なぜ彼は毎日走るのですか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q06,G09,1,How is your grandmother?,おばあさんはお元気ですか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q07,G09,1,When do you practice?,いつ練習しますか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q08,G09,1,Why is the door locked?,なぜドアに鍵がかかっているのですか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q09,G09,1,How do you spell your name?,名前はどうつづりますか。,whenはいつ、whyはなぜ、howはどのように。
+G09Q10,G09,1,When is the next bus?,次のバスはいつですか。,whenはいつ、whyはなぜ、howはどのように。
+G10Q01,G10,1,Open the window.,窓を開けてください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q02,G10,1,Please sit down.,座ってください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q03,G10,1,Do not touch the screen.,画面に触らないでください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q04,G10,1,Listen to this song.,この曲を聴いてください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q05,G10,1,Be careful.,気をつけてください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q06,G10,1,Turn left at the corner.,角を左に曲がってください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q07,G10,1,Please wait here.,ここで待ってください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q08,G10,1,Do not forget your bag.,かばんを忘れないでください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q09,G10,1,Keep the door closed.,ドアを閉めたままにしてください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G10Q10,G10,1,Enjoy your lunch.,昼食を楽しんでください。,命令文は動詞の原形で始める。禁止はDo not + 動詞の原形。
+G11Q01,G11,1,I can swim.,私は泳げます。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q02,G11,1,She can speak French.,彼女はフランス語を話せます。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q03,G11,1,Can you help me?,手伝ってくれますか。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q04,G11,1,He cannot drive.,彼は運転できません。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q05,G11,1,We can meet tomorrow.,私たちは明日会えます。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q06,G11,1,Can I use this chair?,この椅子を使ってもいいですか。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q07,G11,1,My sister can draw well.,妹は絵を上手に描けます。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q08,G11,1,You can leave early.,早く帰ってもいいですよ。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q09,G11,1,Can they hear us?,彼らには私たちの声が聞こえますか。,can + 動詞の原形で能力・可能・許可を表す。
+G11Q10,G11,1,I cannot find my glasses.,眼鏡が見つかりません。,can + 動詞の原形で能力・可能・許可を表す。
+G12Q01,G12,1,I am reading a book.,私は本を読んでいます。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q02,G12,1,She is cooking dinner.,彼女は夕食を作っています。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q03,G12,1,They are playing outside.,彼らは外で遊んでいます。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q04,G12,1,He is not sleeping.,彼は眠っていません。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q05,G12,1,Are you listening to me?,私の話を聞いていますか。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q06,G12,1,We are waiting for the bus.,私たちはバスを待っています。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q07,G12,1,The baby is crying.,赤ちゃんが泣いています。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q08,G12,1,My friends are dancing.,友達が踊っています。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q09,G12,1,It is raining now.,今雨が降っています。,be + 動詞の-ing形で今進行中の動作を表す。
+G12Q10,G12,1,What are you doing?,何をしていますか。,be + 動詞の-ing形で今進行中の動作を表す。
+G13Q01,G13,1,I was tired yesterday.,私は昨日疲れていました。,過去の状態はwas/wereを使う。
+G13Q02,G13,1,She was at home last night.,彼女は昨夜家にいました。,過去の状態はwas/wereを使う。
+G13Q03,G13,1,They were very happy.,彼らはとても幸せでした。,過去の状態はwas/wereを使う。
+G13Q04,G13,1,We were not ready.,私たちは準備ができていませんでした。,過去の状態はwas/wereを使う。
+G13Q05,G13,1,Was he late?,彼は遅刻しましたか。,過去の状態はwas/wereを使う。
+G13Q06,G13,1,The weather was beautiful.,天気は素晴らしかったです。,過去の状態はwas/wereを使う。
+G13Q07,G13,1,You were right.,あなたが正しかったです。,過去の状態はwas/wereを使う。
+G13Q08,G13,1,My keys were on the table.,私の鍵はテーブルの上にありました。,過去の状態はwas/wereを使う。
+G13Q09,G13,1,Were you nervous?,緊張していましたか。,過去の状態はwas/wereを使う。
+G13Q10,G13,1,The restaurant was crowded.,そのレストランは混んでいました。,過去の状態はwas/wereを使う。
+G14Q01,G14,1,I watched a movie yesterday.,私は昨日映画を見ました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q02,G14,1,She visited her aunt.,彼女はおばを訪ねました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q03,G14,1,We played soccer after school.,私たちは放課後サッカーをしました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q04,G14,1,He cleaned his room.,彼は自分の部屋を掃除しました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q05,G14,1,They studied together.,彼らは一緒に勉強しました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q06,G14,1,I walked home last night.,私は昨夜歩いて帰りました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q07,G14,1,She opened the present.,彼女はプレゼントを開けました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q08,G14,1,We enjoyed the festival.,私たちはお祭りを楽しみました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q09,G14,1,He carried the boxes.,彼は箱を運びました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G14Q10,G14,1,The concert started at seven.,コンサートは七時に始まりました。,規則動詞の過去形は原則-ed。study→studiedなどの変化に注意。
+G15Q01,G15,1,I went to the park.,私は公園へ行きました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q02,G15,1,She ate breakfast early.,彼女は早く朝食を食べました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q03,G15,1,We saw a rainbow.,私たちは虹を見ました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q04,G15,1,He bought a new hat.,彼は新しい帽子を買いました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q05,G15,1,They came home late.,彼らは遅く帰宅しました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q06,G15,1,I found a coin.,私は硬貨を見つけました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q07,G15,1,She wrote a letter.,彼女は手紙を書きました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q08,G15,1,We took many pictures.,私たちはたくさん写真を撮りました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q09,G15,1,He gave me a flower.,彼は私に花をくれました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G15Q10,G15,1,I made a sandwich.,私はサンドイッチを作りました。,不規則動詞の過去形はgo→went、see→sawなど個別に覚える。
+G16Q01,G16,1,Did you watch the game?,試合を見ましたか。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q02,G16,1,I did not go to school yesterday.,私は昨日学校へ行きませんでした。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q03,G16,1,Did she call you?,彼女はあなたに電話しましたか。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q04,G16,1,He did not eat lunch.,彼は昼食を食べませんでした。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q05,G16,1,Where did they meet?,彼らはどこで会いましたか。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q06,G16,1,We did not understand the question.,私たちは質問を理解できませんでした。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q07,G16,1,Did you find your wallet?,財布は見つかりましたか。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q08,G16,1,She did not buy the dress.,彼女はそのドレスを買いませんでした。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q09,G16,1,What did he say?,彼は何と言いましたか。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G16Q10,G16,1,I did not sleep well.,私はよく眠れませんでした。,一般動詞の過去の否定・疑問はdidを使い、後の動詞は原形に戻す。
+G17Q01,G17,1,There is a cat under the table.,テーブルの下に猫がいます。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q02,G17,1,There are three apples in the basket.,かごにリンゴが三つあります。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q03,G17,1,Is there a station nearby?,近くに駅はありますか。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q04,G17,1,There is no milk in the fridge.,冷蔵庫に牛乳がありません。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q05,G17,1,There are many books here.,ここには本がたくさんあります。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q06,G17,1,There is a problem.,問題があります。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q07,G17,1,Are there any empty seats?,空席はありますか。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q08,G17,1,There are two windows in my room.,私の部屋には窓が二つあります。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q09,G17,1,There is a park behind the school.,学校の裏に公園があります。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G17Q10,G17,1,There are no clouds today.,今日は雲がありません。,There is/are + 名詞で「〜がある・いる」。後ろの名詞の数でis/areを選ぶ。
+G18Q01,G18,1,Please call me.,私に電話してください。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q02,G18,1,I know him.,私は彼を知っています。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q03,G18,1,This book is mine.,この本は私のものです。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q04,G18,1,She likes them.,彼女は彼らが好きです。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q05,G18,1,That umbrella is hers.,あの傘は彼女のものです。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q06,G18,1,Can you help us?,私たちを手伝ってくれますか。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q07,G18,1,I gave her a gift.,私は彼女に贈り物を渡しました。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q08,G18,1,The red bicycle is his.,赤い自転車は彼のものです。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q09,G18,1,Our classroom is bigger than theirs.,私たちの教室は彼らの教室より大きいです。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G18Q10,G18,1,I will tell you the truth.,あなたに本当のことを話します。,me/him/her/us/themは目的格、mine/hers/his/theirsは所有代名詞。
+G19Q01,G19,1,I have two brothers.,私には兄弟が二人います。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q02,G19,1,There are five boxes.,箱が五つあります。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q03,G19,1,She bought three dresses.,彼女はドレスを三着買いました。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q04,G19,1,The children are playing.,子どもたちが遊んでいます。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q05,G19,1,We saw two mice.,私たちはネズミを二匹見ました。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q06,G19,1,These tomatoes are fresh.,このトマトは新鮮です。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q07,G19,1,He has four watches.,彼は腕時計を四つ持っています。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q08,G19,1,Two women entered the room.,女性が二人部屋に入りました。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q09,G19,1,I need six potatoes.,ジャガイモが六つ必要です。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G19Q10,G19,1,My feet are cold.,私の足は冷えています。,数えられる名詞は複数なら原則-s/-es。child→childrenなど不規則形もある。
+G20Q01,G20,1,The cat is on the sofa.,猫はソファの上にいます。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q02,G20,1,My birthday is in October.,私の誕生日は十月です。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q03,G20,1,We meet at six.,私たちは六時に会います。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q04,G20,1,The ball is under the chair.,ボールは椅子の下にあります。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q05,G20,1,She lives near the station.,彼女は駅の近くに住んでいます。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q06,G20,1,I study on Mondays.,私は月曜日に勉強します。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q07,G20,1,The picture is above the desk.,絵は机の上方にあります。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q08,G20,1,He arrived in the morning.,彼は朝に到着しました。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q09,G20,1,The shop is between two banks.,店は二つの銀行の間にあります。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G20Q10,G20,1,We walked through the park.,私たちは公園を通り抜けました。,atは時刻・地点、onは曜日・接触、inは月・年・範囲など。
+G21Q01,G21,2,I will call you tonight.,今夜電話します。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q02,G21,2,She will arrive tomorrow.,彼女は明日到着するでしょう。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q03,G21,2,We will help you.,私たちが手伝います。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q04,G21,2,It will rain later.,あとで雨が降るでしょう。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q05,G21,2,Will you join us?,一緒に参加しますか。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q06,G21,2,He will not forget this day.,彼はこの日を忘れないでしょう。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q07,G21,2,They will visit Kyoto next week.,彼らは来週京都を訪れます。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q08,G21,2,I will carry your bag.,あなたのかばんを運びます。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q09,G21,2,The show will begin soon.,ショーはまもなく始まります。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G21Q10,G21,2,Will she be here at noon?,彼女は正午にここにいますか。,will + 動詞の原形で未来・予測・その場の意志を表す。
+G22Q01,G22,2,I am going to study tonight.,私は今夜勉強する予定です。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q02,G22,2,She is going to buy a guitar.,彼女はギターを買う予定です。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q03,G22,2,We are going to visit Osaka.,私たちは大阪を訪れる予定です。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q04,G22,2,It is going to rain.,雨が降りそうです。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q05,G22,2,Are you going to cook dinner?,夕食を作る予定ですか。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q06,G22,2,He is not going to quit.,彼はやめるつもりはありません。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q07,G22,2,They are going to move next month.,彼らは来月引っ越す予定です。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q08,G22,2,I am going to learn Korean.,私は韓国語を学ぶつもりです。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q09,G22,2,What are you going to wear?,何を着る予定ですか。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G22Q10,G22,2,My parents are going to travel abroad.,両親は海外旅行をする予定です。,be going to + 動詞の原形で予定・根拠のある予測を表す。
+G23Q01,G23,2,You must wear a helmet.,ヘルメットを着用しなければなりません。,mustは強い義務、must notは禁止。
+G23Q02,G23,2,I must finish my homework.,宿題を終わらせなければなりません。,mustは強い義務、must notは禁止。
+G23Q03,G23,2,We must be quiet here.,ここでは静かにしなければなりません。,mustは強い義務、must notは禁止。
+G23Q04,G23,2,You must not smoke here.,ここで喫煙してはいけません。,mustは強い義務、must notは禁止。
+G23Q05,G23,2,She must leave now.,彼女は今出発しなければなりません。,mustは強い義務、must notは禁止。
+G23Q06,G23,2,Students must follow the rules.,生徒は規則を守らなければなりません。,mustは強い義務、must notは禁止。
+G23Q07,G23,2,You must not touch that wire.,その電線に触ってはいけません。,mustは強い義務、must notは禁止。
+G23Q08,G23,2,He must tell the truth.,彼は本当のことを言わなければなりません。,mustは強い義務、must notは禁止。
+G23Q09,G23,2,We must not waste water.,水を無駄にしてはいけません。,mustは強い義務、must notは禁止。
+G23Q10,G23,2,I must remember this password.,このパスワードを覚えておかなければなりません。,mustは強い義務、must notは禁止。
+G24Q01,G24,2,I have to get up early.,私は早起きしなければなりません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q02,G24,2,She has to work tomorrow.,彼女は明日働かなければなりません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q03,G24,2,You do not have to hurry.,急ぐ必要はありません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q04,G24,2,Do we have to pay now?,今支払わなければなりませんか。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q05,G24,2,He does not have to come.,彼は来る必要がありません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q06,G24,2,They have to wear uniforms.,彼らは制服を着なければなりません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q07,G24,2,I have to catch the last train.,終電に乗らなければなりません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q08,G24,2,Does she have to bring lunch?,彼女は昼食を持参しなければなりませんか。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q09,G24,2,We do not have to buy tickets.,私たちは切符を買う必要はありません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G24Q10,G24,2,My brother has to clean his room.,弟は部屋を掃除しなければなりません。,have toは必要・義務、do not have toは「必要がない」で禁止ではない。
+G25Q01,G25,2,You should drink more water.,もっと水を飲んだほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q02,G25,2,He should apologize.,彼は謝るべきです。,should + 動詞の原形で助言・勧めを表す。
+G25Q03,G25,2,We should leave early.,私たちは早く出発したほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q04,G25,2,You should not skip breakfast.,朝食を抜かないほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q05,G25,2,Should I call her?,彼女に電話したほうがいいですか。,should + 動詞の原形で助言・勧めを表す。
+G25Q06,G25,2,She should see a doctor.,彼女は医師に診てもらったほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q07,G25,2,They should practice together.,彼らは一緒に練習すべきです。,should + 動詞の原形で助言・勧めを表す。
+G25Q08,G25,2,You should not worry too much.,あまり心配しないほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q09,G25,2,We should check the weather.,天気を確認したほうがいいです。,should + 動詞の原形で助言・勧めを表す。
+G25Q10,G25,2,What should I do next?,次に何をすべきですか。,should + 動詞の原形で助言・勧めを表す。
+G26Q01,G26,2,I want to learn English.,私は英語を学びたいです。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q02,G26,2,She hopes to become a nurse.,彼女は看護師になることを望んでいます。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q03,G26,2,To travel alone is exciting.,一人旅をすることはわくわくします。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q04,G26,2,He decided to stay home.,彼は家にいることに決めました。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q05,G26,2,We plan to visit Taiwan.,私たちは台湾を訪れる予定です。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q06,G26,2,I need to buy a notebook.,ノートを買う必要があります。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q07,G26,2,They agreed to help us.,彼らは私たちを手伝うことに同意しました。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q08,G26,2,My dream is to write a novel.,私の夢は小説を書くことです。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q09,G26,2,She wants to try sushi.,彼女は寿司を食べてみたいです。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G26Q10,G26,2,It is fun to sing together.,一緒に歌うことは楽しいです。,to + 動詞の原形が名詞の働きをし「〜すること」となる。
+G27Q01,G27,2,I have a book to read.,私には読む本があります。,名詞の後のto不定詞がその名詞を説明する。
+G27Q02,G27,2,She needs something to drink.,彼女は何か飲み物が必要です。,名詞の後のto不定詞がその名詞を説明する。
+G27Q03,G27,2,We have no time to waste.,私たちには無駄にする時間がありません。,名詞の後のto不定詞がその名詞を説明する。
+G27Q04,G27,2,He found a place to sit.,彼は座る場所を見つけました。,名詞の後のto不定詞がその名詞を説明する。
+G27Q05,G27,2,I want a friend to talk to.,私は話し相手が欲しいです。,名詞の後のto不定詞がその名詞を説明する。
+G27Q06,G27,2,There are many things to learn.,学ぶべきことがたくさんあります。,名詞の後のto不定詞がその名詞を説明する。
+G27Q07,G27,2,She brought food to share.,彼女は分け合う食べ物を持ってきました。,名詞の後のto不定詞がその名詞を説明する。
+G27Q08,G27,2,I need a pen to write with.,書くためのペンが必要です。,名詞の後のto不定詞がその名詞を説明する。
+G27Q09,G27,2,He has homework to finish.,彼には終わらせる宿題があります。,名詞の後のto不定詞がその名詞を説明する。
+G27Q10,G27,2,Do you have anything to say?,何か言いたいことはありますか。,名詞の後のto不定詞がその名詞を説明する。
+G28Q01,G28,2,I went outside to get some air.,空気を吸うために外へ出ました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q02,G28,2,She studies hard to pass the exam.,彼女は試験に合格するために一生懸命勉強します。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q03,G28,2,We came here to see you.,私たちはあなたに会うためにここへ来ました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q04,G28,2,He saved money to buy a bike.,彼は自転車を買うために貯金しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q05,G28,2,I called to ask a question.,質問するために電話しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q06,G28,2,They left early to catch the train.,彼らは電車に間に合うよう早く出発しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q07,G28,2,She was happy to hear the news.,彼女はその知らせを聞いてうれしかったです。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q08,G28,2,I woke up to find snow outside.,目が覚めると外には雪が積もっていました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q09,G28,2,He practiced daily to improve.,彼は上達するために毎日練習しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q10,G28,2,We stopped to take pictures.,私たちは写真を撮るために立ち止まりました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G29Q01,G29,2,I enjoy reading comics.,私は漫画を読むことを楽しんでいます。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q02,G29,2,She likes cooking.,彼女は料理をすることが好きです。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q03,G29,2,Swimming is good exercise.,泳ぐことはよい運動です。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q04,G29,2,He finished cleaning his room.,彼は部屋の掃除を終えました。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q05,G29,2,We practiced speaking English.,私たちは英語を話す練習をしました。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q06,G29,2,Thank you for helping me.,手伝ってくれてありがとう。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q07,G29,2,I am interested in learning Chinese.,私は中国語を学ぶことに興味があります。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q08,G29,2,She stopped talking.,彼女は話すのをやめました。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q09,G29,2,They enjoy playing board games.,彼らはボードゲームをするのを楽しみます。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G29Q10,G29,2,My hobby is taking photos.,私の趣味は写真を撮ることです。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
+G30Q01,G30,2,My bag is heavier than yours.,私のかばんはあなたのものより重いです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q02,G30,2,This song is more popular than that one.,この曲はあの曲より人気があります。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q03,G30,2,Today is colder than yesterday.,今日は昨日より寒いです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q04,G30,2,She runs faster than I do.,彼女は私より速く走ります。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q05,G30,2,This puzzle is easier than the last one.,このパズルは前のものより簡単です。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q06,G30,2,My room is smaller than hers.,私の部屋は彼女の部屋より小さいです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q07,G30,2,This movie is more interesting than the book.,この映画はその本より面白いです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q08,G30,2,He is taller than his brother.,彼は弟より背が高いです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q09,G30,2,The blue dress is cheaper than the red one.,青いドレスは赤いものより安いです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G30Q10,G30,2,English is harder than I expected.,英語は思っていたより難しいです。,比較級 + thanで「〜より…」。長い形容詞にはmoreを使う。
+G31Q01,G31,2,She is the tallest in our class.,彼女はクラスで一番背が高いです。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q02,G31,2,This is the most beautiful park in town.,ここは町で一番美しい公園です。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q03,G31,2,He runs the fastest on the team.,彼はチームで一番速く走ります。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q04,G31,2,Today is the hottest day of the year.,今日は一年で一番暑い日です。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q05,G31,2,That was the funniest joke.,あれは一番面白い冗談でした。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q06,G31,2,This is the easiest question.,これは一番簡単な問題です。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q07,G31,2,My grandmother makes the best soup.,祖母は一番おいしいスープを作ります。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q08,G31,2,It is the most expensive bag in the shop.,それは店で一番高いかばんです。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q09,G31,2,She is the youngest of three sisters.,彼女は三姉妹の末っ子です。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G31Q10,G31,2,This was the worst day of my week.,これは今週で最悪の日でした。,the + 最上級で「最も…」。good→best、bad→worstに注意。
+G32Q01,G32,2,My brother is as tall as my father.,弟は父と同じくらい背が高いです。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q02,G32,2,This cake is as sweet as honey.,このケーキは蜂蜜と同じくらい甘いです。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q03,G32,2,She can run as fast as him.,彼女は彼と同じくらい速く走れます。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q04,G32,2,My phone is not as old as yours.,私の携帯はあなたのものほど古くありません。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q05,G32,2,This room is as big as that one.,この部屋はあの部屋と同じくらい大きいです。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q06,G32,2,I am not as busy as yesterday.,私は昨日ほど忙しくありません。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q07,G32,2,He is as kind as his mother.,彼は母親と同じくらい親切です。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q08,G32,2,The test was not as difficult as I expected.,テストは思っていたほど難しくありませんでした。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q09,G32,2,This bag is as light as a feather.,このかばんは羽のように軽いです。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G32Q10,G32,2,She sings as beautifully as her sister.,彼女は姉と同じくらい美しく歌います。,as + 原級 + asで「〜と同じくらい…」。否定は「〜ほど…ではない」。
+G33Q01,G33,2,I stayed home because it rained.,雨が降ったので家にいました。,becauseは理由、soは結果をつなぐ。
+G33Q02,G33,2,"She was hungry, so she made lunch.",彼女はお腹が空いたので昼食を作りました。,becauseは理由、soは結果をつなぐ。
+G33Q03,G33,2,He smiled because he was happy.,彼はうれしかったので笑いました。,becauseは理由、soは結果をつなぐ。
+G33Q04,G33,2,"The train was late, so we waited.",電車が遅れたので私たちは待ちました。,becauseは理由、soは結果をつなぐ。
+G33Q05,G33,2,I wore a coat because it was cold.,寒かったのでコートを着ました。,becauseは理由、soは結果をつなぐ。
+G33Q06,G33,2,"She studied hard, so she passed.",彼女は一生懸命勉強したので合格しました。,becauseは理由、soは結果をつなぐ。
+G33Q07,G33,2,We left early because the roads were busy.,道路が混んでいたので早く出発しました。,becauseは理由、soは結果をつなぐ。
+G33Q08,G33,2,"He forgot his umbrella, so he got wet.",彼は傘を忘れたので濡れました。,becauseは理由、soは結果をつなぐ。
+G33Q09,G33,2,I like this cafe because it is quiet.,静かなのでこのカフェが好きです。,becauseは理由、soは結果をつなぐ。
+G33Q10,G33,2,"The music was loud, so I closed the door.",音楽が大きかったのでドアを閉めました。,becauseは理由、soは結果をつなぐ。
+G34Q01,G34,2,Call me when you arrive.,着いたら電話してください。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q02,G34,2,"If it rains, we will stay home.",雨が降ったら家にいます。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q03,G34,2,I was happy when I saw her.,彼女に会ったときうれしかったです。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q04,G34,2,"If you need help, ask me.",助けが必要なら私に聞いてください。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q05,G34,2,He listens to music when he studies.,彼は勉強するとき音楽を聴きます。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q06,G34,2,"If I have time, I will visit you.",時間があればあなたを訪ねます。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q07,G34,2,Please be quiet when the baby sleeps.,赤ちゃんが寝ているときは静かにしてください。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q08,G34,2,"If she calls, tell her I am out.",彼女から電話があれば外出中だと伝えてください。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q09,G34,2,I always smile when I hear this song.,この曲を聴くといつも笑顔になります。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G34Q10,G34,2,"If you hurry, you can catch the bus.",急げばバスに間に合います。,whenは時、ifは条件。未来の話でも条件節内は原則現在形。
+G35Q01,G35,2,I think that she is right.,彼女が正しいと思います。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q02,G35,2,He said that he was tired.,彼は疲れていると言いました。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q03,G35,2,We know that the Earth is round.,私たちは地球が丸いことを知っています。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q04,G35,2,She believes that dreams can come true.,彼女は夢がかなうと信じています。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q05,G35,2,I hope that you feel better soon.,早く元気になることを願っています。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q06,G35,2,They heard that the shop was closing.,彼らはその店が閉店すると聞きました。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q07,G35,2,I am sure that he will come.,彼が来ると確信しています。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q08,G35,2,She noticed that the window was open.,彼女は窓が開いていることに気づきました。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q09,G35,2,We agreed that the plan was good.,私たちはその計画がよいという意見で一致しました。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G35Q10,G35,2,I forgot that today was a holiday.,今日が休日だということを忘れていました。,that節を動詞の目的語などとして使い「〜ということ」を表す。
+G36Q01,G36,2,I was watching TV at eight.,私は八時にテレビを見ていました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q02,G36,2,She was studying when I called.,電話したとき彼女は勉強していました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q03,G36,2,They were playing in the park.,彼らは公園で遊んでいました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q04,G36,2,He was not sleeping.,彼は眠っていませんでした。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q05,G36,2,Were you listening to music?,音楽を聴いていましたか。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q06,G36,2,We were eating dinner at that time.,そのとき私たちは夕食を食べていました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q07,G36,2,It was raining all morning.,午前中ずっと雨が降っていました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q08,G36,2,My dog was waiting at the door.,犬はドアのところで待っていました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q09,G36,2,What were you doing yesterday evening?,昨日の夕方何をしていましたか。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G36Q10,G36,2,The children were laughing loudly.,子どもたちは大声で笑っていました。,was/were + -ingで過去のある時点で進行中の動作を表す。
+G37Q01,G37,2,English is spoken in many countries.,英語は多くの国で話されています。,am/is/are + 過去分詞で現在の受動態。
+G37Q02,G37,2,This cake is made with rice flour.,このケーキは米粉で作られています。,am/is/are + 過去分詞で現在の受動態。
+G37Q03,G37,2,The room is cleaned every day.,その部屋は毎日掃除されます。,am/is/are + 過去分詞で現在の受動態。
+G37Q04,G37,2,These songs are loved by many people.,これらの曲は多くの人に愛されています。,am/is/are + 過去分詞で現在の受動態。
+G37Q05,G37,2,The door is locked at night.,そのドアは夜に施錠されます。,am/is/are + 過去分詞で現在の受動態。
+G37Q06,G37,2,Is this book sold here?,この本はここで売られていますか。,am/is/are + 過去分詞で現在の受動態。
+G37Q07,G37,2,The museum is visited by tourists.,その博物館は観光客に訪れられます。,am/is/are + 過去分詞で現在の受動態。
+G37Q08,G37,2,The letters are delivered in the morning.,手紙は朝に配達されます。,am/is/are + 過去分詞で現在の受動態。
+G37Q09,G37,2,This game is played around the world.,このゲームは世界中で遊ばれています。,am/is/are + 過去分詞で現在の受動態。
+G37Q10,G37,2,The windows are washed once a week.,窓は週に一度洗われます。,am/is/are + 過去分詞で現在の受動態。
+G38Q01,G38,2,The bridge was built in 1990.,その橋は1990年に建てられました。,was/were + 過去分詞で過去の受動態。
+G38Q02,G38,2,My bicycle was stolen yesterday.,私の自転車は昨日盗まれました。,was/were + 過去分詞で過去の受動態。
+G38Q03,G38,2,The cookies were made by my sister.,クッキーは姉によって作られました。,was/were + 過去分詞で過去の受動態。
+G38Q04,G38,2,The concert was canceled.,コンサートは中止されました。,was/were + 過去分詞で過去の受動態。
+G38Q05,G38,2,These pictures were taken in Kyoto.,これらの写真は京都で撮られました。,was/were + 過去分詞で過去の受動態。
+G38Q06,G38,2,The letter was written in English.,その手紙は英語で書かれました。,was/were + 過去分詞で過去の受動態。
+G38Q07,G38,2,The window was broken by the wind.,窓は風で割れました。,was/were + 過去分詞で過去の受動態。
+G38Q08,G38,2,Were the tickets sold out?,チケットは売り切れましたか。,was/were + 過去分詞で過去の受動態。
+G38Q09,G38,2,The lost dog was found this morning.,迷子の犬は今朝見つかりました。,was/were + 過去分詞で過去の受動態。
+G38Q10,G38,2,The song was released last year.,その曲は昨年発売されました。,was/were + 過去分詞で過去の受動態。
+G39Q01,G39,2,She gave me a present.,彼女は私にプレゼントをくれました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q02,G39,2,He showed us his photos.,彼は私たちに写真を見せました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q03,G39,2,My mother bought me a coat.,母は私にコートを買ってくれました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q04,G39,2,I sent her a message.,私は彼女にメッセージを送りました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q05,G39,2,The teacher taught us English.,先生は私たちに英語を教えました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q06,G39,2,Can you lend me a pen?,ペンを貸してくれますか。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q07,G39,2,She told me a story.,彼女は私に物語を話しました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q08,G39,2,He made his sister breakfast.,彼は妹に朝食を作りました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q09,G39,2,I asked him a question.,私は彼に質問をしました。,give/show + 人 + 物で「人に物を与える・見せる」。
+G39Q10,G39,2,Please pass me the salt.,塩を取ってください。,give/show + 人 + 物で「人に物を与える・見せる」。
+G40Q01,G40,2,You look tired.,疲れているように見えます。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q02,G40,2,That sounds interesting.,それは面白そうです。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q03,G40,2,This blanket feels soft.,この毛布は柔らかい手触りです。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q04,G40,2,The soup smells delicious.,スープはおいしそうな匂いがします。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q05,G40,2,The cake tastes sweet.,そのケーキは甘い味がします。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q06,G40,2,She looks happy today.,彼女は今日幸せそうです。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q07,G40,2,Your idea sounds great.,あなたの考えは素晴らしそうです。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q08,G40,2,The water feels cold.,水は冷たく感じます。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q09,G40,2,These flowers smell wonderful.,この花は素敵な香りがします。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G40Q10,G40,2,The milk tastes strange.,その牛乳は変な味がします。,look/sound/feelなどの後に形容詞を置き、見た目・印象・感覚を説明する。
+G41Q01,G41,3,I have visited Taiwan twice.,私は台湾を二度訪れたことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q02,G41,3,She has never eaten sushi.,彼女は一度も寿司を食べたことがありません。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q03,G41,3,Have you ever seen snow?,雪を見たことがありますか。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q04,G41,3,We have watched that movie before.,私たちは以前その映画を見たことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q05,G41,3,He has climbed Mount Fuji.,彼は富士山に登ったことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q06,G41,3,I have never ridden a horse.,私は馬に乗ったことがありません。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q07,G41,3,Has she ever traveled alone?,彼女は一人旅をしたことがありますか。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q08,G41,3,They have played on this stage.,彼らはこのステージで演奏したことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q09,G41,3,I have tried that restaurant once.,私はそのレストランを一度試したことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G41Q10,G41,3,My brother has met a famous actor.,弟は有名な俳優に会ったことがあります。,have/has + 過去分詞で現在までの経験。ever/never/beforeなどに注目。
+G42Q01,G42,3,I have lived here for five years.,私はここに五年間住んでいます。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q02,G42,3,She has known him since childhood.,彼女は子どものころから彼を知っています。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q03,G42,3,We have been friends for ten years.,私たちは十年間友達です。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q04,G42,3,He has worked here since April.,彼は四月からここで働いています。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q05,G42,3,How long have you had this phone?,この携帯をどれくらい持っていますか。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q06,G42,3,They have lived together since 2020.,彼らは2020年から一緒に住んでいます。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q07,G42,3,I have been busy all week.,私は今週ずっと忙しいです。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q08,G42,3,She has loved music since she was little.,彼女は幼いころから音楽が大好きです。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q09,G42,3,We have waited for an hour.,私たちは一時間待っています。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G42Q10,G42,3,My parents have owned this house for years.,両親は長年この家を所有しています。,have/has + 過去分詞で過去から現在まで続く状態。forは期間、sinceは起点。
+G43Q01,G43,3,I have just finished my homework.,私はちょうど宿題を終えたところです。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q02,G43,3,She has already left.,彼女はもう出発しました。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q03,G43,3,Have you eaten lunch yet?,もう昼食を食べましたか。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q04,G43,3,We have not decided yet.,私たちはまだ決めていません。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q05,G43,3,He has lost his wallet.,彼は財布をなくしてしまいました。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q06,G43,3,They have already arrived.,彼らはもう到着しています。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q07,G43,3,I have just cleaned my room.,私はちょうど部屋を掃除したところです。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q08,G43,3,Has the movie started yet?,映画はもう始まりましたか。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q09,G43,3,She has broken her glasses.,彼女は眼鏡を壊してしまいました。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G43Q10,G43,3,We have finished all the cookies.,私たちはクッキーを全部食べ終えました。,have/has + 過去分詞で完了・結果。just/already/yetに注目。
+G44Q01,G44,3,I have been studying for two hours.,私は二時間ずっと勉強しています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q02,G44,3,She has been working since morning.,彼女は朝からずっと働いています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q03,G44,3,It has been raining all day.,一日中雨が降り続いています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q04,G44,3,We have been waiting for you.,私たちはずっとあなたを待っています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q05,G44,3,He has been practicing the guitar.,彼はずっとギターを練習しています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q06,G44,3,They have been talking for an hour.,彼らは一時間話し続けています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q07,G44,3,How long have you been learning English?,どれくらい英語を学び続けていますか。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q08,G44,3,I have been looking for my keys.,私はずっと鍵を探しています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q09,G44,3,She has been reading that novel all week.,彼女は今週ずっとその小説を読んでいます。,have/has been + -ingで過去から現在まで続く動作を表す。
+G44Q10,G44,3,We have been preparing for the festival.,私たちはずっとお祭りの準備をしています。,have/has been + -ingで過去から現在まで続く動作を表す。
+G45Q01,G45,3,I have a friend who speaks Chinese.,私には中国語を話す友達がいます。,whoが人を先行詞とする関係節の主語になる。
+G45Q02,G45,3,The girl who won is my sister.,優勝した女の子は私の妹です。,whoが人を先行詞とする関係節の主語になる。
+G45Q03,G45,3,He is the teacher who helped me.,彼は私を助けてくれた先生です。,whoが人を先行詞とする関係節の主語になる。
+G45Q04,G45,3,People who love music will enjoy this.,音楽が好きな人はこれを楽しめるでしょう。,whoが人を先行詞とする関係節の主語になる。
+G45Q05,G45,3,The man who lives next door is kind.,隣に住む男性は親切です。,whoが人を先行詞とする関係節の主語になる。
+G45Q06,G45,3,I met a singer who writes her own songs.,私は自分で曲を書く歌手に会いました。,whoが人を先行詞とする関係節の主語になる。
+G45Q07,G45,3,The boy who called you is waiting.,あなたに電話した少年が待っています。,whoが人を先行詞とする関係節の主語になる。
+G45Q08,G45,3,She knows someone who can fix it.,彼女はそれを修理できる人を知っています。,whoが人を先行詞とする関係節の主語になる。
+G45Q09,G45,3,The woman who teaches art is famous.,美術を教える女性は有名です。,whoが人を先行詞とする関係節の主語になる。
+G45Q10,G45,3,We thanked the person who found our bag.,私たちはかばんを見つけてくれた人に感謝しました。,whoが人を先行詞とする関係節の主語になる。
+G46Q01,G46,3,This is a song which makes me smile.,これは私を笑顔にする曲です。,whichは物・動物を先行詞とする関係代名詞。
+G46Q02,G46,3,The book which I bought is interesting.,私が買った本は面白いです。,whichは物・動物を先行詞とする関係代名詞。
+G46Q03,G46,3,I found a key which opens this door.,私はこのドアを開ける鍵を見つけました。,whichは物・動物を先行詞とする関係代名詞。
+G46Q04,G46,3,The cake which she made was delicious.,彼女が作ったケーキはおいしかったです。,whichは物・動物を先行詞とする関係代名詞。
+G46Q05,G46,3,This is the camera which I use.,これは私が使っているカメラです。,whichは物・動物を先行詞とする関係代名詞。
+G46Q06,G46,3,The bus which goes downtown is late.,中心街へ行くバスが遅れています。,whichは物・動物を先行詞とする関係代名詞。
+G46Q07,G46,3,The picture which he painted is beautiful.,彼が描いた絵は美しいです。,whichは物・動物を先行詞とする関係代名詞。
+G46Q08,G46,3,I lost the pen which you gave me.,あなたがくれたペンをなくしました。,whichは物・動物を先行詞とする関係代名詞。
+G46Q09,G46,3,The game which we played was fun.,私たちが遊んだゲームは楽しかったです。,whichは物・動物を先行詞とする関係代名詞。
+G46Q10,G46,3,She fixed the clock which was broken.,彼女は壊れていた時計を直しました。,whichは物・動物を先行詞とする関係代名詞。
+G47Q01,G47,3,This is the movie that I love.,これは私が大好きな映画です。,thatは人・物の両方を先行詞にできる。
+G47Q02,G47,3,The dog that barked is mine.,吠えた犬は私の犬です。,thatは人・物の両方を先行詞にできる。
+G47Q03,G47,3,I know a place that sells good bread.,おいしいパンを売る場所を知っています。,thatは人・物の両方を先行詞にできる。
+G47Q04,G47,3,The letter that she wrote was long.,彼女が書いた手紙は長かったです。,thatは人・物の両方を先行詞にできる。
+G47Q05,G47,3,The man that called is my uncle.,電話してきた男性は私のおじです。,thatは人・物の両方を先行詞にできる。
+G47Q06,G47,3,This is the gift that I wanted.,これは私が欲しかった贈り物です。,thatは人・物の両方を先行詞にできる。
+G47Q07,G47,3,The shoes that he bought are red.,彼が買った靴は赤いです。,thatは人・物の両方を先行詞にできる。
+G47Q08,G47,3,The song that we heard was beautiful.,私たちが聴いた曲は美しかったです。,thatは人・物の両方を先行詞にできる。
+G47Q09,G47,3,I found the notebook that I lost.,なくしたノートを見つけました。,thatは人・物の両方を先行詞にできる。
+G47Q10,G47,3,The cat that sleeps here is friendly.,ここで眠る猫は人懐っこいです。,thatは人・物の両方を先行詞にできる。
+G48Q01,G48,3,The movie I watched was funny.,私が見た映画は面白かったです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q02,G48,3,The cake she made is delicious.,彼女が作ったケーキはおいしいです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q03,G48,3,The book you lent me is great.,あなたが貸してくれた本は素晴らしいです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q04,G48,3,The person I met was kind.,私が会った人は親切でした。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q05,G48,3,The bag he bought is expensive.,彼が買ったかばんは高価です。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q06,G48,3,The song we heard is famous.,私たちが聴いた曲は有名です。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q07,G48,3,The picture they took is beautiful.,彼らが撮った写真は美しいです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q08,G48,3,The dress I chose is blue.,私が選んだドレスは青いです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q09,G48,3,The food my mother cooked was tasty.,母が作った料理はおいしかったです。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G48Q10,G48,3,The letter she sent arrived today.,彼女が送った手紙は今日届きました。,関係代名詞が目的語なら省略できる。主語の関係代名詞は通常省略しない。
+G49Q01,G49,3,The girl singing on stage is my friend.,ステージで歌っている女の子は私の友達です。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q02,G49,3,The man standing there is my father.,そこに立っている男性は私の父です。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q03,G49,3,The dog sleeping on the sofa is cute.,ソファで眠っている犬はかわいいです。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q04,G49,3,The students waiting outside are nervous.,外で待っている生徒たちは緊張しています。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q05,G49,3,The woman wearing a red hat is a singer.,赤い帽子をかぶっている女性は歌手です。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q06,G49,3,The boy playing the piano is talented.,ピアノを弾いている少年は才能があります。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q07,G49,3,The people dancing in the street look happy.,通りで踊っている人たちは幸せそうです。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q08,G49,3,The train leaving now goes to Osaka.,今出発する電車は大阪行きです。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q09,G49,3,The cat looking at me is hungry.,私を見ている猫はお腹が空いています。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G49Q10,G49,3,The children running in the park are energetic.,公園を走っている子どもたちは元気です。,名詞 + -ing句で「〜している名詞」を後ろから説明する。
+G50Q01,G50,3,The song written by her is famous.,彼女が書いた曲は有名です。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q02,G50,3,The cake made by my mother is delicious.,母が作ったケーキはおいしいです。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q03,G50,3,The picture taken yesterday is beautiful.,昨日撮られた写真は美しいです。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q04,G50,3,The book published last year is popular.,昨年出版された本は人気があります。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q05,G50,3,The window broken by the storm was repaired.,嵐で割れた窓は修理されました。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q06,G50,3,The letters sent yesterday arrived today.,昨日送られた手紙は今日届きました。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q07,G50,3,The car parked outside is mine.,外に駐車されている車は私のものです。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q08,G50,3,The song played at the concert was new.,コンサートで演奏された曲は新曲でした。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q09,G50,3,The vegetables grown here are fresh.,ここで育てられた野菜は新鮮です。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G50Q10,G50,3,The story told by my grandfather was funny.,祖父が話した物語は面白かったです。,名詞 + 過去分詞句で「〜された名詞」を後ろから説明する。
+G51Q01,G51,3,Do you know where she lives?,彼女がどこに住んでいるか知っていますか。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q02,G51,3,I wonder what he wants.,彼が何を欲しがっているのか気になります。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q03,G51,3,Can you tell me when it starts?,いつ始まるか教えてくれますか。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q04,G51,3,I do not know why she left.,なぜ彼女が去ったのか分かりません。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q05,G51,3,Do you remember where we met?,私たちがどこで会ったか覚えていますか。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q06,G51,3,She asked me how I felt.,彼女は私がどう感じているか尋ねました。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q07,G51,3,I wonder who that person is.,あの人が誰なのか気になります。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q08,G51,3,Please tell me which bus I should take.,どのバスに乗るべきか教えてください。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q09,G51,3,He knows what time the shop opens.,彼は店が何時に開くか知っています。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G51Q10,G51,3,I cannot remember where I put my phone.,携帯をどこに置いたか思い出せません。,間接疑問文は疑問詞 + 主語 + 動詞の語順にする。
+G52Q01,G52,3,I do not know what to say.,何と言えばいいか分かりません。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q02,G52,3,She knows how to play the piano.,彼女はピアノの弾き方を知っています。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q03,G52,3,Can you tell me where to go?,どこへ行けばいいか教えてくれますか。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q04,G52,3,We must decide when to leave.,いつ出発するか決めなければなりません。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q05,G52,3,He does not know which one to choose.,彼はどれを選べばいいか分かりません。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q06,G52,3,I learned how to make curry.,私はカレーの作り方を学びました。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q07,G52,3,Please show me how to use this app.,このアプリの使い方を教えてください。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q08,G52,3,She wondered who to ask.,彼女は誰に尋ねるべきか迷いました。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q09,G52,3,We discussed what to bring.,私たちは何を持っていくか話し合いました。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G52Q10,G52,3,I cannot decide what to wear.,何を着ればいいか決められません。,what/how/where/when/which + to + 動詞の原形で「何を・どう〜すべきか」。
+G53Q01,G53,3,This bag is too heavy to carry.,このかばんは重すぎて運べません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q02,G53,3,He is too tired to study.,彼は疲れすぎて勉強できません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q03,G53,3,The coffee is too hot to drink.,コーヒーは熱すぎて飲めません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q04,G53,3,She was too nervous to speak.,彼女は緊張しすぎて話せませんでした。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q05,G53,3,It is too dark to read here.,ここは暗すぎて本を読めません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q06,G53,3,The box is too big to fit.,箱は大きすぎて入りません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q07,G53,3,I am too busy to go out.,私は忙しすぎて外出できません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q08,G53,3,The music was too loud to ignore.,音楽は大きすぎて無視できませんでした。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q09,G53,3,He is too young to drive.,彼は若すぎて運転できません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G53Q10,G53,3,This question is too difficult to answer.,この質問は難しすぎて答えられません。,too + 形容詞/副詞 + to不定詞で「…すぎて〜できない」。
+G54Q01,G54,3,She is old enough to drive.,彼女は運転できる年齢です。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q02,G54,3,The water is warm enough to swim in.,水は泳げるほど温かいです。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q03,G54,3,He is tall enough to reach the shelf.,彼は棚に届くほど背が高いです。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q04,G54,3,I have enough money to buy the ticket.,私はチケットを買うのに十分なお金があります。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q05,G54,3,The room is big enough to dance in.,その部屋は踊れるほど広いです。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q06,G54,3,She was brave enough to try.,彼女は挑戦できるほど勇敢でした。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q07,G54,3,We have enough time to finish.,私たちには終えるのに十分な時間があります。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q08,G54,3,The soup is cool enough to eat.,スープは食べられるくらい冷めています。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q09,G54,3,He is strong enough to lift the box.,彼はその箱を持ち上げられるほど力があります。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G54Q10,G54,3,This chair is comfortable enough to sleep in.,この椅子は眠れるほど快適です。,形容詞/副詞 + enough + to不定詞、またはenough + 名詞 + to不定詞。
+G55Q01,G55,3,The movie made me cry.,その映画は私を泣かせました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q02,G55,3,My mother let me stay up late.,母は私が夜更かしするのを許してくれました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q03,G55,3,His joke made us laugh.,彼の冗談は私たちを笑わせました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q04,G55,3,The teacher let us leave early.,先生は私たちが早く帰るのを許しました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q05,G55,3,The news made her smile.,その知らせは彼女を笑顔にしました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q06,G55,3,My father let me use his camera.,父は私にカメラを使わせてくれました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q07,G55,3,The loud noise made the baby wake up.,大きな音で赤ちゃんが目を覚ましました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q08,G55,3,She let her brother borrow the book.,彼女は弟にその本を貸すことを許しました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q09,G55,3,The song made everyone dance.,その曲はみんなを踊らせました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q10,G55,3,My parents let me travel alone.,両親は私が一人旅をするのを許してくれました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G56Q01,G56,3,I want you to listen.,私はあなたに聞いてほしいです。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q02,G56,3,She asked me to wait.,彼女は私に待つよう頼みました。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q03,G56,3,We want him to join us.,私たちは彼に参加してほしいです。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q04,G56,3,The teacher asked us to be quiet.,先生は私たちに静かにするよう頼みました。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q05,G56,3,My mother wants me to study.,母は私に勉強してほしいと思っています。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q06,G56,3,He asked her to call later.,彼は彼女にあとで電話するよう頼みました。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q07,G56,3,I want my friends to enjoy the party.,私は友達にパーティーを楽しんでほしいです。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q08,G56,3,They asked us to arrive early.,彼らは私たちに早く着くよう頼みました。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q09,G56,3,She wants him to be honest.,彼女は彼に正直でいてほしいです。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G56Q10,G56,3,I asked my brother to close the door.,私は弟にドアを閉めるよう頼みました。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
+G57Q01,G57,3,"If I had wings, I would fly.",もし翼があれば飛ぶのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q02,G57,3,"If I were rich, I would travel the world.",もしお金持ちなら世界を旅するのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q03,G57,3,"If she knew the answer, she would tell us.",もし彼女が答えを知っていたら教えてくれるのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q04,G57,3,"If I had more time, I would read more.",もっと時間があればもっと読むのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q05,G57,3,"If he were here, he would help.",彼がここにいれば助けてくれるのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q06,G57,3,"If it were sunny, we could go out.",晴れていれば外出できるのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q07,G57,3,"If I spoke French, I could work there.",フランス語が話せればそこで働けるのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q08,G57,3,"If we had a car, we would drive to the beach.",車があれば海まで運転するのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q09,G57,3,"If she were taller, she could reach it.",彼女の背がもっと高ければ届くのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G57Q10,G57,3,"If I knew his number, I would call him.",彼の番号を知っていれば電話するのに。,"If + 主語 + 過去形, 主語 + would/could + 原形で現在の非現実的な仮定。beはwereが基本。"
+G58Q01,G58,3,I wish I could fly.,空を飛べたらいいのに。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q02,G58,3,I wish I had more free time.,もっと自由な時間があればいいのに。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q03,G58,3,She wishes she were taller.,彼女はもっと背が高ければいいのにと思っています。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q04,G58,3,I wish it were not raining.,雨が降っていなければいいのに。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q05,G58,3,He wishes he could sing better.,彼はもっと上手に歌えたらいいのにと思っています。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q06,G58,3,I wish I knew the answer.,答えを知っていればいいのに。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q07,G58,3,We wish we lived near the sea.,私たちは海の近くに住んでいればいいのにと思います。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q08,G58,3,She wishes she had a dog.,彼女は犬を飼っていればいいのにと思っています。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q09,G58,3,I wish today were a holiday.,今日が休日ならいいのに。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G58Q10,G58,3,He wishes he could speak Japanese.,彼は日本語が話せたらいいのにと思っています。,I wish + 主語 + 過去形で現在と異なる願望を表す。
+G59Q01,G59,3,"Feeling tired, I went to bed early.",疲れていたので私は早く寝ました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q02,G59,3,"Walking home, I found a coin.",歩いて帰る途中で硬貨を見つけました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q03,G59,3,"Looking at the sky, she smiled.",空を見ながら彼女は微笑みました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q04,G59,3,"Hearing the news, he jumped up.",知らせを聞いて彼は飛び上がりました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q05,G59,3,"Not knowing the answer, I stayed silent.",答えが分からなかったので黙っていました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q06,G59,3,"Opening the box, she found a letter.",箱を開けると彼女は手紙を見つけました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q07,G59,3,"Sitting by the window, I read a book.",窓辺に座って私は本を読みました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q08,G59,3,"Seeing her friend, she waved.",友達を見かけて彼女は手を振りました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q09,G59,3,"Being hungry, we ordered pizza.",お腹が空いていたのでピザを注文しました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G59Q10,G59,3,"Listening to music, he cleaned his room.",音楽を聴きながら彼は部屋を掃除しました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
+G60Q01,G60,3,"When I arrived, she had already left.",私が着いたとき彼女はすでに出発していました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q02,G60,3,"If it rains tomorrow, we will stay home.",明日雨が降れば家にいます。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q03,G60,3,The book that I bought yesterday is interesting.,昨日買った本は面白いです。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q04,G60,3,I have been studying English since April.,私は四月からずっと英語を勉強しています。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q05,G60,3,She asked me where I had found the key.,彼女は私がどこで鍵を見つけたか尋ねました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q06,G60,3,The cake made by my sister was delicious.,妹が作ったケーキはおいしかったです。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q07,G60,3,I wish I could play the piano as well as her.,彼女と同じくらい上手にピアノを弾けたらいいのに。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q08,G60,3,He was reading when the phone rang.,電話が鳴ったとき彼は読書していました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q09,G60,3,The girl who is singing has won three prizes.,歌っている女の子は賞を三つ獲得しています。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q10,G60,3,I went to the library to find a book about space.,宇宙についての本を探すために図書館へ行きました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。

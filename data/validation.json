@@ -1,0 +1,17 @@
+{
+  "topics": 60,
+  "questions": 600,
+  "backgrounds": 20,
+  "cards": 79,
+  "audio": 16,
+  "exactDuplicateCardPairsInOriginal": [
+    [
+      "motoki-B-01",
+      "motoki-S-01"
+    ]
+  ],
+  "duplicatesExcludedFromActiveCatalog": 1,
+  "englishDuplicates": 0,
+  "allAssetsExist": true,
+  "note": "Editorial draft; human review and per-mode item QA required"
+}

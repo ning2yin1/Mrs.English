@@ -1,0 +1,996 @@
+{
+  "backgrounds": [
+    {
+      "id": "BG01",
+      "path": "assets/photos/backgrounds/bg-01.jpg",
+      "stageRange": [
+        1,
+        3
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG10",
+      "path": "assets/photos/backgrounds/bg-10.jpeg",
+      "stageRange": [
+        28,
+        30
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG11",
+      "path": "assets/photos/backgrounds/bg-11.jpg",
+      "stageRange": [
+        31,
+        33
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG12",
+      "path": "assets/photos/backgrounds/bg-12.jpeg",
+      "stageRange": [
+        34,
+        36
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG13",
+      "path": "assets/photos/backgrounds/bg-13.jpg",
+      "stageRange": [
+        37,
+        39
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG14",
+      "path": "assets/photos/backgrounds/bg-14.jpeg",
+      "stageRange": [
+        40,
+        42
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG15",
+      "path": "assets/photos/backgrounds/bg-15.jpeg",
+      "stageRange": [
+        43,
+        45
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG16",
+      "path": "assets/photos/backgrounds/bg-16.jpg",
+      "stageRange": [
+        46,
+        48
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG17",
+      "path": "assets/photos/backgrounds/bg-17.jpeg",
+      "stageRange": [
+        49,
+        51
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG18",
+      "path": "assets/photos/backgrounds/bg-18.jpeg",
+      "stageRange": [
+        52,
+        54
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG19",
+      "path": "assets/photos/backgrounds/bg-19.jpeg",
+      "stageRange": [
+        55,
+        57
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG02",
+      "path": "assets/photos/backgrounds/bg-02.jpeg",
+      "stageRange": [
+        4,
+        6
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG20",
+      "path": "assets/photos/backgrounds/bg-20.jpeg",
+      "stageRange": [
+        58,
+        60
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG03",
+      "path": "assets/photos/backgrounds/bg-03.jpeg",
+      "stageRange": [
+        7,
+        9
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG04",
+      "path": "assets/photos/backgrounds/bg-04.jpg",
+      "stageRange": [
+        10,
+        12
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG05",
+      "path": "assets/photos/backgrounds/bg-05.jpg",
+      "stageRange": [
+        13,
+        15
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG06",
+      "path": "assets/photos/backgrounds/bg-06.jpeg",
+      "stageRange": [
+        16,
+        18
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG07",
+      "path": "assets/photos/backgrounds/bg-07.jpeg",
+      "stageRange": [
+        19,
+        21
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG08",
+      "path": "assets/photos/backgrounds/bg-08.jpeg",
+      "stageRange": [
+        22,
+        24
+      ],
+      "wallpaperSelectable": true
+    },
+    {
+      "id": "BG09",
+      "path": "assets/photos/backgrounds/bg-09.jpg",
+      "stageRange": [
+        25,
+        27
+      ],
+      "wallpaperSelectable": true
+    }
+  ],
+  "cards": [
+    {
+      "id": "motoki-A-01",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-02",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-03",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-04",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-05",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-06",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-A-07",
+      "member": "motoki",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/motoki/a/motoki-a-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-01",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-02",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-03",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-04",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-05",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-06",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-B-07",
+      "member": "motoki",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/motoki/b/motoki-b-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-01",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-02",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-03",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-04",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-05",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-06",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-07",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-08",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-08.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-C-09",
+      "member": "motoki",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/motoki/c/motoki-c-09.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-S-02",
+      "member": "motoki",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/motoki/s/motoki-s-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-S-03",
+      "member": "motoki",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/motoki/s/motoki-s-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-S-04",
+      "member": "motoki",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/motoki/s/motoki-s-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "motoki-S-05",
+      "member": "motoki",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/motoki/s/motoki-s-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-01",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-02",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-03",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-04",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-05",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-06",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-A-07",
+      "member": "hiloto",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/hiloto/a/hiloto-a-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-01",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-02",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-03",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-04",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-05",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-B-06",
+      "member": "hiloto",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/hiloto/b/hiloto-b-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-01",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-02",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-03",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-04",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-05",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-06",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-07",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-08",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-08.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-09",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-09.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-C-10",
+      "member": "hiloto",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/hiloto/c/hiloto-c-10.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-S-01",
+      "member": "hiloto",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/hiloto/s/hiloto-s-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-S-02",
+      "member": "hiloto",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/hiloto/s/hiloto-s-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-S-03",
+      "member": "hiloto",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/hiloto/s/hiloto-s-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "hiloto-S-04",
+      "member": "hiloto",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/hiloto/s/hiloto-s-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-01",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-02",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-03",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-04",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-05",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-06",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-07",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-A-08",
+      "member": "ryoka",
+      "rarity": "A",
+      "category": "ライブ写真",
+      "path": "assets/photos/cards/ryoka/a/ryoka-a-08.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-01",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-02",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-03",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-04",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-05",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-B-06",
+      "member": "ryoka",
+      "rarity": "B",
+      "category": "アーティスト写真",
+      "path": "assets/photos/cards/ryoka/b/ryoka-b-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-01",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-02",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-03",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-04",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-04.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-05",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-05.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-06",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-06.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-C-07",
+      "member": "ryoka",
+      "rarity": "C",
+      "category": "オフショット",
+      "path": "assets/photos/cards/ryoka/c/ryoka-c-07.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-S-01",
+      "member": "ryoka",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/ryoka/s/ryoka-s-01.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-S-02",
+      "member": "ryoka",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/ryoka/s/ryoka-s-02.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-S-03",
+      "member": "ryoka",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/ryoka/s/ryoka-s-03.jpg",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "id": "ryoka-S-04",
+      "member": "ryoka",
+      "rarity": "S",
+      "category": "MV・コンセプト写真",
+      "path": "assets/photos/cards/ryoka/s/ryoka-s-04.jpg",
+      "objectPosition": "50% 35%"
+    }
+  ],
+  "audio": [
+    {
+      "id": "group-voice-01",
+      "member": "group",
+      "label": "拍手",
+      "path": "assets/audio/voice/group-01.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": null,
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-01",
+      "member": "motoki",
+      "label": "うぃす",
+      "path": "assets/audio/voice/motoki-01.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-02",
+      "member": "motoki",
+      "label": "えぐぅ！",
+      "path": "assets/audio/voice/motoki-02.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-03",
+      "member": "motoki",
+      "label": "オッケー",
+      "path": "assets/audio/voice/motoki-03.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-04",
+      "member": "motoki",
+      "label": "ガチでマジで",
+      "path": "assets/audio/voice/motoki-04.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-05",
+      "member": "motoki",
+      "label": "最強",
+      "path": "assets/audio/voice/motoki-05.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "motoki-voice-06",
+      "member": "motoki",
+      "label": "素敵な日だ",
+      "path": "assets/audio/voice/motoki-06.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "motoki-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "hiloto-voice-01",
+      "member": "hiloto",
+      "label": "すみません",
+      "path": "assets/audio/voice/hiloto-01.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "hiloto-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "hiloto-voice-02",
+      "member": "hiloto",
+      "label": "大丈夫",
+      "path": "assets/audio/voice/hiloto-02.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "hiloto-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "hiloto-voice-03",
+      "member": "hiloto",
+      "label": "楽しみ",
+      "path": "assets/audio/voice/hiloto-03.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "hiloto-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "hiloto-voice-04",
+      "member": "hiloto",
+      "label": "頑張れ",
+      "path": "assets/audio/voice/hiloto-04.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "hiloto-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "ryoka-voice-01",
+      "member": "ryoka",
+      "label": "あれ？",
+      "path": "assets/audio/voice/ryoka-01.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "ryoka-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "ryoka-voice-02",
+      "member": "ryoka",
+      "label": "いいよ",
+      "path": "assets/audio/voice/ryoka-02.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "ryoka-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "ryoka-voice-03",
+      "member": "ryoka",
+      "label": "お疲れ様",
+      "path": "assets/audio/voice/ryoka-03.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "ryoka-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "ryoka-voice-04",
+      "member": "ryoka",
+      "label": "わーい",
+      "path": "assets/audio/voice/ryoka-04.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "ryoka-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    },
+    {
+      "id": "ryoka-voice-05",
+      "member": "ryoka",
+      "label": "アッハッハ",
+      "path": "assets/audio/voice/ryoka-05.wav",
+      "usage": [
+        "result"
+      ],
+      "resultPhotoCardId": "ryoka-A-01",
+      "photoMatchStatus": "仮割当・セリフと表情の一致はユーザーが後から調整"
+    }
+  ]
+}
