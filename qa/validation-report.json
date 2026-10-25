@@ -1,0 +1,36 @@
+{
+  "logical_assets": 160,
+  "screens": 24,
+  "backgrounds": 8,
+  "motion_specs": 21,
+  "file_counts": {
+    ".md": 6,
+    ".png": 189,
+    ".jpg": 12,
+    ".json": 5,
+    ".csv": 2,
+    ".css": 1,
+    ".html": 1,
+    ".webp": 8,
+    ".svg": 145
+  },
+  "errors": [],
+  "checks": [
+    "画像デコード",
+    "SVG構文",
+    "素材参照",
+    "CSS/HTML参照",
+    "共通カード透明窓",
+    "ロゴ透明度",
+    "9-slice見本生成"
+  ],
+  "not_tested": [
+    "iPhone実機",
+    "ゲーム組込",
+    "写真顔位置",
+    "音声意味対応",
+    "自動再生",
+    "実データの長文",
+    "PWA更新"
+  ]
+}

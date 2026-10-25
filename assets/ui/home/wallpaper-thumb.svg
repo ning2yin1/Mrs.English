@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304" height="168" viewBox="0 0 304 168"><defs>
+ <linearGradient id="glass" x2=".2" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".98"/><stop offset=".3" stop-color="#FFF9ED" stop-opacity="1"/><stop offset="1" stop-color="#E4EAD8" stop-opacity=".98"/></linearGradient>
+ <linearGradient id="edge" x2=".8" y2="1"><stop stop-color="#F1F6FF" stop-opacity="1"/><stop offset=".4" stop-color="#CBD7E7" stop-opacity=".35"/><stop offset="1" stop-color="#CBD7E7" stop-opacity=".8"/></linearGradient>
+ <linearGradient id="accent" x2=".8" y2="1"><stop stop-color="#FFFFFF"/><stop offset=".18" stop-color="#CBD7E7"/><stop offset=".65" stop-color="#CBD7E7"/><stop offset="1" stop-color="#CBD7E7" stop-opacity=".78"/></linearGradient>
+ <linearGradient id="rainbow"><stop stop-color="#F2D68C"/><stop offset=".22" stop-color="#FF9DD4"/><stop offset=".46" stop-color="#BC9BFF"/><stop offset=".68" stop-color="#72E4FF"/><stop offset=".85" stop-color="#E1FFDB"/><stop offset="1" stop-color="#F2D68C"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#CBD7E7" stop-opacity=".55"/><stop offset=".4" stop-color="#CBD7E7" stop-opacity=".16"/><stop offset="1" stop-color="#CBD7E7" stop-opacity="0"/></radialGradient>
+ </defs><rect x="2" y="2" width="300" height="164" rx="14" fill="url(#glass)" stroke="url(#edge)" stroke-width="2"/><path d="M 22 9 H 282" fill="none" stroke="white" stroke-opacity=".2"/></svg>

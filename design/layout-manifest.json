@@ -1,0 +1,656 @@
+[
+  {
+    "screen": "home",
+    "mockup": "mockups/home.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        0,
+        0,
+        844,
+        328
+      ],
+      "play": [
+        622,
+        258,
+        182,
+        58
+      ],
+      "nav": [
+        32,
+        328,
+        780,
+        52
+      ]
+    },
+    "notes": "Background here is fallback only; replace with selected HOME photo. Keep center uncovered."
+  },
+  {
+    "screen": "grammar-select",
+    "mockup": "mockups/grammar-select.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "list": [
+        48,
+        72,
+        407,
+        216
+      ],
+      "difficulty": [
+        491,
+        147,
+        292,
+        102
+      ],
+      "start": [
+        491,
+        260,
+        294,
+        54
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "screen": "play-easy",
+    "mockup": "mockups/play-easy.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        0,
+        56,
+        844,
+        134
+      ],
+      "question": [
+        60,
+        190,
+        724,
+        44
+      ],
+      "answer": [
+        60,
+        242,
+        520,
+        52
+      ],
+      "tiles": [
+        65,
+        307,
+        502,
+        48
+      ],
+      "check": [
+        600,
+        244,
+        184,
+        54
+      ]
+    },
+    "notes": "Problem text is illustrative. Use existing data; mode rules remain existing app behavior. MASTER keyboard needs separate compact layout."
+  },
+  {
+    "screen": "play-normal",
+    "mockup": "mockups/play-normal.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        0,
+        56,
+        844,
+        134
+      ],
+      "question": [
+        60,
+        190,
+        724,
+        44
+      ],
+      "answer": [
+        60,
+        242,
+        520,
+        52
+      ],
+      "tiles": [
+        65,
+        307,
+        502,
+        48
+      ],
+      "check": [
+        600,
+        244,
+        184,
+        54
+      ]
+    },
+    "notes": "Problem text is illustrative. Use existing data; mode rules remain existing app behavior. MASTER keyboard needs separate compact layout."
+  },
+  {
+    "screen": "play-hard",
+    "mockup": "mockups/play-hard.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        0,
+        56,
+        844,
+        134
+      ],
+      "question": [
+        60,
+        190,
+        724,
+        44
+      ],
+      "answer": [
+        60,
+        242,
+        520,
+        52
+      ],
+      "tiles": [
+        65,
+        307,
+        502,
+        48
+      ],
+      "check": [
+        600,
+        244,
+        184,
+        54
+      ]
+    },
+    "notes": "Problem text is illustrative. Use existing data; mode rules remain existing app behavior. MASTER keyboard needs separate compact layout."
+  },
+  {
+    "screen": "play-master",
+    "mockup": "mockups/play-master.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        0,
+        56,
+        844,
+        134
+      ],
+      "question": [
+        60,
+        190,
+        724,
+        44
+      ],
+      "answer": [
+        60,
+        242,
+        520,
+        52
+      ],
+      "tiles": [
+        65,
+        307,
+        502,
+        48
+      ],
+      "check": [
+        600,
+        244,
+        184,
+        54
+      ]
+    },
+    "notes": "Problem text is illustrative. Use existing data; mode rules remain existing app behavior. MASTER keyboard needs separate compact layout."
+  },
+  {
+    "screen": "play-start",
+    "mockup": "mockups/play-start.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "start": [
+        254,
+        158,
+        336,
+        76
+      ]
+    },
+    "notes": "No question until intro finishes; photo unobscured."
+  },
+  {
+    "screen": "result",
+    "mockup": "mockups/result.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "photo": [
+        58,
+        72,
+        252,
+        290
+      ],
+      "score": [
+        370,
+        68,
+        390,
+        120
+      ],
+      "heart": [
+        388,
+        211,
+        94,
+        88
+      ],
+      "actions": [
+        349,
+        320,
+        438,
+        49
+      ]
+    },
+    "notes": "No common nav; no voice replay button. Heart preview is static; actual fill must use mask."
+  },
+  {
+    "screen": "gacha",
+    "mockup": "mockups/gacha.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "stage": [
+        210,
+        64,
+        424,
+        180
+      ],
+      "single": [
+        108,
+        259,
+        284,
+        54
+      ],
+      "ten": [
+        452,
+        259,
+        284,
+        54
+      ]
+    },
+    "notes": "Prices and odds are existing data, never infer from mockup."
+  },
+  {
+    "screen": "cards",
+    "mockup": "mockups/cards.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "grid": [
+        62,
+        65,
+        672,
+        251
+      ]
+    },
+    "notes": "Cards 5x2 in landscape. Use horizontal paging if 44px controls cannot fit; rank badge can move to avoid face. Mockups show placeholders."
+  },
+  {
+    "screen": "gacha-ten",
+    "mockup": "mockups/gacha-ten.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "grid": [
+        62,
+        65,
+        672,
+        251
+      ]
+    },
+    "notes": "Cards 5x2 in landscape. Use horizontal paging if 44px controls cannot fit; rank badge can move to avoid face. Mockups show placeholders."
+  },
+  {
+    "screen": "card-detail",
+    "mockup": "mockups/card-detail.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "card": [
+        90,
+        58,
+        214,
+        300
+      ],
+      "details": [
+        462,
+        97,
+        270,
+        230
+      ]
+    },
+    "notes": ""
+  },
+  {
+    "screen": "login-bonus",
+    "mockup": "mockups/login-bonus.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "rewards": [
+        49,
+        135,
+        744,
+        135
+      ],
+      "claim": [
+        294,
+        302,
+        256,
+        54
+      ]
+    },
+    "notes": "Seven pedestals form a curved garden path, not boxes. Amounts from existing rewards."
+  },
+  {
+    "screen": "chat-list",
+    "mockup": "mockups/chat-list.png",
+    "viewport": [
+      390,
+      844
+    ],
+    "regions": {
+      "header": [
+        20,
+        12,
+        350,
+        44
+      ],
+      "content": [
+        16,
+        94,
+        358,
+        640
+      ],
+      "back": [
+        24,
+        770,
+        342,
+        48
+      ]
+    },
+    "notes": "Portrait-native. Photo avatars and messages pending existing data; no invented member identity."
+  },
+  {
+    "screen": "chat-thread",
+    "mockup": "mockups/chat-thread.png",
+    "viewport": [
+      390,
+      844
+    ],
+    "regions": {
+      "header": [
+        20,
+        12,
+        350,
+        44
+      ],
+      "content": [
+        16,
+        94,
+        358,
+        640
+      ],
+      "back": [
+        24,
+        770,
+        342,
+        48
+      ]
+    },
+    "notes": "Portrait-native. Photo avatars and messages pending existing data; no invented member identity."
+  },
+  {
+    "screen": "setup-1",
+    "mockup": "mockups/setup-1.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "content": [
+        186,
+        80,
+        474,
+        190
+      ],
+      "next": [
+        294,
+        291,
+        256,
+        58
+      ]
+    },
+    "notes": "Step 4 transitions through gacha results before HOME. Preserve completion state."
+  },
+  {
+    "screen": "setup-2",
+    "mockup": "mockups/setup-2.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "content": [
+        186,
+        80,
+        474,
+        190
+      ],
+      "next": [
+        294,
+        291,
+        256,
+        58
+      ]
+    },
+    "notes": "Step 4 transitions through gacha results before HOME. Preserve completion state."
+  },
+  {
+    "screen": "setup-3",
+    "mockup": "mockups/setup-3.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "content": [
+        186,
+        80,
+        474,
+        190
+      ],
+      "next": [
+        294,
+        291,
+        256,
+        58
+      ]
+    },
+    "notes": "Step 4 transitions through gacha results before HOME. Preserve completion state."
+  },
+  {
+    "screen": "setup-4",
+    "mockup": "mockups/setup-4.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "content": [
+        186,
+        80,
+        474,
+        190
+      ],
+      "next": [
+        294,
+        291,
+        256,
+        58
+      ]
+    },
+    "notes": "Step 4 transitions through gacha results before HOME. Preserve completion state."
+  },
+  {
+    "screen": "settings",
+    "mockup": "mockups/settings.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "settings": [
+        144,
+        92,
+        475,
+        146
+      ],
+      "actions": [
+        180,
+        288,
+        482,
+        52
+      ]
+    },
+    "notes": "Use existing settings and data export semantics. Never clear progress by default."
+  },
+  {
+    "screen": "gacha-confirm",
+    "mockup": "mockups/gacha-confirm.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "dialog": [
+        202,
+        81,
+        440,
+        222
+      ]
+    },
+    "notes": "Numbers come from existing economy. Focus stays inside dialog."
+  },
+  {
+    "screen": "loading",
+    "mockup": "mockups/loading.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "logo": [
+        388,
+        147,
+        68,
+        68
+      ],
+      "ring": [
+        366,
+        125,
+        112,
+        112
+      ]
+    },
+    "notes": "Preview logo opacity is applied below."
+  },
+  {
+    "screen": "master-keyboard",
+    "mockup": "mockups/master-keyboard.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "question": [
+        60,
+        74,
+        724,
+        48
+      ],
+      "input": [
+        60,
+        136,
+        520,
+        54
+      ],
+      "check": [
+        602,
+        136,
+        180,
+        54
+      ],
+      "keyboard": [
+        0,
+        215,
+        844,
+        175
+      ]
+    },
+    "notes": "Actual landscape keyboard illustration. CSS-rotated portrait must use temporary unrotated portrait input."
+  },
+  {
+    "screen": "answer-feedback",
+    "mockup": "mockups/answer-feedback.png",
+    "viewport": [
+      844,
+      390
+    ],
+    "regions": {
+      "explanation": [
+        60,
+        198,
+        724,
+        104
+      ],
+      "next": [
+        603,
+        319,
+        180,
+        51
+      ]
+    },
+    "notes": "Success/failure icons and readable explanation are paired; never use color alone."
+  }
+]

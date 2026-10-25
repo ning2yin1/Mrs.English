@@ -1,0 +1,212 @@
+[
+  {
+    "id": "app-launch",
+    "duration_ms": 700,
+    "easing": "ease-out",
+    "trigger": "起動完了",
+    "action": "ロゴ静止、植物を下から12px、prismを.94→1、最後にHOME操作解放",
+    "asset": "assets/ui/common/leaf-corner.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "screen-transition",
+    "duration_ms": 240,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "画面遷移",
+    "action": "旧画面-12px/opacity1→0を100ms、新画面+20px→0を180ms、背景を暗転させない",
+    "asset": "assets/ui/effects/prism.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "button-press",
+    "duration_ms": 100,
+    "easing": "ease-out",
+    "trigger": "pointerdown/up",
+    "action": "押下translateY2px scale.975、離したら復帰。pointercancelも復帰",
+    "asset": "assets/ui/common/state-pressed.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "grammar-select",
+    "duration_ms": 180,
+    "easing": "ease-out",
+    "trigger": "文法選択",
+    "action": "行を右へ4px、選択ライン表示、右情報は30ms遅延して切替",
+    "asset": "assets/ui/play/grammar-selected.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "game-start",
+    "duration_ms": 950,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "STARTを押下",
+    "action": "0–200ms背景のみ、200–500ms STARTを1.25→1、500–700ms保持、700–950ms上へ抜けて設問表示",
+    "asset": "assets/ui/play/start-button.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "question-change",
+    "duration_ms": 220,
+    "easing": "ease-out",
+    "trigger": "NEXTまたは正解後",
+    "action": "タイルを30ms間隔で8px下から整列、問題帯は右から12px。前の入力を終了してから",
+    "asset": "assets/ui/play/word-mint.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "answer-correct",
+    "duration_ms": 480,
+    "easing": "ease-out",
+    "trigger": "正解判定",
+    "action": "緑チェックとCORRECT、correct-sweepを左右へ移動し消す。写真の顔に重ねない",
+    "asset": "assets/ui/effects/correct-sweep.png",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "answer-incorrect",
+    "duration_ms": 180,
+    "easing": "ease-in-out",
+    "trigger": "不正解判定",
+    "action": "不正解ラベルと×、解答帯だけ左右3pxを1往復。解説はその後表示",
+    "asset": "assets/ui/play/answer-incorrect.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "score-count",
+    "duration_ms": 800,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "リザルト入場後300ms",
+    "action": "0→最終値を同じ正規化時刻で算出。固定幅数字で揺れを防ぐ",
+    "asset": "assets/ui/result/result-ornament.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "gp-gain",
+    "duration_ms": 600,
+    "easing": "ease-out",
+    "trigger": "カウント開始",
+    "action": "GPアイコンを1→1.12→1、+GPを18px上げて残す。実付与は演出と分離",
+    "asset": "assets/ui/icons/gp.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "heart-fill",
+    "duration_ms": 1000,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "好感度獲得",
+    "action": "heart-mask内で液面上昇、数値と同じ時刻。4〜8粒のハートを上方へ36px飛ばす",
+    "asset": "assets/ui/result/heart-mask.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "heart-full",
+    "duration_ms": 420,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "上限到達",
+    "action": "scale1→1.12→.97→1、光輪1回。複数レベル分なら上限で区切り再び0から増加",
+    "asset": "assets/ui/result/heart-glass.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "rank-reveal",
+    "duration_ms": 500,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "結果入場後100ms",
+    "action": "Cは青白い光6粒/Bは青10粒/Aは紫16粒/Sは虹24粒。全ランクの数字可読性を維持",
+    "asset": "assets/ui/result/rank-s-emblem.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "gacha-start",
+    "duration_ms": 450,
+    "easing": "ease-in",
+    "trigger": "確定した抽選開始",
+    "action": "確認UIを閉じ、中央カードを20px浮上、軌道を.8→1",
+    "asset": "assets/ui/gacha/stage-orbit.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "gacha-loop",
+    "duration_ms": 900,
+    "easing": "linear",
+    "trigger": "抽選結果準備中",
+    "action": "prismとbubbleを軌道周回。最大3秒で結果表示へ。通信中はスキップで処理を再送しない",
+    "asset": "assets/ui/effects/bubble.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "card-reveal",
+    "duration_ms": 520,
+    "easing": "ease-out",
+    "trigger": "カード結果表示",
+    "action": "カード裏→rotateY90deg、260msで表へ差し替え→0deg、backface非表示",
+    "asset": "assets/ui/gacha/card-back.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "s-reveal",
+    "duration_ms": 1800,
+    "easing": "cubic-bezier(.22,1,.36,1)",
+    "trigger": "取得カードがS",
+    "action": "0–300ms虹リング.4→1、300–700ms輝点24粒、700msカード公開、1800ms入力解放。白い全面フラッシュなし",
+    "asset": "assets/ui/gacha/reveal-s-ring.png",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "ten-results",
+    "duration_ms": 1200,
+    "easing": "ease-out",
+    "trigger": "10連結果表示",
+    "action": "5×2を左上→右下に70msずつ入場、各400ms。スキップで全カードを即表示。重複バッジは裏返し終了後",
+    "asset": "assets/ui/gacha/ten-result-slot.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "login-claim",
+    "duration_ms": 650,
+    "easing": "ease-out",
+    "trigger": "報酬受取成功",
+    "action": "報酬アイコンを1→1.2→1で跳ね、光粒10個。7日目は虹光輪追加。処理成功後だけ演出",
+    "asset": "assets/ui/login/reward-pedestal.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "chat-notification",
+    "duration_ms": 320,
+    "easing": "ease-out",
+    "trigger": "未読到着",
+    "action": "バッジscale.6→1.12→1、一覧は1回だけ上に2px。連続点滅なし",
+    "asset": "assets/ui/common/notification-badge.svg",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  },
+  {
+    "id": "loading",
+    "duration_ms": 900,
+    "easing": "linear",
+    "trigger": "表示遅延100ms後も読込中",
+    "action": "中央ロゴはopacity.3・静止。外周リングのみ360度回転。完了/エラー時停止",
+    "asset": "assets/branding/mrs_green_apple_loading_symbol.png",
+    "skip": "結果値を確定して最終静止状態へ。二重付与/音声再発火なし。",
+    "reduced_motion": "1msで最終状態。loadingは静止リングと読み込み中文字。"
+  }
+]
