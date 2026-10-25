@@ -24,7 +24,7 @@ G03Q02,G03,1,Is she your friend?,彼女はあなたの友達ですか。,be動�
 G03Q03,G03,1,Are they students?,彼らは学生ですか。,be動詞を主語の前に移して疑問文を作る。
 G03Q04,G03,1,Is this your phone?,これはあなたの携帯電話ですか。,be動詞を主語の前に移して疑問文を作る。
 G03Q05,G03,1,Is he busy today?,彼は今日忙しいですか。,be動詞を主語の前に移して疑問文を作る。
-G03Q06,G03,1,Are we early?,私たちは早く着きましたか。,be動詞を主語の前に移して疑問文を作る。
+G03Q06,G03,1,Are we early?,私たちは予定より早いですか。,be動詞を主語の前に移して疑問文を作る。
 G03Q07,G03,1,Is the shop open?,その店は開いていますか。,be動詞を主語の前に移して疑問文を作る。
 G03Q08,G03,1,Are these seats free?,これらの席は空いていますか。,be動詞を主語の前に移して疑問文を作る。
 G03Q09,G03,1,Is your mother a teacher?,お母さんは先生ですか。,be動詞を主語の前に移して疑問文を作る。
@@ -276,7 +276,7 @@ G28Q04,G28,2,He saved money to buy a bike.,彼は自転車を買うために貯�
 G28Q05,G28,2,I called to ask a question.,質問するために電話しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
 G28Q06,G28,2,They left early to catch the train.,彼らは電車に間に合うよう早く出発しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
 G28Q07,G28,2,She was happy to hear the news.,彼女はその知らせを聞いてうれしかったです。,to不定詞は目的「〜するために」や感情の原因などを表す。
-G28Q08,G28,2,I woke up to find snow outside.,目が覚めると外には雪が積もっていました。,to不定詞は目的「〜するために」や感情の原因などを表す。
+G28Q08,G28,2,I woke up to find snow outside.,目が覚めると外には雪が積もっていました。,「目覚めると〜だと分かった」という結果のto不定詞。ここでは目的「〜するために」ではなく、目覚めた結果気づいたことを表す。
 G28Q09,G28,2,He practiced daily to improve.,彼は上達するために毎日練習しました。,to不定詞は目的「〜するために」や感情の原因などを表す。
 G28Q10,G28,2,We stopped to take pictures.,私たちは写真を撮るために立ち止まりました。,to不定詞は目的「〜するために」や感情の原因などを表す。
 G29Q01,G29,2,I enjoy reading comics.,私は漫画を読むことを楽しんでいます。,動詞の-ing形が名詞として「〜すること」を表す。前置詞の後も-ing。
@@ -546,7 +546,7 @@ G55Q04,G55,3,The teacher let us leave early.,先生は私たちが早く帰る�
 G55Q05,G55,3,The news made her smile.,その知らせは彼女を笑顔にしました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
 G55Q06,G55,3,My father let me use his camera.,父は私にカメラを使わせてくれました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
 G55Q07,G55,3,The loud noise made the baby wake up.,大きな音で赤ちゃんが目を覚ましました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
-G55Q08,G55,3,She let her brother borrow the book.,彼女は弟にその本を貸すことを許しました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
+G55Q08,G55,3,She let her brother borrow the book.,彼女は弟がその本を借りるのを許しました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
 G55Q09,G55,3,The song made everyone dance.,その曲はみんなを踊らせました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
 G55Q10,G55,3,My parents let me travel alone.,両親は私が一人旅をするのを許してくれました。,make/let + 人 + 動詞の原形で「人に〜させる」。letは許可。
 G56Q01,G56,3,I want you to listen.,私はあなたに聞いてほしいです。,want/ask + 人 + to不定詞で「人に〜してほしい・頼む」。
@@ -589,11 +589,11 @@ G59Q07,G59,3,"Sitting by the window, I read a book.",窓辺に座って私は本
 G59Q08,G59,3,"Seeing her friend, she waved.",友達を見かけて彼女は手を振りました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
 G59Q09,G59,3,"Being hungry, we ordered pizza.",お腹が空いていたのでピザを注文しました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
 G59Q10,G59,3,"Listening to music, he cleaned his room.",音楽を聴きながら彼は部屋を掃除しました。,現在分詞句を文頭などに置き、理由・時・付帯状況を簡潔に表す。中学範囲を超える発展内容。
-G60Q01,G60,3,"When I arrived, she had already left.",私が着いたとき彼女はすでに出発していました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q01,G60,3,"When I arrived, she had already left.",私が着いたとき彼女はすでに出発していました。,arrivedは過去形、had already leftは過去完了形。到着するより前に出発が完了していたことを示す（発展）。
 G60Q02,G60,3,"If it rains tomorrow, we will stay home.",明日雨が降れば家にいます。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
 G60Q03,G60,3,The book that I bought yesterday is interesting.,昨日買った本は面白いです。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
 G60Q04,G60,3,I have been studying English since April.,私は四月からずっと英語を勉強しています。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
-G60Q05,G60,3,She asked me where I had found the key.,彼女は私がどこで鍵を見つけたか尋ねました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
+G60Q05,G60,3,She asked me where I had found the key.,彼女は私がどこで鍵を見つけたか尋ねました。,askedは過去形。where I had foundは間接疑問の平叙文語順で、尋ねた時より前の発見を過去完了で表す（発展）。
 G60Q06,G60,3,The cake made by my sister was delicious.,妹が作ったケーキはおいしかったです。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
 G60Q07,G60,3,I wish I could play the piano as well as her.,彼女と同じくらい上手にピアノを弾けたらいいのに。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
 G60Q08,G60,3,He was reading when the phone rang.,電話が鳴ったとき彼は読書していました。,複数の文法を組み合わせた総合問題。時制の前後関係と修飾の範囲を確認する。
